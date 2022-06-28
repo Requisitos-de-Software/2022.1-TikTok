@@ -1,0 +1,17 @@
+site_name: Latam
+site_description: Repositório do Projeto de Requisitos - Latam
+repo_url: https://github.com/Requisitos-de-Software/2022.1-Grupo-07 
+dev_addr: '127.0.0.1:8000'
+edit_uri: ""
+
+theme:
+    name: material
+    logo: 
+    favicon: 
+    palette:
+        primary: deep purple
+    features:
+        - navigation.tabs
+
+plugins:
+    - search
