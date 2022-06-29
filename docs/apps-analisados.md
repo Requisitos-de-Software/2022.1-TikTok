@@ -27,7 +27,7 @@
 
 ## 3. Referências
 
-Google Play Store - iFood: Pedir Comida e Mercado. Disponível em < https://play.google.com/store/apps/details?id=br.com.brainweb.ifood >. Acesso em: 29/06/2022
-Google Play Store - Cartola Oficial. Disponível em < https://play.google.com/store/apps/details?id=br.com.mobits.cartolafc >. Acesso em: 29/06/2022
-Google Play Store - Smart Fit. Disponível em < https://play.google.com/store/search?q=smart%20fit&c=apps >. Acesso em: 29/06/2022
-Google Play Store - LATAM Airlines.Disponível em < https://play.google.com/store/search?q=latam&c=apps >. Acesso em: 29/06/2022
+Google Play Store - iFood: Pedir Comida e Mercado. Disponível em < https://play.google.com/store/apps/details?id=br.com.brainweb.ifood >. Acesso em: 29/06/2022<br>
+Google Play Store - Cartola Oficial. Disponível em < https://play.google.com/store/apps/details?id=br.com.mobits.cartolafc >. Acesso em: 29/06/2022<br>
+Google Play Store - Smart Fit. Disponível em < https://play.google.com/store/search?q=smart%20fit&c=apps >. Acesso em: 29/06/2022<br>
+Google Play Store - LATAM Airlines.Disponível em < https://play.google.com/store/search?q=latam&c=apps >. Acesso em: 29/06/2022<br>
