@@ -1,47 +1,28 @@
-<div class="container text-justify">
-	<div class="row">
-		<div class="col card">
-			<div class="card-header"> 
-				<img class="card-img img-fluid rounded"width="128" height="128" src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-LATAM-Airlines/main/docs/img/logo_discord.png">
-			</div>
-			<div class="card-body"> 
-				<p>O Discord será utilizado como ferramenta para comunicação online. Caso não seja possível fazer de forma presencial será onde faremos as reuniões de planejamento.</p>
-			</div>
-		</div>
-        <div class="col card">
-			<div class="card-header"> 
-				<img class="card-img img-fluid rounded" width="128" height="128" src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-LATAM-Airlines/main/docs/img/logo_github.png">
-			</div>
-			<div class="card-body">  
-				<p>O Github será utilizado como repositório dos documentos produzidos e para o versionamento dos mesmos.</p>
-			</div>
-		</div>
-        <div class="col card">
-			<div class="card-header"> 
-				<img class="card-img img-fluid rounded" width="128" height="128" src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-LATAM-Airlines/main/docs/img/Logo_lucid.png">
-			</div>
-			<div class="card-body"> 
-				<p>O LucidCharts será utilizado para a criação dos diversos diagramas e esquemas necessários para a modelagem dos Requisitos</p>
-			</div>
-		</div>
-	</div>
-	<br>
-	<div class="row justify-content-center">
-			<div class="col-4 card">
-				<div class="card-header"> 
-					<img class="card-img img-fluid rounded" width="128" height="128" src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-LATAM-Airlines/main/docs/img/logo_wpp.png">
-				</div>
-				<div class="card-body"> 
-					<p>O WhatsApp foi o software escolhido como o sistema de mensagens possibilitando uma  comunicação mais ágil e constante do grupo.</p>
-				</div>
-			</div>
-			<div class="col-4 card">
-				<div class="card-header">  
-					<img class="card-img img-fluid rounded" width="128" height="128" src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-LATAM-Airlines/main/docs/img/logo_zenhub.png">
-				</div>
-				<div class="card-body"> 
-					<p>O ZenHub será utilizado para a organização e planejamento do grupo, controlando as datas de entrega de artefatos, apresentações e gerando métricas de acompanhamento. Onde está presente o Kanban do projeto.</p>
-				</div>
-			</div>
-	</div>
-</div>
+# Ferramentas
+## Versionamento
+
+| Versão | Data | Modificação | Autor |
+|-|-|:-:|:-:|
+| 1.0 | 29/06/2022 | Adição das ferramentas do projeto | João Victor Correia |
+
+*Tabela 1: versionamento*
+
+## Introdução
+<p> As ferramentas serão softwares utilizados pelo time do projeto para facilitar o gerenciamento, comunicação e desenvolvimento da documentação necessária para o tema utilizado na disciplina. Projeto esse que o foco será a análise de requisitos do aplicativo da LATAM </p>
+
+*Tabela 2: introdução*
+
+## Ferramentas utilizadas
+
+||Ferramenta|Finalidade|
+|:-:|:-:|-|
+|  <img class="card-img img-fluid rounded" width="200" height="128" src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-LATAM-Airlines/main/docs/img/logo_github.png"> | Github | Será utilizado como repositório dos documentos produzidos e para o versionamento dos mesmos. |
+| <img class="card-img img-fluid rounded" width="200" height="128" src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-LATAM-Airlines/main/docs/img/Logo_lucid.png">| Lucidchart | Será utilizado para a criação dos diversos diagramas e esquemas necessários para a modelagem dos Requisitos |
+|  <img class="card-img img-fluid rounded" width="200" height="128" src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-LATAM-Airlines/main/docs/img/logo_wpp.png">| WhatApp | Foi o software escolhido como o sistema de mensagens possibilitando uma  comunicação mais ágil e constante do grupo. |
+|  <img class="card-img img-fluid rounded" width="200" height="128" src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-LATAM-Airlines/main/docs/img/logo_zenhub.png">| Zenhub | Utilizado para a organização e planejamento do grupo, controlando as datas de entrega de artefatos, apresentações e gerando métricas de acompanhamento. Onde está presente o Kanban do projeto. |
+
+*Tabela 3: Tabela contendo as ferramentas utilizadas no projeto*
+
+## Referências
+<p>Wiki Requisitos - Planejamento - Ferramentas. Disponível em: https://requisitos-de-software.github.io/2021.2-MedSUS/about/tools/. Acesso em: 29 de junho de 2022.</p>
+
