@@ -5,7 +5,7 @@
 
 | Versão | Autor             | Alterações                         |
 |:------:| ----------------- | ---------------------------------- |
-|  1.0   | Mateus Caltabiano | abertura do documento de cronograma |
+|  1.0   | Mateus Caltabiano | Abertura do documento de cronograma |
 
 ## 2. Introdução
 
