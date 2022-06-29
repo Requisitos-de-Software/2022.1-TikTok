@@ -18,7 +18,7 @@
 		</div>
         <div class="col card">
 			<div class="card-header"> 
-				<img class="card-img img-fluid rounded" width="128" height="128" src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-LATAM-Airlines/main/docs/img/logo_lucid.png">
+				<img class="card-img img-fluid rounded" width="128" height="128" src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-LATAM-Airlines/main/docs/img/Logo_lucid.png">
 			</div>
 			<div class="card-body"> 
 				<p>O LucidCharts será utilizado para a criação dos diversos diagramas e esquemas necessários para a modelagem dos Requisitos</p>
