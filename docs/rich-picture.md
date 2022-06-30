@@ -1,6 +1,4 @@
 # Rich Picture
-
-
 ## 1. Versionamento
 
 | Versão | Autor             | Alterações                         |
@@ -13,7 +11,7 @@
 
 
 ## 3. Metodologia
-Para realizar a síntese desse artefato foi estudado o ambiente do aplicativo e analisado suas funcionabilidades, com o uso da ferramenta LucidChart foi possível compor o Rich Picture, desenhando todas as relações elucidadas.
+Para realizar a síntese desse artefato foi estudado o ambiente do aplicativo e analisado suas funcionabilidades, com o uso da ferramenta Lucidchart foi possível compor o Rich Picture, desenhando todas as relações elucidadas.
 
 ## 4. Rich Picture
 ### Versão 1.0
