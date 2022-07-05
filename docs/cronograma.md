@@ -3,9 +3,10 @@
 
 ## 1. Versionamento
 
-| Versão | Autor             | Alterações                         |
-|:------:| ----------------- | ---------------------------------- |
+| Versão | Autor             | Alterações                          |
+|:------:| ----------------- | ----------------------------------- |
 |  1.0   | Mateus Caltabiano | Abertura do documento de cronograma |
+|  1.1   | Mateus Caltabiano | Adição do detalhamento da Sprint 0  |
 
 ## 2. Introdução
 
@@ -26,5 +27,34 @@
 |   8    | 18/08--25/08 | Pós-Rastreabilidade                                                    |
 |   9    | 25/08--13/09 | Finalização do projeto                                                 |
 
-## 4. Referências
-DE SALES, André. Plano de ensino -- Requisitos de Software -- 01/2022. Aprender3, 2022. Disponível em: < https://aprender3.unb.br/pluginfile.php/2124392/mod_resource/content/19/Plano_de_Ensino%20RE%20202201%20Turma%202.pdf > . Acesso em: 28/06/2022
+## 4.Detalhamento das Sprints
+
+### Sprint 0
+
+
+
+| Início | Fim   |
+| ------ | ----- |
+| 23/06  | 30/06 |
+
+
+
+| Issue | Título                             | Responsáveis                 | Revisor |
+| ----- | ---------------------------------- | ---------------------------- | ------- |
+| #01   | Criação da Homepage do projeto     | Pedro Henrique               | N/A     |
+| #02   | Estrutura Github Pages             | Iago Cabral                  | N/A     |
+| #03   | Cronograma do projeto              | Mateus Caltabiano            | N/A     |
+| #04   | Rich Picture                       | Matheus Soares               | N/A     |
+| #05   | Ferramentas e Metodologia          | João Victor                  | N/A     |
+| #06   | Vídeo                              | Matheus Perillo              | N/A     |
+| #07   | Adicionando Logos da Latam         | Iago Cabral                  | N/A     |
+| #08   | Apps analisados                    | Mateus Caltabiano            | N/A     |
+| #09   | Adicionando a homepage do GH-Pages | Pedro Henrique e Iago Cabral | N/A     |
+| #10   | Adicionando o README               | Iago Cabral                  | N/A     |
+| #11   | Adição de descrição Rich Picture   | Matheus Soares               | N/A     |
+| #12   | Atualização da estrutura do mkdocs | Iago Cabral                  | N/A     |
+
+
+
+## 5. Referências
+>DE SALES, André. Plano de ensino -- Requisitos de Software -- 01/2022. Aprender3, 2022. Disponível em: < https://aprender3.unb.br/pluginfile.php/2124392/mod_resource/content/19/Plano_de_Ensino%20RE%20202201%20Turma%202.pdf > . Acesso em: 28/06/2022
