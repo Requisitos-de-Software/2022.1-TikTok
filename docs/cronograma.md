@@ -7,6 +7,7 @@
 |:------:| ----------------- | ----------------------------------- |
 |  1.0   | Mateus Caltabiano | Abertura do documento de cronograma |
 |  1.1   | Mateus Caltabiano | Adição do detalhamento da Sprint 0  |
+|  1.2   | Mateus Caltabiano | Adição do detalhamento da Sprint 1  |
 
 ## 2. Introdução
 
@@ -27,7 +28,7 @@
 |   8    | 18/08--25/08 | Pós-Rastreabilidade                                                    |
 |   9    | 25/08--13/09 | Finalização do projeto                                                 |
 
-## 4.Detalhamento das Sprints
+## Detalhamento das Sprints
 
 ### Sprint 0
 
@@ -51,9 +52,25 @@
 | #08   | Apps analisados                    | Mateus Caltabiano            | N/A     |
 | #09   | Adicionando a homepage do GH-Pages | Pedro Henrique e Iago Cabral | N/A     |
 | #10   | Adicionando o README               | Iago Cabral                  | N/A     |
-| #11   | Adição de descrição Rich Picture   | Matheus Soares               | N/A     |
-| #12   | Atualização da estrutura do mkdocs | Iago Cabral                  | N/A     |
+| #11   | Adição de descrição Rich Picture   | Matheus Soares               |    N/A     |
+| #12   | Atualização da estrutura do mkdocs | Iago Cabral                  |   N/A      |
 
+### Sprint 1
+
+| Início | Fim   |
+| ------ | ----- |
+| 30/06  | 07/07 |
+
+| Issue | Título                               | Responsáveis                      | Revisor           |
+| ----- | ------------------------------------ | --------------------------------- | ----------------- |
+| #13   | Atualização do Rich Picture          | Mateus Caltabiano, Matheus Soares | João Victor       |
+| #14   | Atualização do cronograma - Sprint 0 | Mateus Caltabiano                 | João Victor       |
+| #15   | Atualização do cronograma - Sprint 1 | Mateus Caltabiano                 | João Victor       |
+| #16   | Alterações em Aplicativos Analisados | João Victor                       | Matheus Soares    |
+| #17   | Alterações no artefato Rich Picture  | Matheus Soares                    | Iago Cabral       |
+| #18   | Alterar home page do projeto         | Pedro Henrique                    | Matheus Perillo   |
+| #19   | Adicionar legendas                   | Matheus Perillo                   | Pedro Henrique    |
+| #20   | Atualizar a gh-pages                 | Iago Cabral                       | Mateus Caltabiano |
 
 
 ## 5. Referências
