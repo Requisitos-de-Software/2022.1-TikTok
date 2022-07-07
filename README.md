@@ -6,9 +6,9 @@
 
  Repositório destinado ao desenvolvimento do trabalho da disciplina Requisitos de Software na Universidade de Brasília - Faculdade do Gama (UnB - FGA). Nele estará mantido todo o processo de desenvolvimento da disciplina, como gerência(pré-rastreabilidade, pós-rastreabilidade), elicitação, modelagem e análise. O aplicativo escolhido foi o TikTok, o qual será estudado e analisado conforme as métricas indicadas pela matéria.
   
-## O que é a Latam.
+## O que é TikTok.
  
- LATAM Airlines Brasil, anteriormente TAM Linhas Aéreas, é uma companhia aérea sediada em São Paulo, atualmente considerada a maior empresa do segmento do Brasil. Faz parte da LATAM Airlines Group, uma holding chileno-brasileira com atuação também na Argentina, Colômbia, Equador, Paraguai e Peru. Desde o dia 5 de maio de 2016 a companhia adotou a marca LATAM Airlines como última fase da fusão da TAM com a chilena LAN.
+ TikTok, antigamente conhecido como musica.ly,  é um aplicativo de mídia para criar e compartilhar vídeos curtos . De propriedade da companhia de tecnologia chinesa ByteDance, o aplicativo de mídia foi lançado como Douyin na China em setembro de 2016, e introduzido no mercado internacional como musical.ly um ano depois, porém em novembro de 2017 o TikTok comprou o Musical.ly. O aplicativo ganhou popularidade global no final de 2018 e comeco de 2019.
 
 ## Desenvolvedores.🤝
 
