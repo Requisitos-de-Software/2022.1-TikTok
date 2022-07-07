@@ -4,6 +4,8 @@
 | Versão | Autor             | Alterações                         |
 |:------:| ----------------- | ---------------------------------- |
 |  1.0   | Matheus Soares | Confecção da primeira versão do Rich Picture |
+|  1.1   | Matheus Perillo | Adição de legenda na imagem |
+
 
 ## 2. Introdução
 
@@ -14,9 +16,20 @@
 Para realizar a síntese desse artefato foi estudado o ambiente do aplicativo e analisado suas funcionabilidades, com o uso da ferramenta Lucidchart foi possível compor o Rich Picture, desenhando todas as relações elucidadas.
 
 ## 4. Rich Picture
-### Versão 1.0
+
+<div style="font-size: 24px">
+<div style="text-align: center">
+ Versão 1.0
+</div>
+</div>
+
 
 <img class="card-img img-fluid rounded" width="800" height="400" src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-LATAM-Airlines/main/docs/img/RichPictureTikTok.png">
+
+<div style="text-align: center">
+Imagem 1: Rich Picture 
+</div>
+
 
 ## 5. Referências
 > MONK, Andrew; HOWARD, Steve. Methods & tools: the rich picture: a tool for reasoning about work context. York: na, 1998. Disponível em: https://sswm.info/sites/default/files/reference_attachments/MONK%20and%20HOWARD%201998%20Methods%20and%20Tools%20the%20Rich%20Picture%20a%20Tool%20for%20Reasoning%20About%20Work%20Context.pdf. Acesso em: 28 jun. 2022.
