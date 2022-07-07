@@ -1,5 +1,5 @@
 #  
-  <img width="400" src="https://github.com/Requisitos-de-Software/2022.1-LATAM-Airlines/blob/main/docs/img/latam_site_logo.png?raw=true">
+  <img width="400" src="https://t.ctcdn.com.br/LlCIGVqm3EqYg5DBnCiHeDhw9Vw=/61x33:1179x662/1118x629/smart/i370243.jpeg">
 </p>
  
 ## Sobre o Projeto.
