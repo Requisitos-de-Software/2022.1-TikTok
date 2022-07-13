@@ -26,8 +26,9 @@ A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, 
 |**Habilidades**|Didi Souza, como professor, sempre se interessou muito em aprender novas habilidades, sempre se desafiando a conhecer e aprender.
 |**Tarefas**| Todos os dias, Didi entra no tik tok e utiliza o aplicativo por alguns minutos para fixar o que entendeu sobre e aprender novas tecnologias que o app tem a oferecer.
 |**Relacionamentos**| Didi se relaciona principalmente com sua esposa e seus dois filhos. Secundariamente, Didi se relaciona com seus ex-amigos de trabalhos.
-|**Expectivativas**| Didi espera enteder todos os funcionamentos do Tik Tok e ser um usuario pleno até o final do ano.
-<br><br><br>
+|**Requisitos**| Para usuarios com pouca familiaridade com tecnologias, Didi julga ser muito importante o app Tik Tok ser intuitivo e de facil uso.
+|**Expectivativas**| Didi espera enteder todos os funcionamentos do Tik Tok e ser um usuario pleno até o final do ano.|
+
 
 ### 3.2 Karen Patricia
 |     |                                                                                   |               
@@ -40,8 +41,8 @@ A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, 
 |**Habilidades**|Karen Patricia sempre possuiu um talento nato para artes e artesanatos, além de, ser apaixonada por musica, aprendeu a tocar piano com 15 anos e atualmente ja sabe tocar 4 instrumentos musicais.
 |**Tarefas**| Todos os dias, Karen estuda para sua graduação e tenta ao maximo estudar teatro, pois tem o sonho de ser uma atriz principal em uma peça da Broadway, alem disso, Karen estuda diariamente instrumentos musicais, para aperfeiçoar suas habilidades como instrumentista.
 |**Relacionamentos**| Karen se relacionamenta principalmente com seus amigos e colegas da compania de artes, gosta de falar sobre assuntos que envolva danças e teatro.
-|**Expectivativas**| Karen Patricia tem como expectitativa atua como atriz principal em uma peça da BroadWay e conseguir tocar 10 instrumentos musicais.
-<br><br><br>
+|**Requisitos**| Para usuarios que não tem como intuito utilizar o app com frequencia. Karen julga que dever ser importante o algoritmo do Tik Tok mostrar os videos que são do seu interrese e ter um metodo de pesquisa por temas especificos.
+|**Expectivativas**| Karen Patricia tem como expectitativa atua como atriz principal em uma peça da BroadWay e conseguir tocar 10 instrumentos musicais.|
 
 ### 3.3 Bruno Bertti
 
