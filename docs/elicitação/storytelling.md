@@ -1,10 +1,11 @@
 # Storytelling
 ## Versionamento
 
-| Versão | Data       |                     Modificação                      |        Autor        |
-| ------ | ---------- |:----------------------------------------------------:|:-------------------:|
-| 1.0    | 13/07/2022 | Abertura do documento e escrita da primeira história | João Victor Correia |
-| 1.1    | 13/07/2022 |         Desenvolvimento da segunda história          |  Mateus Caltabiano  |
+| Versão | Data       |                                              Modificação                                               |        Autor        |
+| ------ | ---------- |:------------------------------------------------------------------------------------------------------:|:-------------------:|
+| 1.0    | 13/07/2022 |                          Abertura do documento e escrita da primeira história                          | João Victor Correia |
+| 1.1    | 13/07/2022 |                                  Desenvolvimento da segunda história                                   |  Mateus Caltabiano  |
+| 1.1.1  | 13/07/2022 | Correção de erro na história 2: o sonho de vida da personagem estava diferente do documento de persona |  Mateus Caltabiano  |
 
 ## Introdução
 <p> Essa técnica contempla a elicitação de requisitos atráves de histórias contadas por usuários. Com elas é possível descrever o que as pessoas fazem, quais tarefas realizam e quais informações são necessárias ou geradas através das ações realizadas. É muito mais fácil de se identificar com algo através de narrativas [Sommerville, 2019, p. 102].  </p>
@@ -21,7 +22,7 @@ A partir da criação de personas e de seus perfis, foi desenvolvido um storytel
 ### Trazendo alegria para a nação (Jade Picon)
 
 &emsp; &emsp; Com muito tempo livre no início da pandemia, Jade começou a utilizar o TikTok e encontrou nele uma excelente maneira de passar seu tempo com uma infinidade de vídeos. O tempo voava enquanto Jade assistia um vídeo atrás do outro, "arrastando pra cima", curtindo e comentando seus favoritos e seguindo os perfis dos melhores criadores de conteúdo.
-&emsp; &emsp; Com a volta da faculdade por meio do ensino à distância, o TikTok continuou acompanhando ela entre uma aula e outra. Focada em seu sonho de conseguir um emprego em uma multinacional, não era problema pra ela conseguir discernir tempo para os estudos e tempo para o lazer, pois sabia o quanto era importante continuar trabalhando duro na faculdade para virar uma das melhores em sua área.
+&emsp; &emsp; Com a volta da faculdade por meio do ensino à distância, o TikTok continuou acompanhando ela entre uma aula e outra. Focada em seu sonho de se tornar pediatra, não era problema pra ela conseguir discernir tempo para os estudos e tempo para o lazer, pois sabia o quanto era importante continuar trabalhando duro na faculdade para virar uma das melhores em sua área.
 &emsp; &emsp; Recentemente as aulas voltaram a ser presenciais e Jade adorava mostrar os vídeos que ela mais gostava para seus amigos. Todo dia ela abria a aba de vídeos curtidos em seu perfil, que já ficavam salvos automaticamente. Bastava dar um duplo clique na tela para curtir ou clicar no coraçãozinho e ele ficava salvo automaticamente. Seus amigos se deliciavam com os vídeos que ela assistia, às vezes precisavam até pausá-los para rir e até voltar o vídeo para a parte mais engraçada para assistir novamente. Sabendo disso, ela não deixava de enviar para aqueles amigos que faltaram no dia, assim eles podiam respondê-la pelo chat, sendo possível deixar marcado o vídeo ao qual a resposta era encaminhada.
 &emsp; &emsp; Infelizmente, Jade emprestou seu celular para uma amiga e ela acabou derrubando ele no chão. Não teve volta, a queda foi feia e o celular parou de funcionar. Jade resolveu trocar de marca e foi da Samsung para a Apple. Ficou receosa ao pensar que o aplicativo poderia funcionar apenas em dispositivos Android, mas para sua alegria ele está disponível na Apple Store também.
 
