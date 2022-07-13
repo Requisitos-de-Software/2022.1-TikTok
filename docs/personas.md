@@ -61,6 +61,23 @@ A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, 
   |**Expectivativas**|Lucas Berti tem a expectativa de se tornar um dos maiores criadores de conteudo da plataforma.|
 
 
+### 3.4 Jade Picon
+
+
+
+|     |                                                                                   |               
+|:--- | --------------------------------------------------------------------------------- |
+|**Nome**| Jade Picon |
+|  **Foto**   | <img width="200px" src="https://thispersondoesnotexist.com/image"><p>Figura 4, Jade Picon</p> 
+|**Descrição** | Jade Picon, 21 anos de idade e moradora de Brasília.<br> Jade é uma estudante de medicina pela Universidade de Brasília. <br> Mulher. <br>Solteira.<br> Moradora da Asa Norte, Brasília. |
+|**Status**| Persona primária.|
+|**Objetivos**| Desde sempre, Jade foi influenciada pelos seus pais, ambos médicos, a seguir na área da medicina. Com um incrível amor por crianças, Jade planeja se tornar uma pediatra e abrir sua própria clinica medica.   |
+|**Habilidades**| Jade sempre foi uma menina muito estudiosa, tem uma incrível capacidade de memorização. Mas, no seu tempo livre, Jade pratica hipismo e já ganhou algumas competições.  |
+|**Tarefas**|Atualmente, Jade estuda quase que o tempo todo para o curso de medicina, mas quando arranja um tempo, vai para pistar treinar hipismo. |
+|**Relacionamentos**|Pela falta de tempo, Jade praticamente só se relaciona com seus colegas de faculdade, seus pais e seu treinador.  | 
+|**Requisitos**| Com a pandemia e com o adiantamente do semestre 2020/1, Jade ficou com muito tempo livre, então decidiu começar a usar o  TikTok como uma forma de distração, desde então, Jade usar o aplicativo diariamente. Para Jade é necessário assistir seus vídeos, curtir, seguir os influenciadores que ela mais gosta, salvar os vídeos e compartilhar com seus amigos.   |
+|**Expectivativas**|Jade tem a expectativa de se formar e especializar em pediatria e abrir sua própria clinica. |
+
 
 
 
