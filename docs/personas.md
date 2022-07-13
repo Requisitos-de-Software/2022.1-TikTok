@@ -79,7 +79,11 @@ A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, 
 |**Expectivativas**|Jade tem a expectativa de se formar e especializar em pediatria e abrir sua própria clinica. |
 
 
+## 4. Referências
 
+> This Person Doest Not Exist. Acesso em: 10 de jul. de 2022. . Disponível em: https://thispersondoesnotexist.com <br>
+> TikTok.  Acesso em: 04 de jul. de 2022. Disponível em: https://thispersondoesnotexist.com<br>
+>AVELINO, Luis Gustavo. 2019.2-Duolingo. 2019. Disponível em: https://github.com/Requisitos-de-Software/2019.2-Duolingo/blob/master/docs/elicitacao/Entrevista.md. Acesso em: 12 jul. 2022.
 
 
 
