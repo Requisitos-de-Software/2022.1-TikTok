@@ -1,5 +1,5 @@
 #  
-  <img width="400" src="https://t.ctcdn.com.br/LlCIGVqm3EqYg5DBnCiHeDhw9Vw=/61x33:1179x662/1118x629/smart/i370243.jpeg">
+  <img width="400" src="https://t.ctcdn.com.br/LlCIGVqm3EqYg5DBnCiHeDhw9Vw=/61x33:1179x662/1118x629/smart/i370243.jpeg" align="center">
 </p>
  
 ## Sobre o Projeto.
@@ -8,7 +8,7 @@
   
 ## O que é TikTok.
  
- TikTok, antigamente conhecido como musica.ly,  é um aplicativo de mídia para criar e compartilhar vídeos curtos . De propriedade da companhia de tecnologia chinesa ByteDance, o aplicativo de mídia foi lançado como Douyin na China em setembro de 2016, e introduzido no mercado internacional como musical.ly um ano depois, porém em novembro de 2017 o TikTok comprou o Musical.ly. O aplicativo ganhou popularidade global no final de 2018 e comeco de 2019.
+ TikTok, antigamente conhecido como musica.ly,  é um aplicativo de mídia para criar e compartilhar vídeos curtos . De propriedade da companhia de tecnologia chinesa ByteDance, o aplicativo de mídia foi lançado como Douyin na China em setembro de 2016, e introduzido no mercado internacional como musical.ly um ano depois, porém em novembro de 2017 o TikTok comprou o Musical.ly. O aplicativo ganhou popularidade global no final de 2018 e começo de 2019.
 
 ## Desenvolvedores.🤝
 
