@@ -50,7 +50,7 @@ A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, 
 |     |                                                                                   |               
 |:--- | --------------------------------------------------------------------------------- |
 |**Nome**| Lucas Bertti |
-|  **Foto**   | <img width="200px" src="https://thispersondoesnotexist.com/image"><p>Figura 1</p> 
+|  **Foto**   | <img width="200px" src="https://thispersondoesnotexist.com/image"><p>Figura 3, Lucas Bertti</p> 
 |**Descrição** | Lucas Bertti, 18 anos de idade e morador de Brasília.<br> Lucas está se formando em Comunicação Organizacional, focado na a área de Social Media, e atualmente trabalha como influenciador digital. <br> Homem. <br>Solteiro.<br> Morador do Noroeste, Brasília. |
 |**Status**| Persona primária.|
 |**Objetivos**|Desde pequeno, Lucas sempre se mostrou uma pessoa criativa, fazendo aulas de teatro, desenho e música, com o objetivo de se tornar famoso. Com a pandemia, Lucas percebeu que uma das formas de realizar seu sonho era se tornando um influenciador digital, com isso, viu no TikTok uma oportunidade de crescer no ramo do entretenimento.  |
