@@ -50,7 +50,7 @@ A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, 
 |     |                                                                                   |               
 |:--- | --------------------------------------------------------------------------------- |
 |**Nome**| Lucas Bertti |
-|  **Foto**   | <img width="200px" src="https://thispersondoesnotexist.com/image"><p>Figura 3, Lucas Bertti</p> 
+|  **Foto**   | <img width="200px" src="https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/img/bertti.png?raw=true"><p>Figura 3, Lucas Bertti</p> 
 |**Descrição** | Lucas Bertti, 18 anos de idade e morador de Brasília.<br> Lucas está se formando em Comunicação Organizacional, focado na a área de Social Media, e atualmente trabalha como influenciador digital. <br> Homem. <br>Solteiro.<br> Morador do Noroeste, Brasília. |
 |**Status**| Persona primária.|
 |**Objetivos**|Desde pequeno, Lucas sempre se mostrou uma pessoa criativa, fazendo aulas de teatro, desenho e música, com o objetivo de se tornar famoso. Com a pandemia, Lucas percebeu que uma das formas de realizar seu sonho era se tornando um influenciador digital, com isso, viu no TikTok uma oportunidade de crescer no ramo do entretenimento.  |
@@ -68,7 +68,7 @@ A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, 
 |     |                                                                                   |               
 |:--- | --------------------------------------------------------------------------------- |
 |**Nome**| Jade Picon |
-|  **Foto**   | <img width="200px" src="https://thispersondoesnotexist.com/image"><p>Figura 4, Jade Picon</p> 
+|  **Foto**   | <img width="200px" src="https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/img/imagem_2022-07-13_195233964.png?raw=true"><p>Figura 4, Jade Picon</p> 
 |**Descrição** | Jade Picon, 21 anos de idade e moradora de Brasília.<br> Jade é uma estudante de medicina pela Universidade de Brasília. <br> Mulher. <br>Solteira.<br> Moradora da Asa Norte, Brasília. |
 |**Status**| Persona primária.|
 |**Objetivos**| Desde sempre, Jade foi influenciada pelos seus pais, ambos médicos, a seguir na área da medicina. Com um incrível amor por crianças, Jade planeja se tornar uma pediatra e abrir sua própria clinica medica.   |
