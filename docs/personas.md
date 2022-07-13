@@ -12,7 +12,7 @@ A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, 
 |     |                                                                                   |               
 |:--- | --------------------------------------------------------------------------------- |
 |**Nome**| Didi Santo Souza |
-|  **Foto**   | <img width="200px" src="https://this-person-does-not-exist.com/img/avatar-94d017f87a0386ae25d06ced4bcf0238.jpg"><p>Figura 1</p> 
+|  **Foto**   | <img width="200px" src="https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/img/persona_didi.png?raw=true"><p>Figura 1 Didi Persona</p> 
 |**Descrição** | Didi Souza, idade de 46 anos, morador de Brasilia.<br> Professor aposentado pela secretaria de educação, especializado em geografia.<br>Homem. <br>Casado e possui um casal de filhos, Sophia e Lucas. <br>Mora na Asa Norte, Brasilia.|
 |**Status** | Persona primária.|
 |**Objetivos**|Didi nunca se deu muito bem com as novas tecnologias, como computador e smartphones, mas durante a pandemia ele se desafiou e começou a aprender como utiliza-los, pois queria interagir mais com seus filhos, que passam muito tempo nos celulares, em especial no Tik Tok. Sendo assim, Didi instalou o tik tok para aprender a usa-lo. Além disso, está a procura de algo que se relaciona com seus gostos na plataforma e videos que ele julga interessantes.|
@@ -26,7 +26,7 @@ A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, 
 |     |                                                                                   |               
 |:--- | --------------------------------------------------------------------------------- |
 |**Nome**| Karen Patricia|
-|  **Foto**   | <img width="200px" src="https://this-person-does-not-exist.com/img/avatar-771b00eb87bc8adeb3656c51fe11fcfc.jpg"><p>Figura 1</p> 
+|  **Foto**   | <img width="200px" src="https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/img/persona_karen.png?raw=true"><p>Figura 2 Karen persona</p> 
 |**Descrição** | Karen Patricia, idade de 28 anos moradora de Brasilia<br> Karen atualmente faz arte cenicas na UnB, sua segunda graduação e trabalha na Bella & Cia, uma compania de artes.<br>Mulher. <br>Solteira.<br>Moradora do Lago Sul, Brasilia.|
 |**Status** | Antipersona.|
 |**Objetivos**|Karen sempre se interessou no campo das artes, formada em artes plásticas e graduando em cenicas. Karen possui como objetivo de vida, ser minimalista e sempre está em contato com a natureza. Adotou um estilo de vida que tenta usar ao minimo smartphones, principalmente redes sociais.|
