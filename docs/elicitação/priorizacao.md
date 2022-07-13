@@ -29,7 +29,7 @@ Para que a priorização fosse feita, nós, equipe, nos reunimos via Discord ond
 ### 3.1 Must
 
 | Identificador | Requisito                                                                                                                              |
-| :-----------: | :------------------------------------------------------------------------------------------------------------------------------------- |
+| :-----------: | :-----------------------------------------------------------------------------------------------------------------------------------:|
 |     RF01      | O aplicativo deve mostrar os vídeos na timeline.                                                                       |
 |     RNF01      | O aplicativo deve operar em sistemas mobile mais tradicionais(Android/IOS).                                               |
 |     RF02      | O app deve disponibilizar busca.                                                                                                       |
@@ -48,7 +48,7 @@ Para que a priorização fosse feita, nós, equipe, nos reunimos via Discord ond
 ### 3.2 Should
 
 | Identificador | Requisito                                                                    |
-| :-----------: | :--------------------------------------------------------------------------- |
+| :-----------: | :---------------------------------------------------------------------------: |
 |     RNF02      | O app deve ser otimizado para a experiência mobile.                          |
 |     RNF03     | O app deve ter um design bonito e familiar |
 |     RF04      | O usuário deve ser capaz de ver o próprio perfil.                                   |
@@ -63,7 +63,7 @@ Para que a priorização fosse feita, nós, equipe, nos reunimos via Discord ond
 ### 3.3 Could
 
 | Identificador | Requisito                                                                                                                               |
-| :-----------: | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| :-----------: | :----------------------------------------------------------------------------------------------------------------------------------: |
 |     RF07      | A ferramenta de busca deve ser diponibilizada ao abrir o app.                                                           |
 | RF13 | O usuário deve ser capaz de privar o seu perfil.|
 | RF16 | O usuário deve ser capaz de criar pasta de vídeos favoritos.|
@@ -72,7 +72,7 @@ Para que a priorização fosse feita, nós, equipe, nos reunimos via Discord ond
 ### 3.4 Won't
 
 | Identificador | Requisito                                                                                                                |
-| :-----------: | :----------------------------------------------------------------------------------------------------------------------- |
+| :-----------: | :-----------------------------------------------------------------------------------------------------------------------: |
 |     RF06      | O usuário deve ser capaz de conversar por mensagens com outros usuários                        |
 | RF14 | O usuário deve ser capaz de saber quem visualizou seu perfil.|
 
