@@ -76,7 +76,7 @@ A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, 
 |**Tarefas**|Atualmente, Jade estuda quase que o tempo todo para o curso de medicina, mas quando arranja um tempo, vai para pistar treinar hipismo. |
 |**Relacionamentos**|Pela falta de tempo, Jade praticamente só se relaciona com seus colegas de faculdade, seus pais e seu treinador.  | 
 |**Requisitos**| Com a pandemia e com o adiantamente do semestre 2020/1, Jade ficou com muito tempo livre, então decidiu começar a usar o  TikTok como uma forma de distração, desde então, Jade usar o aplicativo diariamente. Para Jade é necessário assistir seus vídeos, curtir, seguir os influenciadores que ela mais gosta, salvar os vídeos e compartilhar com seus amigos.   |
-|**Expectivativas**|Jade tem a expectativa de se formar e especializar em pediatria e abrir sua própria clinica. |
+|**Expectivativas**|Jade tem a expectativa de se formar e se especializar em pediatria e abrir sua própria clinica. |
 
 
 ## 4. Referências
