@@ -82,7 +82,7 @@ A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, 
 ## 4. Referências
 
 > This Person Doest Not Exist. Acesso em: 10 de jul. de 2022. . Disponível em: https://thispersondoesnotexist.com <br>
-> TikTok.  Acesso em: 04 de jul. de 2022. Disponível em: https://thispersondoesnotexist.com<br>
+> TikTok.  Acesso em: 04 de jul. de 2022. Disponível em: https://www.tiktok.com<br>
 
 
 
