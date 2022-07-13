@@ -4,5 +4,6 @@
 |:--- | --------------------------------------------------------------------------------- |
 |**Nome**| Lucas Bertti |
 |  **Foto**   | <img width="200px" src="https://thispersondoesnotexist.com/image"><p>Figura 1</p> 
-|**Descrição** | Estudante de Engenharia de Software, 18 anos, <p>Homem, solteiro, mora em Brasilia.|
-|**Obejetivo**| Mesmo sendo um estudande ta unb, Lucas Bertti<p> tem com sonho virar um criador de conteudo. Para que seu sonho vire realidade, Lucas cria conteudos para o TikTok em busca do estrelato.|
+|**Descrição** | Estudante de Engenharia de Software.<br> 20 anos. <br>Mulher. <br>Solteira. <br>Mora em Brasilia.|
+|**Obejetivo**|Jade é uma entusiasta de tecnologia, desde pequena sempre sonhou em se tornar uma engenheira, com o passar dos anos Jade encontrou um novo amor em Desenvolvimento de Software. Hoje em dia, Jade sonha em conseguir um emprego em uma empresa multinacional onde vai conseguir mudar a vida de muitas outras pessoas com seu conhecimento.|
+  |**Experiência**|Com o começo da pandemia e muito tempo livre, Jade baixou o tiktok pela primeira vez em 2020, desde então Jade usa o aplicativo diariamente no seu tempo livre, assistindo vídeos.|
