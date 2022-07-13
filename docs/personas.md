@@ -1,4 +1,10 @@
-# Personas
+# Persona
+
+## Versionamento
+| Versão | Data | Modificação | Autor |
+|-|-|:-:|:-:|
+| 1.0 | 13/07/2022 | Adição das personas do projeto | Iago de Paula Cabral |
+
 
 ## 1. Introdução
   Este é um método de elicitação muito utilizado, inclusive existem metodologias de projeto guiadas por personas. São pessoas fictícias criadas pelos desenvolvedores e projetistas de sistemas, para representar os usuários importantes para guiar a elicitação de requisitos e funcionalidades. São de muita valia, pois criam uma percepção tangível dos usuários para os envolvidos no desenvolvimento do software. Os usuários se tornam menos abstratos e genéricos. É também uma importante ferramenta de síntese de ideias, de forma que o nome de uma persona já evoca, na mente dos desenvolvedores, todas as necessidades e objetivos ligados àquela persona. Determinamos de inicio, as persona primárias e a anti-persona.
@@ -19,7 +25,8 @@ A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, 
 |**Habilidades**|Didi Souza, como professor, sempre se interessou muito em aprender novas habilidades, sempre se desafiando a conhecer e aprender.
 |**Tarefas**| Todos os dias, Didi entra no tik tok e utiliza o aplicativo por alguns minutos para fixar o que entendeu sobre e aprender novas tecnologias que o app tem a oferecer.
 |**Relacionamentos**| Didi se relaciona principalmente com sua esposa e seus dois filhos. Secundariamente, Didi se relaciona com seus ex-amigos de trabalhos.
-|**Expectivativas**| Didi espera enteder todos os funcionamentos do Tik Tok e ser um usuario pleno até o final do ano.
+|**Expectivativas**| Didi espera enteder todos os funcionamentos do Tik Tok e ser um usuario pleno até o final do ano.|
+
 <br><br><br>
 
 ### 3.2 Karen Patricia
@@ -33,7 +40,8 @@ A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, 
 |**Habilidades**|Karen Patricia sempre possuiu um talento nato para artes e artesanatos, além de, ser apaixonada por musica, aprendeu a tocar piano com 15 anos e atualmente ja sabe tocar 4 instrumentos musicais.
 |**Tarefas**| Todos os dias, Karen estuda para sua graduação e tenta ao maximo estudar teatro, pois tem o sonho de ser uma atriz principal em uma peça da Broadway, alem disso, Karen estuda diariamente instrumentos musicais, para aperfeiçoar suas habilidades como instrumentista.
 |**Relacionamentos**| Karen se relacionamenta principalmente com seus amigos e colegas da compania de artes, gosta de falar sobre assuntos que envolva danças e teatro.
-|**Expectivativas**| Karen Patricia tem como expectitativa atua como atriz principal em uma peça da BroadWay e conseguir tocar 10 instrumentos musicais.
+|**Expectivativas**| Karen Patricia tem como expectitativa atua como atriz principal em uma peça da BroadWay e conseguir tocar 10 instrumentos musicais.|
+
 <br><br><br>
 
 
