@@ -6,7 +6,7 @@
 | :----: | :--------: | :----------------------: | :------------------: |
 |  1.0  | 29/06/2022 | Gravação da apresentação | Todos os integrantes |
 |  1.1  | 07/07/2022 | Adição de legenda no vídeo | Matheus Perillo |
-|  1.2  | 07/07/2022 | Adição vídeo de apresentação 2 | João Victor Correia |
+|  1.2  | 13/07/2022 | Adição vídeo de apresentação 2 | João Victor Correia |
 
 
 ## 2. Vídeo - Apresentação 1
