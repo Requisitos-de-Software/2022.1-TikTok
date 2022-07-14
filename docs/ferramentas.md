@@ -7,7 +7,7 @@
 | 1.1 | 07/07/2022 | Adição de legendas nas tabelas | Matheus Perillo |
 
 ## Introdução
-<p> As ferramentas serão softwares utilizados pelo time do projeto para facilitar o gerenciamento, comunicação e desenvolvimento da documentação necessária para o tema utilizado na disciplina. Projeto esse que o foco será a análise de requisitos do aplicativo da LATAM </p>
+<p> As ferramentas serão softwares utilizados pelo time do projeto para facilitar o gerenciamento, comunicação e desenvolvimento da documentação necessária para o tema utilizado na disciplina. Projeto esse que o foco será a análise de requisitos do aplicativo da Tik Tok </p>
 
 ## Ferramentas utilizadas
 
