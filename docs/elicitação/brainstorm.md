@@ -20,10 +20,10 @@ Foi feita a reunião da equipe através do discord, onde por meio de um document
 ## 4. Participantes
 Reunião: 10/07/2022 - 21:00hrs
 - Participantes:
-> Matheus Soares
-> Iago Cabral
-> Matheus Perillo
-> Mateus Caltabiano
+> - Matheus Soares
+> - Iago Cabral
+> - Matheus Perillo
+> - Mateus Caltabiano
 
 
 ## 5. Brainstorm
