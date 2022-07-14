@@ -5,6 +5,11 @@
 |-|-|:-:|:-:|
 | 1.0 | 13/07/2022 | Adição das personas do projeto | Iago de Paula Cabral |
 | 1.1 | 13/07/2022 | Adição de mais personas ao projeto | Pedro Henrique Nogueira| 
+
+<div style="text-align: center">
+<p>Tabela 1: Versionamento</p>
+</div>
+
 # Personas
 
 ## 1. Introdução
@@ -29,6 +34,9 @@ A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, 
 |**Requisitos**| Para usuarios com pouca familiaridade com tecnologias, Didi julga ser muito importante o app Tik Tok ser intuitivo e de facil uso.
 |**Expectivativas**| Didi espera enteder todos os funcionamentos do Tik Tok e ser um usuario pleno até o final do ano.|
 
+<div style="text-align: center">
+<p>Tabela 2: Persona 1</p>
+</div>
 
 ### 3.2 Karen Patricia
 |     |                                                                                   |               
@@ -43,6 +51,10 @@ A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, 
 |**Relacionamentos**| Karen se relacionamenta principalmente com seus amigos e colegas da compania de artes, gosta de falar sobre assuntos que envolva danças e teatro.
 |**Requisitos**| Para usuarios que não tem como intuito utilizar o app com frequencia. Karen julga que dever ser importante o algoritmo do Tik Tok mostrar os videos que são do seu interrese e ter um metodo de pesquisa por temas especificos.
 |**Expectivativas**| Karen Patricia tem como expectitativa atua como atriz principal em uma peça da BroadWay e conseguir tocar 10 instrumentos musicais.|
+
+<div style="text-align: center">
+<p>Tabela 3: Anti-persona</p>
+</div>
 
 ### 3.3 Bruno Bertti
 
@@ -61,6 +73,9 @@ A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, 
 |**Requisitos**| Lucas precisa publicar seus vídeos na mesma qualidade que foram gravados, além de receber um feedback do que seus seguidores acharam do vídeo.  |
   |**Expectivativas**|Lucas Berti tem a expectativa de se tornar um dos maiores criadores de conteudo da plataforma.|
 
+<div style="text-align: center">
+<p>Tabela 4: Persona 2</p>
+</div>
 
 ### 3.4 Jade Picon
 
@@ -79,6 +94,9 @@ A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, 
 |**Requisitos**| Com a pandemia e com o adiantamente do semestre 2020/1, Jade ficou com muito tempo livre, então decidiu começar a usar o  TikTok como uma forma de distração, desde então, Jade usar o aplicativo diariamente. Para Jade é necessário assistir seus vídeos, curtir, seguir os influenciadores que ela mais gosta, salvar os vídeos e compartilhar com seus amigos.   |
 |**Expectivativas**|Jade tem a expectativa de se formar e se especializar em pediatria e abrir sua própria clinica. |
 
+<div style="text-align: center">
+<p>Tabela 5: Persona 3</p>
+</div>
 
 ## 4. Referências
 
