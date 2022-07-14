@@ -5,6 +5,9 @@
 | Versão | Autor             | Alterações                          |
 | ------ | ----------------- | ----------------------------------- |
 | 1.0    | Mateus Caltabiano | Abertura do documento de entrevista |
+<div style="text-align: center">
+<p>Tabela 1: Versionamento</p>
+</div>
 
 ## 2. Introdução
 
@@ -26,6 +29,9 @@
 | Entrevistador     | Entrevistado    | Duração | Data       |
 | ----------------- | --------------- | ------- | ---------- |
 | Mateus Caltabiano | Mariana Alencar |   3 minutos      | 12/07/2022 |
+<div style="text-align: center">
+<p>Tabela 2: Dados da entrevista</p>
+</div>
 
 ### Perguntas
 
@@ -124,6 +130,9 @@
 | ENT06 | Deve ser possível comentar vídeos                             | RF06  |
 | ENT07 | Deve ser possível passar vídeos automaticamente               | RF07  |
 | ENT08 | O aplicativo deve impedir que a tela bloqueie automaticamente | RNF01 |
+<div style="text-align: center">
+<p>Tabela 3: Tabela de requisitos elicitados</p>
+</div>
 
 ## 5. Referências
 

@@ -6,6 +6,9 @@
 | 1.0    | 13/07/2022 |                          Abertura do documento e escrita da primeira história                          | João Victor Correia |
 | 1.1    | 13/07/2022 |                                  Desenvolvimento da segunda história                                   |  Mateus Caltabiano  |
 | 1.1.1  | 13/07/2022 | Correção de erro na história 2: o sonho de vida da personagem estava diferente do documento de persona |  Mateus Caltabiano  |
+<div style="text-align: center">
+<p>Tabela 1: Versionamento</p>
+</div>
 
 ## Introdução
 <p> Essa técnica contempla a elicitação de requisitos atráves de histórias contadas por usuários. Com elas é possível descrever o que as pessoas fazem, quais tarefas realizam e quais informações são necessárias ou geradas através das ações realizadas. É muito mais fácil de se identificar com algo através de narrativas [Sommerville, 2019, p. 102].  </p>
@@ -56,6 +59,9 @@ A partir da criação de personas e de seus perfis, foi desenvolvido um storytel
 | ST17 | Eu, como usuário, desejo marcar os vídeos que estou respondendo no chat privado para o outro usuário saber de que vídeo estou falando                                    |  RF  |
 | ST18 | Eu, como usuário, desejo enviar mensagens privadas para outro usuário                                                                                                    |  RF  |
 | ST19 | Eu, como usuário, desejo utilizar o aplicativo em dispositivos Android e iOS                                                                                             | RNF  |
+<div style="text-align: center">
+<p>Tabela 2: Requisitos elicitados</p>
+</div>
 
 
 ## Referências
