@@ -9,7 +9,9 @@
 |  1.2  | 13/07/2022 | Adição vídeo de apresentação 2 | João Victor Correia |
 
 
-## 2. Vídeos - Apresentação 1
+## 2. Vídeos
+
+### Apresentação 1
 
 <center>
 
@@ -21,7 +23,7 @@
 Vídeo 1: Primeira apresentação do projeto
 </div>
 
-## Apresentação 2
+### Apresentação 2
 
 <center>
 
