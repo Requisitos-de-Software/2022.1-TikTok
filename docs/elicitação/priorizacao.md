@@ -89,6 +89,7 @@ Para que a priorização fosse feita, nós, equipe, nos reunimos via Discord ond
 |  RF29 (ST12)  |                                                  Eu, como usuário, desejo visualizar os vídeos que curti no meu perfil                                                   |
 |  RF30 (ST13)  |                                                 Eu, como usuário, desejo curtir um vídeo ao dar um duplo-clique na tela                                                  |
 | RF35 (ENT07)  |                                                             Deve ser possível passar vídeos automaticamente                                                              |
+| RF37 (INT02)  |                                                                  Deve ser possível deixar o vídeo mudo                                                                   |
 <div style="text-align: center">
 <p>Tabela 4: Tabela Could</p>
 </div>
@@ -101,6 +102,8 @@ Para que a priorização fosse feita, nós, equipe, nos reunimos via Discord ond
 |  RF31 (ST14)  |                                               Eu, como usuário, desejo pausar os vídeos                                               |
 |  RF32 (ST15)  |                                          Eu, como usuário, desejo voltar ou avançar o vídeo                                           |
 |  RF33 (ST17)  | Eu, como usuário, desejo marcar os vídeos que estou respondendo no chat privado para o outro usuário saber de que vídeo estou falando |
+| RF36 (INT01)  |                                Deve ser possível manter o vídeo que está sendo exibido ao dar refresh                                 |
+| RF38 (INT03)  |                                              Deve ser possível buscar efeitos e filtros                                               |
 <div style="text-align: center">
 <p>Tabela 5: Tabela Won't</p>
 </div>
