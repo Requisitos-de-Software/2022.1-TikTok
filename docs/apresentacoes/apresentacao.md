@@ -6,8 +6,10 @@
 | :----: | :--------: | :----------------------: | :------------------: |
 |  1.0  | 29/06/2022 | Gravação da apresentação | Todos os integrantes |
 |  1.1  | 07/07/2022 | Adição de legenda no vídeo | Matheus Perillo |
+|  1.2  | 07/07/2022 | Adição vídeo de apresentação 2 | João Victor Correia |
 
-## 2. Vídeo
+
+## 2. Vídeo - Apresentação 1
 
 <center>
 
@@ -17,4 +19,16 @@
 
 <div style="text-align: center">
 Vídeo 1: Primeira apresentação do projeto
+</div>
+
+## 2. Vídeo - Apresentação 2
+
+<center>
+
+<iframe width="711" height="400" src="https://www.youtube.com/embed/Koge2uyALbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+<div style="text-align: center">
+Vídeo 1: Segunda apresentação do projeto
 </div>
