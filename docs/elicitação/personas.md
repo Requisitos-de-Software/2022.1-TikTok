@@ -56,7 +56,7 @@ A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, 
 <p>Tabela 3: Anti-persona</p>
 </div>
 
-### 3.3 Bruno Bertti
+### 3.3 Lucas Bertti
 
 
 
