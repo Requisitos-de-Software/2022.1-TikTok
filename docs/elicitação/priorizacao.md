@@ -6,6 +6,9 @@
 |:------:| ----------------------------- | -------------------------------------------------------------------- |
 |  1.0   | Matheus Soares  & Iago Cabral | Confecção da primeira versão da Priorização                          |
 |  1.1   | Mateus Caltabiano             | Adição dos requisitos elicitados pela entrevista e pelo storytelling |
+<div style="text-align: center">
+<p>Tabela 1: Versionamento</p>
+</div>
 
 &nbsp;
 &nbsp;
@@ -49,7 +52,9 @@ Para que a priorização fosse feita, nós, equipe, nos reunimos via Discord ond
 |     RF27(ST08)     |                           Eu, como usuário, desejo de passar de um vídeo para o outro com o movimento de "arrastar pra cima"                            |
 | RF28 (ST11, ENT06) |                                            Eu, como usuário, desejo de poder comentar os vídeos que assisto                                             |
 |    RF34 (ENT01)    |                                                       Deve haver uma área de vídeos recomendados                                                        |
-
+<div style="text-align: center">
+<p>Tabela 2: Tabela Must</p>
+</div>
 
 ### 3.2 Should
 
@@ -67,7 +72,9 @@ Para que a priorização fosse feita, nós, equipe, nos reunimos via Discord ond
 |   RF21  (ST01, ENT02)    | Eu, como produtor de conteúdo, desejo gravar minhas cenas dentro do próprio aplicativo para que não seja necessário necessário ter que importar de apps terceiros |
 | RF22       (ST02, ENT03) |                            Eu, como produtor de conteúdo, desejo editar meus vídeos para que eles tenham um aspecto mais profissional                             |
 |      RNF09 (ENT08)       |                                                   O aplicativo deve impedir que a tela bloqueie automaticamente                                                   |
-
+<div style="text-align: center">
+<p>Tabela 3: Tabela Should</p>
+</div>
 
 ### 3.3 Could
 
@@ -82,7 +89,9 @@ Para que a priorização fosse feita, nós, equipe, nos reunimos via Discord ond
 |  RF29 (ST12)  |                                                  Eu, como usuário, desejo visualizar os vídeos que curti no meu perfil                                                   |
 |  RF30 (ST13)  |                                                 Eu, como usuário, desejo curtir um vídeo ao dar um duplo-clique na tela                                                  |
 | RF35 (ENT07)  |                                                             Deve ser possível passar vídeos automaticamente                                                              |
-
+<div style="text-align: center">
+<p>Tabela 4: Tabela Could</p>
+</div>
 ### 3.4 Won't
 
 | Identificador |                                                               Requisito                                                               |
@@ -92,7 +101,9 @@ Para que a priorização fosse feita, nós, equipe, nos reunimos via Discord ond
 |  RF31 (ST14)  |                                               Eu, como usuário, desejo pausar os vídeos                                               |
 |  RF32 (ST15)  |                                          Eu, como usuário, desejo voltar ou avançar o vídeo                                           |
 |  RF33 (ST17)  | Eu, como usuário, desejo marcar os vídeos que estou respondendo no chat privado para o outro usuário saber de que vídeo estou falando |
-
+<div style="text-align: center">
+<p>Tabela 5: Tabela Won't</p>
+</div>
 
 ## Referências bibliográficas
 
