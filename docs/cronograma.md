@@ -8,7 +8,8 @@
 |  1.0   | Mateus Caltabiano | Abertura do documento de cronograma |
 |  1.1   | Mateus Caltabiano | Adição do detalhamento da Sprint 0  |
 |  1.2   | Mateus Caltabiano | Adição do detalhamento da Sprint 1  |
-|  1.3   | Matheus Perillo | Adição de legendas nas tabelas  |
+| 1.2.1  | Matheus Perillo   | Adição de legendas nas tabelas      |
+|  1.3   | Mateus Caltabiano | Adição do detalhamento da Sprint 2  |
 
 ## 2. Introdução
 
@@ -87,6 +88,32 @@
 
 <div style="text-align: center">
 <p>Tabela 5: Atividades realizadas</p>
+</div>
+
+### Sprint 2
+
+| Início | Fim   |
+| ------ | ----- |
+| 07/06  | 14/07 |
+
+<p>Tabela 6: Cronograma da Sprint 2 </p>
+<br>
+
+| Issue | Título                                                   | Responsáveis                                 | Revisores         |
+| ----- | -------------------------------------------------------- | -------------------------------------------- | ----------------- |
+| #21   | Realizar entrevista com um usuário do aplicativo         | Mateus Caltabiano                            | Matheus Soares    |
+| #22   | Definir priorização dos requisitos                       | Todos                                        | N/A               |
+| #23   | Atualização de cronograma - Sprint 2                     | Mateus Caltabiano                            | João Victor       |
+| #24   | Criar uma persona com experiência de criação de conteúdo | Pedro Henrique                               | Mateus Caltabiano |
+| #25   | Criação de uma persona com experiência de usuário        | Pedro Henrique                               | Mateus Caltabiano |
+| #26   | Criação do documento de Personas                         | Iago Cabral, Pedro Henrique                  | João Victor       |
+| #27   | Documento de Storytelling                                | João Victor, Mateus Caltabiano               | Iago Cabral       |
+| #28   | Documento de introspecção                                | Matheus Perillo                              | Pedro Henrique    |
+| #29   | Documento de Brainstorm                                  | Iago Cabral, Matheus Perillo, Matheus Soares | Mateus Caltabiano |
+| #31   | Gravação do vídeo para segunda entrega                   | Todos                                        | N/A               |
+
+<div style="text-align: center">
+<p>Tabela 7: Atividades realizadas</p>
 </div>
 
 ## 5. Referências
