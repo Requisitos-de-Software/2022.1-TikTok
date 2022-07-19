@@ -1,4 +1,4 @@
-# Apresentação 1
+# Apresentações
 
 ## 1. Versionamento
 
@@ -7,11 +7,11 @@
 |  1.0  | 29/06/2022 | Gravação da apresentação | Todos os integrantes |
 |  1.1  | 07/07/2022 | Adição de legenda no vídeo | Matheus Perillo |
 |  1.2  | 13/07/2022 | Adição vídeo de apresentação 2 | João Victor Correia |
-
+|  1.3  | 15/07/2022 | Adição de índices nos vídeos | Matheus Perillo |
 
 ## 2. Vídeos
 
-### Apresentação 1
+### 2.1 Apresentação 1
 
 <center>
 
@@ -22,8 +22,9 @@
 <div style="text-align: center">
 Vídeo 1: Primeira apresentação do projeto
 </div>
+<br>
 
-### Apresentação 2
+### 2.2 Apresentação 2
 
 <center>
 
@@ -34,3 +35,4 @@ Vídeo 1: Primeira apresentação do projeto
 <div style="text-align: center">
 Vídeo 2: Segunda apresentação do projeto
 </div>
+<br>
