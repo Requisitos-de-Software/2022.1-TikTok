@@ -7,6 +7,7 @@
 | Versão | Autor             | Alterações                        |
 | ------ | ----------------- | --------------------------------- |
 | 1.0    | Mateus Caltabiano | Abertura do documento de cenários |
+| 1.1       |       Mateus Caltabiano            |    Adição do cenário 01                               |
 
 
 ## 2. Introdução
@@ -38,7 +39,18 @@
 
 ## 5. Cenários
 
+### Cenário 01
 
+| Abstração | Descrição                                                                              |
+| --------- | -------------------------------------------------------------------------------------- |
+| Título    | Assistir vídeos na timeline                                                            |
+| Objetivo  | Utilizar o TikTok para assistir vídeos na timeline                                     |
+| Contexto  | Pré-condição - Ter um celular<br>Pré-condição - Ter o aplicativo instalado             |
+| Atores    | Usuário                                                                                |
+| Recursos  | Celular                                                                                |
+| Episódios | Usuário está entediado<br>Usuário pega o celular<br>Usuário abre o TikTok              |
+| Restrição | Celular estar com bateria<br>Usuário quer assistir TikTok<br>Celular estar funcionando |
+| Exceção   | Celular sem bateria<br>Celular cai no chão<br>Celular sem conexão com a internet       |
 
 ## 6. Referências
 
