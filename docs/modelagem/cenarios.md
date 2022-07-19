@@ -7,7 +7,8 @@
 | Versão | Autor             | Alterações                        |
 | ------ | ----------------- | --------------------------------- |
 | 1.0    | Mateus Caltabiano | Abertura do documento de cenários |
-| 1.1       |       Mateus Caltabiano            |    Adição do cenário 01                               |
+| 1.1    | Mateus Caltabiano | Adição do cenário 01              |
+| 1.2    | Mateus Caltabiano | Adição do cenário 02              |
 
 
 ## 2. Introdução
@@ -51,6 +52,19 @@
 | Episódios | Usuário está entediado<br>Usuário pega o celular<br>Usuário abre o TikTok              |
 | Restrição | Celular estar com bateria<br>Usuário quer assistir TikTok<br>Celular estar funcionando |
 | Exceção   | Celular sem bateria<br>Celular cai no chão<br>Celular sem conexão com a internet       |
+
+### Cenário 02
+
+| Abstração | Descrição                                                                                        |
+| --------- | ------------------------------------------------------------------------------------------------ |
+| Título    | Buscar vídeos                                                                                    |
+| Objetivo  | Procurar por vídeos utilizando texto                                                             |
+| Contexto  | Pré-condição: Ter um celular com app instalado<br>Pré-condição: Saber o que quer encontrar       |
+| Atores    | Usuário                                                                                          |
+| Recursos  | Celular                                                                                          |
+| Episódios | Usuário quer encontrar um vídeo<br>Usuário abre a ferramenta de busca<br>Usuário digita um texto |
+| Restrição | Usuário saber o que pesquisar<br>Algoritmo de busca encontrar vídeos relacionados<br>            |
+| Exceção   | Celular sem conexão com a internet<br>                                                           |
 
 ## 6. Referências
 
