@@ -9,6 +9,7 @@
 | 1.0    | Mateus Caltabiano | Abertura do documento de cenários |
 | 1.1    | Mateus Caltabiano | Adição do cenário 01              |
 | 1.2    | Mateus Caltabiano | Adição do cenário 02              |
+| 1.3    | Mateus Caltabiano | Adição do cenário 03              |
 
 
 ## 2. Introdução
@@ -53,6 +54,10 @@
 | Restrição | Celular estar com bateria<br>Usuário quer assistir TikTok<br>Celular estar funcionando |
 | Exceção   | Celular sem bateria<br>Celular cai no chão<br>Celular sem conexão com a internet       |
 
+<p>
+    Tabela 3: Cenário 01
+</p>
+
 ### Cenário 02
 
 | Abstração | Descrição                                                                                        |
@@ -65,6 +70,27 @@
 | Episódios | Usuário quer encontrar um vídeo<br>Usuário abre a ferramenta de busca<br>Usuário digita um texto |
 | Restrição | Usuário saber o que pesquisar<br>Algoritmo de busca encontrar vídeos relacionados<br>            |
 | Exceção   | Celular sem conexão com a internet<br>                                                           |
+
+<p>
+    Tabela 4: Cenário 02
+</p>
+
+### Cenário 03
+
+| Abstração | Descrição                                                                                                      |
+| --------- | -------------------------------------------------------------------------------------------------------------- |
+| Título    | Postar vídeos                                                                                                  |
+| Objetivo  | Postar um vídeo no perfil                                                                                      |
+| Contexto  | Pré-condição: Ter um celular<br>Pré-condição: Ter o aplicativo instalado<br>Pré-condição: Ter um vídeo gravado |
+| Atores    | Criador de conteúdo                                                                                            |
+| Recursos  | Celular<br>Internet                                                                                            |
+| Episódios | Criador de conteúdo ter uma ideia<br>Criador de conteúdo gravar um vídeo<br>Criador de conteúdo postar o vídeo |
+| Restrição | Criador de conteúdo gostar do vídeo<br>                                                                        |
+| Exceção   | TikTok bloquear o vídeo<br>Vídeo ser mais longo do que o suportado                                             |
+
+<p>
+    Tabela 5: Cenário 03
+</p>
 
 ## 6. Referências
 
