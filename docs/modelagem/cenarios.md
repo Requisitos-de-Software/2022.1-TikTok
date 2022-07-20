@@ -14,6 +14,7 @@
 | 1.4.1  | Mateus Caltabiano | Adição de revisor no versionamento | Matheus Perillo |
 | 1.5    | Mateus Caltabiano | Adição do cenário 05               | Matheus Perillo |
 | 1.6    | Mateus Caltabiano | Adição do cenário 06               | Matheus Perillo |
+| 1.7    | Mateus Caltabiano | Adição do cenário 07               | Matheus Perillo |   
 
 ## 2. Introdução
 
@@ -144,6 +145,23 @@
 
 <p style="margin-top: -25px; font-size: 15px; margin-left: 160px">
     Tabela 7: Cenário 06
+</p>
+
+### Cenário 07
+
+| Abstração | Descrição                                                                                                                                                                                     |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Título    | Editar perfil                                                                                                                                                                                 |
+| Objetivo  | Alterar uma informação no perfil                                                                                                                                                              |
+| Contexto  | Pré-condição: Ter um celular<br>Pré-condição: Ter o aplicativo instalado<br>Pré-condição: Ter um perfil                                                                                       |
+| Atores    | Usuário ou criador de conteúdo                                                                                                                                                                |
+| Recursos  | Celular<br>Internet                                                                                                                                                                           |
+| Episódios | Usuário ou criador de conteúdo abre o TikTok<br>Usuário ou criador de conteúdo acessa seu perfil<br>Usuário ou criador de conteúdo verifica alguma informação errada                          |
+| Restrição | Celular estar funcionando<br>Celular estar com bateria<br>Caso usuário: Possuir um perfil                                                                                                     |
+| Exceção   | Preguiça de alterar a informação errada<br>Ocorrer um erro em algum campo de alteração do perfil<br>TikTok não permitir a edição por alguma parte do perfil violar as políticas do aplicativo |
+
+<p style="margin-top: -25px; font-size: 15px; margin-left: 160px">
+    Tabela 8: Cenário 07
 </p>
 
 ## 6. Referências
