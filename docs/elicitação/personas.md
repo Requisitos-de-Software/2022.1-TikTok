@@ -1,10 +1,10 @@
 # Persona
 
 ## Versionamento
-| Versão | Data | Modificação | Autor |
-|-|-|:-:|:-:|
-| 1.0 | 13/07/2022 | Adição das personas do projeto | Iago de Paula Cabral |
-| 1.1 | 13/07/2022 | Adição de mais personas ao projeto | Pedro Henrique Nogueira| 
+| Versão | Data | Modificação | Autor | Revisor |
+|-|-|:-:|:-:|:-:|
+| 1.0 | 13/07/2022 | Adição das personas do projeto | Iago de Paula Cabral | Mateus Caltabiano |
+| 1.1 | 13/07/2022 | Adição de mais personas ao projeto | Pedro Henrique Nogueira| Mateus Caltabiano |
 
 <div style="text-align: center">
 <p>Tabela 1: Versionamento</p>
