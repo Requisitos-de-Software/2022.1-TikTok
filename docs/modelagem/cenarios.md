@@ -15,6 +15,7 @@
 | 1.5    | Mateus Caltabiano | Adição do cenário 05               | Matheus Perillo |
 | 1.6    | Mateus Caltabiano | Adição do cenário 06               | Matheus Perillo |
 | 1.7    | Mateus Caltabiano | Adição do cenário 07               | Matheus Perillo |   
+| 1.8    | Mateus Caltabiano | Adição do cenário 08               | Matheus Perillo |
 
 ## 2. Introdução
 
@@ -162,6 +163,23 @@
 
 <p style="margin-top: -25px; font-size: 15px; margin-left: 160px">
     Tabela 8: Cenário 07
+</p>
+
+### Cenário 08
+
+| Abstração | Descrição                                                                                                                                                                 |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Título    | Acompanhar métricas                                                                                                                                                       |
+| Objetivo  | Verificar em tempo real número de curtidas, visualizações e comentários nos vídeos                                                                                        |
+| Contexto  | Pré-condição: Ter um celular<br>Pré-condição: Ter o aplicativo instalado<br>Pré-condição: Ter um perfil<br>Pré-condição: Ter ao menos um vídeo postado                    |
+| Atores    | Criador de conteúdo                                                                                                                                                       |
+| Recursos  | Celular<br>Internet                                                                                                                                                       |
+| Episódios | Criador de conteúdo abre o aplicativo<br>Criador de conteúdo entra em seu perfil<br>                                                                                      |
+| Restrição | Celular estar funcionando<br>Celular estar com bateria<br>Criador de conteúdo ter ao menos um vídeo postado no perfil<br>Vídeos do perfil terem ao menos uma visualização |
+| Exceção   | Vídeos listados como privados<br>TikTok excluir o vídeo por ferir a política do aplicativo                                                                                |
+
+<p style="margin-top: -25px; font-size: 15px; margin-left: 160px">
+    Tabela 9: Cenário 08
 </p>
 
 ## 6. Referências
