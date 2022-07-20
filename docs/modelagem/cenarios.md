@@ -4,13 +4,14 @@
 
 
 
-| Versão | Autor             | Alterações                        |
-| ------ | ----------------- | --------------------------------- |
-| 1.0    | Mateus Caltabiano | Abertura do documento de cenários |
-| 1.1    | Mateus Caltabiano | Adição do cenário 01              |
-| 1.2    | Mateus Caltabiano | Adição do cenário 02              |
-| 1.3    | Mateus Caltabiano | Adição do cenário 03              |
-| 1.4    | Mateus Caltabiano | Adição do cenário 04              |
+| Versão | Autor             | Alterações                         | Revisor         |
+| ------ | ----------------- | ---------------------------------- | --------------- |
+| 1.0    | Mateus Caltabiano | Abertura do documento de cenários  | Matheus Perillo |
+| 1.1    | Mateus Caltabiano | Adição do cenário 01               | Matheus Perillo |
+| 1.2    | Mateus Caltabiano | Adição do cenário 02               | Matheus Perillo |
+| 1.3    | Mateus Caltabiano | Adição do cenário 03               | Matheus Perillo |
+| 1.4    | Mateus Caltabiano | Adição do cenário 04               | Matheus Perillo |
+| 1.4.1  | Mateus Caltabiano | Adição de revisor no versionamento | Matheus Perillo |
 
 
 ## 2. Introdução
