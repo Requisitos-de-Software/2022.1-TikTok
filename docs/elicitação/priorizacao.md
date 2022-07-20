@@ -72,6 +72,7 @@ Para que a priorização fosse feita, nós, equipe, nos reunimos via Discord ond
 |   RF21  (ST01, ENT02)    | Eu, como produtor de conteúdo, desejo gravar minhas cenas dentro do próprio aplicativo para que não seja necessário necessário ter que importar de apps terceiros |
 | RF22       (ST02, ENT03) |                            Eu, como produtor de conteúdo, desejo editar meus vídeos para que eles tenham um aspecto mais profissional                             |
 |      RNF09 (ENT08)       |                                                   O aplicativo deve impedir que a tela bloqueie automaticamente                                                   |
+| RF39 | Eu como usuário gostaria de escutar música |
 <div style="text-align: center">
 <p>Tabela 3: Tabela Should</p>
 </div>
