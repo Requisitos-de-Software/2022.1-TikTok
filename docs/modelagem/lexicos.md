@@ -86,67 +86,67 @@
 | :----: | :-----: | :------:| :------: | :-----------: |
 |        |         |         |          |               |
 
-### L05 - Mensagem
+### L11 - Mensagem
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
 |        |         |         |          |               |
 
-### L11 - Musica
+### L12 - Musica
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
 |        |         |         |          |               |
 
-### L12 - Perfil
+### L13 - Perfil
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
 |        |         |         |          |               |
 
-### L13 - Pesquisar
+### L14 - Pesquisar
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
 |        |         |         |          |               |
 
-### L14 - Postar
+### L15 - Postar
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
 |        |         |         |          |               |
 
-### L15 - Produtor de conteúdo
+### L16 - Produtor de conteúdo
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
 |        |         |         |          |               |
 
-### L16 - Reportar
+### L17 - Reportar
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
 |        |         |         |          |               |
 
-### L17 - Salvar
+### L18 - Salvar
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
 |        |         |         |          |               |
 
-### L18 - Seguir/seguidor
+### L19 - Seguir/seguidor
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
 |        |         |         |          |               |
 
-### L19 - Usuário regular
+### L20 - Usuário regular
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
 |        |         |         |          |               |
 
-### L20 - Vídeo
+### L21 - Vídeo
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
