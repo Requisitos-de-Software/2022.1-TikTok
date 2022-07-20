@@ -12,6 +12,7 @@
 | 1.3    | Mateus Caltabiano | Adição do cenário 03               | Matheus Perillo |
 | 1.4    | Mateus Caltabiano | Adição do cenário 04               | Matheus Perillo |
 | 1.4.1  | Mateus Caltabiano | Adição de revisor no versionamento | Matheus Perillo |
+| 1.5    | Mateus Caltabiano | Adição do cenário 05               | Matheus Perillo |
 
 
 ## 2. Introdução
@@ -86,7 +87,7 @@
 | Contexto  | Pré-condição: Ter um celular<br>Pré-condição: Ter o aplicativo instalado<br>Pré-condição: Ter um vídeo gravado<br>Pré-condição: Ter uma conta |
 | Atores    | Criador de conteúdo                                                                                                                           |
 | Recursos  | Celular<br>Internet                                                                                                                           |
-| Episódios | Criador de conteúdo ter uma ideia<br>Criador de conteúdo gravar um vídeo<br>Criador de conteúdo postar o vídeo                                |
+| Episódios | Criador de conteúdo tem uma ideia<br>Criador de conteúdo grava um vídeo                                                                       |
 | Restrição | Criador de conteúdo gostar do vídeo<br>Celular estar com bateria<br>Celular estar funcionando                                                 |
 | Exceção   | TikTok bloquear o vídeo<br>Vídeo ser mais longo do que o suportado<br>Celular sem conexão com a internet                                      |
 
@@ -96,20 +97,33 @@
 
 ### Cenário 04
 
-| Abstração | Descrição                                                                                                   |
-| --------- | ----------------------------------------------------------------------------------------------------------- |
-| Título    | Favoritar um vídeo                                                                                          |
-| Objetivo  | Adicionar um vídeo assistido aos favoritos                                                                  |
-| Contexto  | Pré-condição: Ter um celular<br>Pré-condição: Ter o aplicativo instalado<br>                                |
-| Atores    | Usuário                                                                                                     |
-| Recursos  | Celular<br>Internet                                                                                         |
-| Episódios | Usuário pegar o celular<br>Usuário abrir o TikTok<br>Usuário assistir um vídeo<br>Usuário favoritar o vídeo |
-| Restrição | Vídeo ser interessante<br>Celular estar com bateria<br>Celular estar funcionando                                                                                      |
-| Exceção   | Celular quebrar<br>Usuário mudar de opinião sobre o vídeo<br>Celular sem conexão com a internet                                                   |
+| Abstração | Descrição                                                                                                |
+| --------- | -------------------------------------------------------------------------------------------------------- |
+| Título    | Favoritar um vídeo                                                                                       |
+| Objetivo  | Adicionar um vídeo assistido aos favoritos                                                               |
+| Contexto  | Pré-condição: Ter um celular<br>Pré-condição: Ter o aplicativo instalado<br>                             |
+| Atores    | Usuário                                                                                                  |
+| Recursos  | Celular<br>Internet                                                                                      |
+| Episódios | Usuário pega o celular<br>Usuário abre o TikTok<br>Usuário assiste um vídeo<br>Usuário favoritar o vídeo |
+| Restrição | Vídeo ser interessante<br>Celular estar com bateria<br>Celular estar funcionando                         |
+| Exceção   | Celular quebrar<br>Usuário mudar de opinião sobre o vídeo<br>Celular sem conexão com a internet          |
 
 <p style="margin-top: -25px; font-size: 15px; margin-left: 160px">
     Tabela 5: Cenário 04
 </p>
+
+### Cenário 05
+
+| Abstração | Descrição                                                                                       |
+| --------- | ----------------------------------------------------------------------------------------------- |
+| Título    | Curtir um vídeo                                                                                 |
+| Objetivo  | Deixar um vídeo marcado como curtido                                                            |
+| Contexto  | Pré-condição: Ter um celular<br>Pré-condição: Ter o aplicativo instalado                        |
+| Atores    | Usuário                                                                                         |
+| Recursos  | Celular<br>Internet                                                                             |
+| Episódios | Usuário abre o TikTok<br>Usuário assiste vídeo<br>Usuário gosta do vídeo                        |
+| Restrição | Celular estar com bateria<br>Celular estar funcionando                                          |
+| Exceção   | Usuário mudar de ideia sobre o vídeo<br>Vídeo ser apagado<br>Celular sem conexão com a internet |
 
 ## 6. Referências
 
