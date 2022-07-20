@@ -2,10 +2,10 @@
 
 ## Versionamento
 
-| Versão | Autor                         | Alterações                                                           |
-|:------:| ----------------------------- | -------------------------------------------------------------------- |
-|  1.0   | Matheus Soares  & Iago Cabral | Confecção da primeira versão da Priorização                          |
-|  1.1   | Mateus Caltabiano             | Adição dos requisitos elicitados pela entrevista e pelo storytelling |
+| Versão | Autor                         | Alterações                                                           | Revisor |
+|:------:| ----------------------------- | -------------------------------------------------------------------- | :-:|
+|  1.0   | Matheus Soares  & Iago Cabral | Confecção da primeira versão da Priorização                          | Pedro Henrique Nogueira |
+|  1.1   | Mateus Caltabiano             | Adição dos requisitos elicitados pela entrevista e pelo storytelling | Pedro Henrique Nogueira |
 <div style="text-align: center">
 <p>Tabela 1: Versionamento</p>
 </div>
