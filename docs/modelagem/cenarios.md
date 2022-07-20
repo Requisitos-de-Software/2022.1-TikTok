@@ -16,6 +16,7 @@
 | 1.6    | Mateus Caltabiano | Adição do cenário 06               | Matheus Perillo |
 | 1.7    | Mateus Caltabiano | Adição do cenário 07               | Matheus Perillo |   
 | 1.8    | Mateus Caltabiano | Adição do cenário 08               | Matheus Perillo |
+| 1.9    | Mateus Caltabiano | Adição do cenário 09               | Matheus Perillo |
 
 ## 2. Introdução
 
@@ -180,6 +181,23 @@
 
 <p style="margin-top: -25px; font-size: 15px; margin-left: 160px">
     Tabela 9: Cenário 08
+</p>
+
+### Cenário 09
+
+| Abstração | Descrição                                                                                  |
+| --------- | ------------------------------------------------------------------------------------------ |
+| Título    | Arrastar pra cima                                                                          |
+| Objetivo  | Passar parao próximo vídeo com o movimento de deslizar o dedo para cima na tela do celular |
+| Contexto  | Pré-condição: Ter um celular<br>Pré-condição: Ter o aplicativo instalado                   |
+| Atores    | Usuário                                                                                    |
+| Recursos  | Celular<br>Internet                                                                        |
+| Episódios | Usuário abre o aplicativo<br>Usuário termina de ver o vídeo                                |
+| Restrição | Usuário querer passar o vídeo<br>Usuário continuar utilizando o aplicativo                 |
+| Exceção   | Internet cair<br>Usuário fechar o aplicativo<br>Celular travar                             |
+
+<p style="margin-top: -25px; font-size: 15px; margin-left: 160px">
+    Tabela 10: Cenário 09
 </p>
 
 ## 6. Referências
