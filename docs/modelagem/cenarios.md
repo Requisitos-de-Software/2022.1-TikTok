@@ -17,6 +17,7 @@
 | 1.7    | Mateus Caltabiano | Adição do cenário 07               | Matheus Perillo |   
 | 1.8    | Mateus Caltabiano | Adição do cenário 08               | Matheus Perillo |
 | 1.9    | Mateus Caltabiano | Adição do cenário 09               | Matheus Perillo |
+| 1.10    | Mateus Caltabiano | Adição do cenário 10               | Matheus Perillo |
 
 ## 2. Introdução
 
@@ -24,7 +25,7 @@
 
 ## 3. Metodologia
 
-&emsp;&emsp;Foi definido um template para ser utilizado na definição de cada cenário com o intuito de deixar o documento padronizado. Apresentaremos os cenários dos requisitos funcionais definidos como "Must" em nossa priorização.
+&emsp;&emsp;Foi definido um template para ser utilizado na definição de cada cenário com o intuito de deixar o documento padronizado. Apresentaremos os cenários de alguns dos requisitos funcionais definidos como "Must" em nossa priorização.
 
 ## 4. Template
 
@@ -198,6 +199,23 @@
 
 <p style="margin-top: -25px; font-size: 15px; margin-left: 160px">
     Tabela 10: Cenário 09
+</p>
+
+### Cenário 10
+
+| Abstração | Descrição                |
+| --------- | ------------------------ |
+| Título    | Comentar em vídeos      |
+| Objetivo  | Postar um comentário em um vídeo    |
+| Contexto  | Pré-condição: Ter um celular<br>Pré-condição: Ter o aplicativo instalado    |
+| Atores    | Usuário<br>Criador de conteúdo     |
+| Recursos  | Celular<br>Internet   |
+| Episódios | Usuário abre o aplicativo<br>Usuário assiste um vídeo  |
+| Restrição | Celular estar funcionando<br>Celular estar com bateria<br>Criador de conteúdo ter postado um vídeo |
+| Exceção   | Usuário ter vergonha de comentar<br>Criador de conteúdo apagar o comentário do usuário   |
+
+<p style="margin-top: -25px; font-size: 15px; margin-left: 160px">
+    Tabela 11: Cenário 10
 </p>
 
 ## 6. Referências
