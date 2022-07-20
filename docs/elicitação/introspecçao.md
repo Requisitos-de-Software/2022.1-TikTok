@@ -2,13 +2,13 @@
 
 ## Versionamento
 
-| Versão | Data       |                  Modificação                 |      Autor      |
-| :----: | :--------: |:--------------------------------------------:|:---------------:|
-| 1.0    | 13/07/2022 | Abertura do documento e introdução ao método | Matheus Perillo |
-| 1.1    | 13/07/2022 |          Adição da primeira versão           | Matheus Perillo |
-| 1.2    | 13/07/2022 |          Explicação da metologia             | Matheus Perillo |
-| 1.3    | 13/07/2022 |          Introspecção dos integrantes        | Matheus Perillo |
-| 1.4    | 13/07/2022 |          Adição dos requisitos elicitados    | Matheus Perillo |
+| Versão | Data       |                  Modificação                 |      Autor      | Revisor |
+| :----: | :--------: |:--------------------------------------------:|:---------------:|:-------:|
+| 1.0    | 13/07/2022 | Abertura do documento e introdução ao método | Matheus Perillo | Matheus Soares |
+| 1.1    | 13/07/2022 |          Adição da primeira versão           | Matheus Perillo | Matheus Soares |
+| 1.2    | 13/07/2022 |          Explicação da metologia             | Matheus Perillo | Matheus Soares |
+| 1.3    | 13/07/2022 |          Introspecção dos integrantes        | Matheus Perillo | Matheus Soares |
+| 1.4    | 13/07/2022 |          Adição dos requisitos elicitados    | Matheus Perillo | Matheus Soares |
 
 ## 1. Introdução
 

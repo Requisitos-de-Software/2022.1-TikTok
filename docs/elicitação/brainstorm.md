@@ -1,8 +1,8 @@
 # Brainstorm
 ## 1. Versionamento
-| Versão | Autor             | Alterações                         |
-|:------:| ----------------- | ---------------------------------- |
-|  1.0   | Matheus Soares  & Iago Cabral| Reunião de Brainstorm |
+| Versão | Autor             | Alterações                         | Revisor|
+|:------:| ----------------- | ---------------------------------- | ------- |
+|  1.0   | Matheus Soares  & Iago Cabral| Reunião de Brainstorm | Joao Victor Correia de Oliveira |
 <div style="text-align: center">
 <p>Tabela 1: Versionamento</p>
 </div>
@@ -51,6 +51,7 @@ Reunião: 10/07/2022 - 21:00hrs
 | RF18 | O usuário deve ser capaz de convidar seus amigos.|
 |     RF19      | O usuário deve ser capaz de conversar por mensagens com outros usuários                        |
 | RF20 | O usuário deve ser capaz de saber quem visualizou seu perfil.|
+| RF21 | O usuário deve ser capaz de escutar música.|
 <div style="text-align: center">
 <p>Tabela 2: Requisitos Funcionais</p>
 </div>

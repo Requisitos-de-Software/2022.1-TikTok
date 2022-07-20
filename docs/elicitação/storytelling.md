@@ -1,11 +1,11 @@
 # Storytelling
 ## Versionamento
 
-| Versão | Data       |                                              Modificação                                               |        Autor        |
-| ------ | ---------- |:------------------------------------------------------------------------------------------------------:|:-------------------:|
-| 1.0    | 13/07/2022 |                          Abertura do documento e escrita da primeira história                          | João Victor Correia |
-| 1.1    | 13/07/2022 |                                  Desenvolvimento da segunda história                                   |  Mateus Caltabiano  |
-| 1.1.1  | 13/07/2022 | Correção de erro na história 2: o sonho de vida da personagem estava diferente do documento de persona |  Mateus Caltabiano  |
+| Versão | Data       |                                              Modificação                                               |        Autor        | Revisor |
+| ------ | ---------- |:------------------------------------------------------------------------------------------------------:|:-------------------:| :-: |
+| 1.0    | 13/07/2022 |                          Abertura do documento e escrita da primeira história                          | João Victor Correia | Matheus Perillo|
+| 1.1    | 13/07/2022 |                                  Desenvolvimento da segunda história                                   |  Mateus Caltabiano  | Matheus Perillo| 
+| 1.1.1  | 13/07/2022 | Correção de erro na história 2: o sonho de vida da personagem estava diferente do documento de persona |  Mateus Caltabiano  |Matheus Perillo |
 <div style="text-align: center">
 <p>Tabela 1: Versionamento</p>
 </div>
