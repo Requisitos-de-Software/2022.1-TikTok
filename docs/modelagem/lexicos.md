@@ -5,6 +5,7 @@
 | Versão |    Data    |                   Descrição                   |    Autor     | Revisor |
 | :----: | :--------: | :-------------------------------------------: | :----------: | :-----: |
 |  0.1   | 20/07/2022 | Criação do documento com todas as informações | Iago Cabral | Pedro Henrique |
+|  0.1   | 21/07/2022 | Adição de lexicos | Iago Cabral | Pedro Henrique |
 
 
 ## 1. Introdução
@@ -92,65 +93,65 @@
 | :----: | :-----: | :------:| :------: | :-----------: |
 |        |         |         |          |               |
 
-### L12 - Musica
+### L12 - Música
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
-|        |         |         |          |               |
+| Música | escutar, pausar | A partir da timeline "Música" os usuarios conseguem escutar músicas| O usuario pode escutar mesmo fora do aplicativo, em segundo plano | Objeto |
 
 ### L13 - Perfil
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
-|        |         |         |          |               |
+| Perfil | visualizar, editar | O usuario pode visualizar, editar ou privar o seu perfil| O usuario pode escolher os dados a serem exposto no perfil, assim como privar os dados|  Objeto        |
 
 ### L14 - Pesquisar
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
-|        |         |         |          |               |
+| Pesquisar | procurar, explorar | A partir da ferramenta de pesquisa, o usuario consegue achar videos especificos |   O usuario pode pesquisar temas especificos e navegar pelos videos do tema | Verbo    |
 
 ### L15 - Postar
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
-|        |         |         |          |               |
+| Postar  | publicar, enviar | A partir da ferramenta de postar, o usuario consegue publicar videos|  O usuario pode publicar video em estado publico, onde qualquer pessoa pode ver ou privado onde apenas ele pode visualizar| Verbo |
 
 ### L16 - Produtor de conteúdo
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
-|        |         |         |          |               |
+| Produtor de conteúdo | influencer | Usuario que Cria video, faz lives | Usuario que cria conteudo para a plataforma, sendo videos ou lives, podendo ser remunerado por tal| Estado  |
 
 ### L17 - Reportar
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
-|        |         |         |          |               |
+|Reportar| Denunciar| A partir da ferramenta o usuario pode denunciar/reportar videos| O usuario pode reportar videos com conteudos que ele acredita que não deveria estar no TikTok| Verbo  |
 
 ### L18 - Salvar
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
-|        |         |         |          |               |
+| Salvar | reservar| A partir da ferramenta o usuario pode salvar o video em um local especifico| O usuario pode salvar videos de maneira de facil visualização posterior | Verbo |
 
 ### L19 - Seguir/seguidor
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
-|        |         |         |          |               |
+| Seguir | acompanhar| A partir dessa ferramenta o usuario consegue ver os videos de uma pessoa de forma mais pratica  | Os videos de uma pessoa que voce segue possui prioridade na "for you" e possui uma timeline diferenciada, assim vendo mais videos dessa pessoa| Estado |
 
 ### L20 - Usuário regular
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
-|        |         |         |          |               |
+|  Usuário regular | utilizador| Classe padrão de utilizadores do tiktok| Os usuarios possuim uma experiência diferenciada o algoritmo cria uma "for you" com videos indicados de acordo com seu gosto | Estado    |
 
 ### L21 - Vídeo
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
-|        |         |         |          |               |
+| Video  | clipe   | Artefato principal do Tik Tok | Os videos são a parte principal do aplicativo, os usuario podem assitir, salva, comentar e compartilha-los   |   Objeto |
 
 
 
