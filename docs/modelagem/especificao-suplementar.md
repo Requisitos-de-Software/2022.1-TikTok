@@ -2,11 +2,11 @@
 
 ##  Versionamento
 
-| Versão |    Data    |       Modificação        |        Autor         |
-| :----: | :--------: | :----------------------: | :------------------: |
-|  1.0  | 19/07/2022 | Abertura do documento | Matheus Perillo |
-|  1.1  | 19/07/2022 | Adicionar introdução | Matheus Perillo |
-|  1.2  | 19/07/2022 | Explicação da metodologia | Matheus Perillo |
+| Versão |    Data    |       Modificação        |        Autor         | Revisor |
+| :----: | :--------: | :----------------------: | :------------------: | :-: |
+|  1.0  | 19/07/2022 | Abertura do documento | Matheus Perillo | Matheus Soares |
+|  1.1  | 19/07/2022 | Adicionar introdução | Matheus Perillo | Matheus Soares |
+|  1.2  | 19/07/2022 | Explicação da metodologia | Matheus Perillo | Matheus Soares |
 
 ## 1. Introdução
 
