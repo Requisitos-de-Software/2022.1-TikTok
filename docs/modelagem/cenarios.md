@@ -13,7 +13,7 @@
 | 1.4    | Mateus Caltabiano | Adição do cenário 04               | Matheus Perillo |
 | 1.4.1  | Mateus Caltabiano | Adição de revisor no versionamento | Matheus Perillo |
 | 1.5    | Mateus Caltabiano | Adição do cenário 05               | Matheus Perillo |
-
+| 1.6    | Mateus Caltabiano | Adição do cenário 06               | Matheus Perillo |
 
 ## 2. Introdução
 
@@ -124,6 +124,27 @@
 | Episódios | Usuário abre o TikTok<br>Usuário assiste vídeo<br>Usuário gosta do vídeo                        |
 | Restrição | Celular estar com bateria<br>Celular estar funcionando                                          |
 | Exceção   | Usuário mudar de ideia sobre o vídeo<br>Vídeo ser apagado<br>Celular sem conexão com a internet |
+
+<p style="margin-top: -25px; font-size: 15px; margin-left: 160px">
+    Tabela 6: Cenário 05
+</p>
+
+### Cenário 06
+
+| Abstração | Descrição                |
+| --------- | ------------------------ |
+| Título    | Filtrar conteúdo      |
+| Objetivo  | Retirar a possibilidade de certo tipo de conteúdo aparecer na página principal    |
+| Contexto  | Pré-condição: Ter um celular<br>Pré-condição: Ter o aplicativo instalado    |
+| Atores    | Usuário     |
+| Recursos  | Celular<br>Internet   |
+| Episódios | Usuário abre o aplicativo<br>Usuário vê um conteúdo que não gosta<br>Usuário resolve que não quer ver conteúdos do mesmo tipo  |
+| Restrição | Celular estar com bateria<br>Celular estar funcionando<br>Usuário não gostar do conteúdo |
+| Exceção   | Celular quebrar<br>Usuário não se importar em ver o conteúdo de novo<br>Usuário gostar do conteúdo   |
+
+<p style="margin-top: -25px; font-size: 15px; margin-left: 160px">
+    Tabela 7: Cenário 06
+</p>
 
 ## 6. Referências
 
