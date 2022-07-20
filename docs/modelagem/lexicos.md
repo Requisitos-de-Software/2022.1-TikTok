@@ -4,8 +4,9 @@
 
 | Versão |    Data    |                   Descrição                   |    Autor     | Revisor |
 | :----: | :--------: | :-------------------------------------------: | :----------: | :-----: |
-|  0.1   | 20/07/2022 | Criação do documento com todas as informações | Iago Cabral | Pedro Henrique |
-|  0.1   | 21/07/2022 | Adição de lexicos | Iago Cabral | Pedro Henrique |
+|  1.0   | 20/07/2022 | Criação do documento com todas as informações | Iago Cabral | Pedro Henrique |
+|  1.1   | 21/07/2022 | Adição de lexicos | Iago Cabral | Pedro Henrique |
+|  1.1   | 21/07/2022 | Adição de lexicos faltantes | João Victor Correia |
 
 
 ## 1. Introdução
@@ -31,67 +32,67 @@
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
-|        |         |         |          |               |
+| Amigos |Colega, conhecido,  | Seguir um usuário e ele te seguir de volta | Os vídeos postados aparecem em destaque para seus amigos, podendo ter uma seção privada e as menagens ficam em destaque |     Objeto     |
 
 ### L02 - Assitir
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
-|        |         |         |          |               |
+|    Assistir    |   Observar, presenciar, ver      |   Ver um vídeo postado na plataforma por algum usuário     |    O número de visualizações do vídeo aumenta e quanto mais ele tiver, mais será recomendado para outros usuários      |        Verbo       |
 
 ### L03 - Caixa de entrada
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
-|        |         |         |          |               |
+|    Caixa de entrada    |   Mensagens recebidas      |   Sistema de mensageria do aplicativo      |  É possível enviar, mensagens e vídeos entre usuários        |       Objeto        |
 
 ### L04 - Coleção
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
-|        |         |         |          |               |
+|    Coleção    |   Acervo, agrupamento, galeria      |    Reunião de vídeos de acordo com a vontade do usuário     |     Vídeos podem ser adicionados a esse agrupamento para que os usuários possam assistí-los depois     |      Objeto         |
 
 ### L05 - Compartilhar
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
-|        |         |         |          |               |
+|    Compartilhar    |   Partilhar, dividir      |    O usuário pode compartilhar as mídias contidas no aplicativo dentro e em aplicativos terceiros    |    Ao compartilhar dentro do aplicativo deve aparecer para os outros usuários na caixa de entrada.  Em outros aplicativos deve ser feita a integração para seguir o sistema deles     |        Verbo       |
 
 ### L06 - Curtir
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
-|        |         |         |          |               |
+|    Curtir    |   Apreciar, desfrutar      |  O usuário pode curtir os vídeos como forma de feedback  | O número de curtidas do vídeo aumenta e quanto mais ele tiver, mais será recomendado para outros usuários   |       Verbo        |
 
 ### L07 - Dueto
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
-|        |         |         |          |               |
+|    Dueto    |    Dupla, Duo     | Ao gravar um vídeo o usuário pode fazer um dueto com um outro vídeo já postado na plataforma dividindo a tela | Os dois vídeos compartilham as métricas de visualização e curtidas | Objeto |
 
 ### L08 - Entrar
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
-| Entrar |acessar, logar, conectar | A partir da senha gerada no cadastro e os dados pessoais, o usuário consegue acessar com sua conta o aplicativo para utilizar os recursos do aplicativo sincronizado com suas informações. | O usuário pode acessar o Tik Tok pelo navegador. </br> O usuário pode acessar o Tik Tok pelo aplicativo mobile em qualquer celular. |     Verbo     |
+| Entrar |Acessar, logar, conectar | A partir da senha gerada no cadastro e os dados pessoais, o usuário consegue acessar com sua conta o aplicativo para utilizar os recursos do aplicativo sincronizado com suas informações. | O usuário pode acessar o Tik Tok pelo navegador. </br> O usuário pode acessar o Tik Tok pelo aplicativo mobile em qualquer celular. |     Verbo     |
 
 ### L09 - For You(Para você)
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
-|        |         |         |          |               |
+|    For You(Para você)    |  Recomendados  |  Os vídeos mostrados para o usuário são de acordo com as suas preferências  | O sistema deve colher métricas para direcionar os vídeos que fazem mais sentido para cada usuário de acordo com os gostos individuais         |        Objeto       |
 
 ### L10 - Live
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
-|        |         |         |          |               |
+|    Live    |    Livestream, transmissão ao vivo     |   O usuário pode começar uma transmissão para que outros possam participar e interagir      |    O sistema deve suportar esse tipo de gravação, notificar os seguidores e possibilitar as interações entre os usuários em tempo real      |       Estado        |
 
 ### L11 - Mensagem
 
 | Léxico | Sinônimo|  Noção  |  Impacto | Classificação |
 | :----: | :-----: | :------:| :------: | :-----------: |
-|        |         |         |          |               |
+|    Mensagem    | Comunicado, SMS |    Forma de comunicação por texto dentro do próprio aplicativo     |    O usuário pode mandar mensagens para outros, tendo destaque caso seja amigo dele. Para usuários com perfil privado, esse sistema só é permitido caso sejam amigos      |         Objeto | 
 
 ### L12 - Música
 
