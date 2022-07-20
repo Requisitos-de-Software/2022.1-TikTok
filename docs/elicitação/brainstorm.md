@@ -1,8 +1,8 @@
 # Brainstorm
 ## 1. Versionamento
-| Versão | Autor             | Alterações                         |
-|:------:| ----------------- | ---------------------------------- |
-|  1.0   | Matheus Soares  & Iago Cabral| Reunião de Brainstorm |
+| Versão | Autor             | Alterações                         | Revisor|
+|:------:| ----------------- | ---------------------------------- | ------- |
+|  1.0   | Matheus Soares  & Iago Cabral| Reunião de Brainstorm | Joao Victor Correia de Oliveira |
 <div style="text-align: center">
 <p>Tabela 1: Versionamento</p>
 </div>
