@@ -24,6 +24,8 @@
 | Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
 | :--------------: | :--------: | :-------: | :-------------------: | :-------------------: |
 | Nome do Léxico | Sinônimo | Símbolo | Descrição do efeito | Verbo/Objeto/Estado |
+<center> <p>Tabela 1: Modelo dos Léxicos</p>
+</center>
 
 ## 3. Léxicos
 
