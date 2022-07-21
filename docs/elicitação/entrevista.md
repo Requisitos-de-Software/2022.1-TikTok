@@ -2,9 +2,9 @@
 
 ## 1. Versionamento
 
-| Versão | Autor             | Alterações                          |
-| ------ | ----------------- | ----------------------------------- |
-| 1.0    | Mateus Caltabiano | Abertura do documento de entrevista |
+| Versão | Autor             | Alterações                          | Revisor |
+| ------ | ----------------- | ----------------------------------- | ------- |
+| 1.0    | Mateus Caltabiano | Abertura do documento de entrevista | Matheus Soares |
 <div style="text-align: center">
 <p>Tabela 1: Versionamento</p>
 </div>
