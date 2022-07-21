@@ -6,7 +6,7 @@
 | :----: | :--------: | :-------------------------------------------: | :----------: | :-----: |
 |  1.0   | 20/07/2022 | Criação do documento com todas as informações | Iago Cabral | Pedro Henrique |
 |  1.1   | 21/07/2022 | Adição de lexicos | Iago Cabral | Pedro Henrique |
-|  1.1   | 21/07/2022 | Adição de lexicos faltantes | João Victor Correia |
+|  1.1   | 21/07/2022 | Adição de lexicos faltantes | João Victor Correia | Pedro Henrique |
 
 
 ## 1. Introdução
