@@ -101,7 +101,7 @@ Quando o caso de uso B estende o caso de uso A, significa que quando o caso de u
 |  Rastreabilidade  | RF05 RF04 RF09 RF11 RF02 RF01 RF06                                                                                                                             |
 
 <div style="text-align: center">
-<p>tabela 1: UC01</p>
+<p>tabela 2: UC01</p>
 </div>
 
 |       UC02        | Enviar Vídeo                                                                                                                                                    |
@@ -115,7 +115,7 @@ Quando o caso de uso B estende o caso de uso A, significa que quando o caso de u
 |  Rastreabilidade  | RF03  RNF06 RF23 RF24 RF19 RF20 RF21  RF22  RF25 RF26                                                                                                                    |
 
 <div style="text-align: center">
-<p>tabela 2: UC02</p>
+<p>tabela 3: UC02</p>
 </div>
 
 
@@ -136,7 +136,7 @@ Quando o caso de uso B estende o caso de uso A, significa que quando o caso de u
 |  Rastreabilidade  | RF04 RF11 RF13 RF14 RF16 RF17 RF29 
 
 <div style="text-align: center">
-<p>tabela 3: UC03</p>
+<p>tabela 4: UC03</p>
 </div>
 
 <center>
@@ -156,7 +156,7 @@ Quando o caso de uso B estende o caso de uso A, significa que quando o caso de u
 |  Rastreabilidade  | RF06 RF12 RF18
 
 <div style="text-align: center">
-<p>tabela 4: UC04</p>
+<p>tabela 5: UC04</p>
 </div>
 
 <center>
@@ -176,7 +176,7 @@ Quando o caso de uso B estende o caso de uso A, significa que quando o caso de u
 |  Rastreabilidade  | RF39
 
 <div style="text-align: center">
-<p>tabela 5: UC05</p>
+<p>tabela 6: UC05</p>
 </div>
 
 ##  Referências
