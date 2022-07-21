@@ -100,6 +100,10 @@ Quando o caso de uso B estende o caso de uso A, significa que quando o caso de u
 |   Pós-condições   | Caso não tenha conexão com a internet o aplicativo vai se encontrar em idle|
 |  Rastreabilidade  | RF05 RF04 RF09 RF11 RF02 RF01 RF06                                                                                                                             |
 
+<div style="text-align: center">
+<p>tabela 1: UC01</p>
+</div>
+
 |       UC02        | Enviar Vídeo                                                                                                                                                    |
 | :---------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     Descrição     | O usuário deve ser capaz de enviar seu vídeo de forma fácil.                                                                                  |
@@ -109,6 +113,10 @@ Quando o caso de uso B estende o caso de uso A, significa que quando o caso de u
 | Fluxo Alternativo | O usuário pode gravar o vídeo pelo próprio aplicativo ou selecionar um da galeria do seu aparelho celular. Para essas 2 condições o usuário será obrigado a se autenticar.                                                                                       |
 |   Pós-condições   | O vídeo enviado ficara disponível para que outros usuários da plataforma o assistam, curtam, comentem e compartilhem.  Caso não tenha conexão com a internet o aplicativo vai se encontrar em idle.|
 |  Rastreabilidade  | RF03  RNF06 RF23 RF24 RF19 RF20 RF21  RF22  RF25 RF26                                                                                                                    |
+
+<div style="text-align: center">
+<p>tabela 2: UC02</p>
+</div>
 
 
 <center>
@@ -127,6 +135,9 @@ Quando o caso de uso B estende o caso de uso A, significa que quando o caso de u
 |   Pós-condições   | O usuário poderá ver o seu perfil, nele é possível ver os vídeos enviados, número de seguidores, curtidas e seguindo, navegar pelos seus vídeos curtidos e pelas suas pastas de favoritos. Caso não tenha conexão com a internet o aplicativo vai se encontrar em idle.|
 |  Rastreabilidade  | RF04 RF11 RF13 RF14 RF16 RF17 RF29 
 
+<div style="text-align: center">
+<p>tabela 3: UC03</p>
+</div>
 
 <center>
     <img height="350px" width="200" src="https://media.discordapp.net/attachments/827361619611877407/999434496862597170/unknown.png?width=267&height=473">
@@ -144,6 +155,10 @@ Quando o caso de uso B estende o caso de uso A, significa que quando o caso de u
 |   Pós-condições   | O usuário poderá ver as mensagens que foram enviadas ou recebidas. Caso não tenha conexão com a internet o aplicativo vai se encontrar em idle.|
 |  Rastreabilidade  | RF06 RF12 RF18
 
+<div style="text-align: center">
+<p>tabela 4: UC04</p>
+</div>
+
 <center>
     <img height="350px" width="200" src="https://cdn.discordapp.com/attachments/827361619611877407/999443277176655872/unknown.png">
 <p>Imagem 9: Icone da caixa de entrada</p>
@@ -160,6 +175,9 @@ Quando o caso de uso B estende o caso de uso A, significa que quando o caso de u
 |   Pós-condições   | O usuário poderá ver as mens O usuário poderá escutar a música desejada, mesmo com o aplicativo minimizado. Caso não tenha conexão com a internet o aplicativo vai se encontrar em idle.  |
 |  Rastreabilidade  | RF39
 
+<div style="text-align: center">
+<p>tabela 5: UC05</p>
+</div>
 
 ##  Referências
 > - Milene Serrano, Requisitos - Aula 13. Acesso em: 19 de jul. de 2022. Disponível em: Aprender3.
