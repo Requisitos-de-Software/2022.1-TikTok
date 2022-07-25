@@ -1,11 +1,12 @@
 # Rich Picture
 ## 1. Versionamento
 
-| Versão | Autor             | Alterações                         |
-|:------:| ----------------- | ---------------------------------- |
-|  1.0   | Matheus Soares | Confecção da primeira versão do Rich Picture |
-|  1.1   | Matheus Perillo | Adição de legenda na imagem |
-|  2.0   | Matheus Soares | Confecção da Segunda versão do Rich Picture|
+| Versão | Autor             | Alterações                                         | Revisor        |
+|:------:| ----------------- | -------------------------------------------------- | -------------- |
+|  1.0   | Matheus Soares    | Confecção da primeira versão do Rich Picture       |                |
+|  1.1   | Matheus Perillo   | Adição de legenda na imagem                        |                |
+|  2.0   | Matheus Soares    | Confecção da Segunda versão do Rich Picture        |                |
+|  2.1   | Mateus Caltabiano | Adição da imagem da segunda versão do Rich Picture | Matheus Soares |
 
 
 ## 2. Introdução
