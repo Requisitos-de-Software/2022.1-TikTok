@@ -10,6 +10,7 @@
 |  1.2   | Mateus Caltabiano | Adição do detalhamento da Sprint 1  |
 | 1.2.1  | Matheus Perillo   | Adição de legendas nas tabelas      |
 |  1.3   | Mateus Caltabiano | Adição do detalhamento da Sprint 2  |
+|  1.4   | Mateus Caltabiano | Adição do detalhamento da Sprint 3  |
 
 ## 2. Introdução
 
@@ -59,8 +60,8 @@
 | #08   | Apps analisados                    | Mateus Caltabiano            | N/A     |
 | #09   | Adicionando a homepage do GH-Pages | Pedro Henrique e Iago Cabral | N/A     |
 | #10   | Adicionando o README               | Iago Cabral                  | N/A     |
-| #11   | Adição de descrição Rich Picture   | Matheus Soares               |    N/A     |
-| #12   | Atualização da estrutura do mkdocs | Iago Cabral                  |   N/A      |
+| #11   | Adição de descrição Rich Picture   | Matheus Soares               | N/A     |
+| #12   | Atualização da estrutura do mkdocs | Iago Cabral                  | N/A     |
 
 <div style="text-align: center">
 <p>Tabela 3: Atividades realizadas</p>
@@ -114,6 +115,28 @@
 
 <div style="text-align: center">
 <p>Tabela 7: Atividades realizadas</p>
+</div>
+
+### Sprint 3
+
+| Início | Fim   |
+| ------ | ----- |
+| 14/06  | 21/07 |
+
+<p>Tabela 8: Cronograma da Sprint 3 </p>
+<br>
+
+| Issue | Título                                           | Responsáveis      | Entrega | Revisores         | Revisão |
+| ----- | ------------------------------------------------ | ----------------- | ------- | ----------------- | ------- |
+| #32   | Elaborar documento de cenários                   | Mateus Caltabiano | 19/07   | Matheus Soares    | 20/07   |
+| #33   | Especificação suplementar                        | Matheus Perillo   | 20/07   | Mateus Caltabiano | 20/07   |
+| #34   | Criação do documento de caso de uso              | Matheus Soares    | 20/07   | Pedro Henrique    | 20/07   |
+| #35   | Elaborar cenários                                | Mateus Caltabiano | 19/07   | Matheus Perillo   | 20/07   |
+| #36   | Adição dos léxicos                               | João Victor       | 20/07   | Iago Cabral       | 20/07   |
+| #37   | Adição de revisores e padronização de documentos | Matheus Soares    | 20/07   | Matheus Perillo   | 20/07   |
+
+<div style="text-align: center">
+<p>Tabela 9: Atividades realizadas</p>
 </div>
 
 ## 5. Referências
