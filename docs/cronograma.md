@@ -11,6 +11,8 @@
 | 1.2.1  | Matheus Perillo   | Adição de legendas nas tabelas      |
 |  1.3   | Mateus Caltabiano | Adição do detalhamento da Sprint 2  |
 |  1.4   | Mateus Caltabiano | Adição do detalhamento da Sprint 3  |
+|  1.5   | Mateus Caltabiano | Adição do detalhamento da Sprint 4  |
+
 
 ## 2. Introdução
 
