@@ -25,23 +25,34 @@
 ## 3. Legenda
 <center>
 
+<p style="font-size: 15px">
 Imagem 1: Legenda do NRF
+</p>
     
 ![NFR](https://cdn.discordapp.com/attachments/744698026462937211/1004542201604349962/unknown.png)
 
+<p style="font-size: 12px">
 Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados por Reinaldo Antônio da Silva
-
+</p>
 
     
 </center>
 <center>
+<br>
+<br>
+
+<p style="font-size: 15px">
 Imagem 2: Tipos de rótulos utilizados pelos Softgoals
-    
+</p>
+
 ![Rot](https://cdn.discordapp.com/attachments/744698026462937211/1004510204131553400/unknown.png)
 
+<p style="font-size: 12px">
 Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados por Reinaldo Antônio da Silva
+</p>
 
 </center>
+<br>
 
 ## 4. Requisitos não funcionais.
 
@@ -59,31 +70,32 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 | RNF8 | O aplicativo deve suportar multiplataformas. | 
 | RNF9 |O aplicativo deve impedir que a tela bloqueie automaticamente | 
 
-### 5 NFR
+### 5. NFR
 &emsp; A seguir estão os SIG feitos pela equipe sobre Usabilidade, Desempenho, Confiabilidade, Portabilidade e Segurança
-### 5.1 NFR de Usabilidade
-<center>
-<figcaption>Imagem 3: Diagrama NFR Framework de Usabilidade</figcaption>
-    <br>
-    
-![nfr_uso](https://cdn.discordapp.com/attachments/744698026462937211/1004537068057280683/unknown.png)
 
+### 5.1 NFR de Usabilidade
+
+<center>
+<figcaption style="font-size: 15px">Imagem 3: Diagrama NFR Framework de Usabilidade</figcaption>
+
+![nfr_uso](https://cdn.discordapp.com/attachments/744698026462937211/1004557547207938058/unknown.png)
 
 </center>
 
 ### 5.1.1 NFR de Usabilidade com propagação
 
 <center>
-<figcaption>Imagem 4: Diagrama NFR Framework de Usabilidade com propagação</figcaption>
+<figcaption style="font-size: 15px">Imagem 4: Diagrama NFR Framework de Usabilidade com propagação</figcaption>
 
 ![nfr_uso](https://cdn.discordapp.com/attachments/744698026462937211/1004545354299088957/unknown.png)
 </center>
 
+<br>
 
 ### 5.2 NFR de Desempenho
 <center>
-<figcaption>Imagem 5: Diagrama NFR Framework de Desempenho</figcaption>
-    <br>
+<figcaption style="font-size: 15px">Imagem 5: Diagrama NFR Framework de Desempenho</figcaption>
+
     
 ![nfr_Dev](https://cdn.discordapp.com/attachments/744698026462937211/1004524863232413866/unknown.png)
 
@@ -94,17 +106,18 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 <center>
   
-<figcaption>Imagem 6: Diagrama NFR Framework de Desempenho com propagação</figcaption>
+<figcaption style="font-size: 15px">Imagem 6: Diagrama NFR Framework de Desempenho com propagação</figcaption>
 
 ![nfr_Dev](https://cdn.discordapp.com/attachments/744698026462937211/1004541497678516337/unknown.png)
 
 </center>
 
+<br>
 
 ### 5.3 NFR de Confiabilidade
 <center>
-<figcaption>Imagem 7: Diagrama NFR Framework de Confiabilidade</figcaption>
-    <br>
+<figcaption style="font-size: 15px">Imagem 7: Diagrama NFR Framework de Confiabilidade</figcaption>
+
     
 ![nfr_Conf](https://cdn.discordapp.com/attachments/744698026462937211/1004537349365039134/unknown.png)
 
@@ -115,18 +128,20 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 <center>
 
-<figcaption>Imagem 8: Diagrama NFR Framework de Confiabilidade com propagação</figcaption>
+<figcaption style="font-size: 15px">Imagem 8: Diagrama NFR Framework de Confiabilidade com propagação</figcaption>
 
 ![nfr_Conf](https://cdn.discordapp.com/attachments/744698026462937211/1004546682752606258/unknown.png)
 
 </center>
 
+<br>
+
 ### 5.4 NFR de Portabilidade
 
 <center>
     
-<figcaption>Imagem 9: Diagrama NFR Framework de Portabilidade</figcaption>
-    <br>
+<figcaption style="font-size: 15px">Imagem 9: Diagrama NFR Framework de Portabilidade</figcaption>
+    
     
 ![nfr_Port](https://cdn.discordapp.com/attachments/744698026462937211/1004540896622153738/unknown.png)
 
@@ -137,16 +152,18 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 <center>
   
-<figcaption>Imagem 10: Diagrama NFR Framework de Portabilidade com propagação</figcaption>
+<figcaption style="font-size: 15px">Imagem 10: Diagrama NFR Framework de Portabilidade com propagação</figcaption>
   
 ![nfr_Port](https://cdn.discordapp.com/attachments/744698026462937211/1004542775699705966/unknown.png)
 
 </center>
 
+<br>
+
 ### 5.5 NFR de Segurança
 <center>
-<figcaption>Imagem 11: Diagrama NFR Framework de Segurança</figcaption>
-    <br>
+<figcaption style="font-size: 15px">Imagem 11: Diagrama NFR Framework de Segurança</figcaption>
+    
     
 ![nfr_Seg](https://cdn.discordapp.com/attachments/744698026462937211/1004538414764413140/unknown.png)
 
@@ -157,12 +174,13 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 <center>
 
-<figcaption>Imagem 12: Diagrama NFR Framework de Segurança com propagação</figcaption>
+<figcaption style="font-size: 15px">Imagem 12: Diagrama NFR Framework de Segurança com propagação</figcaption>
   
 ![nfr_Seg](https://cdn.discordapp.com/attachments/744698026462937211/1004544100713893888/unknown.png)
 
 </center>
 
+<br>
 
 ## 6. Bibliografia
 
