@@ -61,7 +61,7 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 &emsp; A seguir estão os SIG feitos pela equipe sobre Usabilidade, Desempenho, Confiabilidade, Portabilidade e Segurança
 ### 5.1 NFR de Usabilidade
 <center>
-<figcaption>Imagem 1: Diagrama NFR Framework de Usabilidade</figcaption>
+<figcaption>Imagem 3: Diagrama NFR Framework de Usabilidade</figcaption>
     <br>
     
 ![nfr_uso](https://cdn.discordapp.com/attachments/744698026462937211/1004537068057280683/unknown.png)
@@ -79,7 +79,7 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 ### 5.2 NFR de Desempenho
 <center>
-<figcaption>Imagem 7: Diagrama NFR Framework de Desempenho</figcaption>
+<figcaption>Imagem 5: Diagrama NFR Framework de Desempenho</figcaption>
     <br>
     
 ![nfr_Dev](https://cdn.discordapp.com/attachments/744698026462937211/1004524863232413866/unknown.png)
@@ -99,7 +99,7 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 ### 5.3 NFR de Confiabilidade
 <center>
-<figcaption>Imagem 7: Diagrama NFR Framework de Desempenho</figcaption>
+<figcaption>Imagem 7: Diagrama NFR Framework de Confiabilidade</figcaption>
     <br>
     
 ![nfr_Conf](https://cdn.discordapp.com/attachments/744698026462937211/1004537349365039134/unknown.png)
@@ -107,7 +107,7 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 </center>
 
-### 5.3.1 NFR de Desempenho com propagação
+### 5.3.1 NFR de Confiabilidade com propagação
 
 <center>
 
@@ -120,7 +120,7 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 <center>
     
-<figcaption>Imagem 1: Diagrama NFR Framework de Usabilidade</figcaption>
+<figcaption>Imagem 9: Diagrama NFR Framework de Portabilidade</figcaption>
     <br>
     
 ![nfr_uso](https://cdn.discordapp.com/attachments/744698026462937211/1004540896622153738/unknown.png)
@@ -137,7 +137,7 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 ### 5.5 NFR de Segurança
 <center>
-<figcaption>Imagem 1: Diagrama NFR Framework de Usabilidade</figcaption>
+<figcaption>Imagem 11: Diagrama NFR Framework de Segurança</figcaption>
     <br>
     
 ![nfr_uso](https://cdn.discordapp.com/attachments/744698026462937211/1004538414764413140/unknown.png)
