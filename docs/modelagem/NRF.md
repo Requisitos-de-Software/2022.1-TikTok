@@ -7,8 +7,9 @@
 |  1.0  | 02/08/2022 | Abertura do documento | Pedro Henrique Nogueira, Iago Cabral e Matheus Perillo | Matheus Soares |
 |  1.1  | 02/08/2022 | Adicionar introdução | Pedro Henrique Nogueira, Iago Cabral e Matheus Perillo | Matheus Soares |
 |  1.2  | 02/08/2022 | Explicação da metodologia | Pedro Henrique Nogueira, Iago Cabral e Matheus Perillo | Matheus Soares |
-|  1.3  | 02/08/2022 | Explicação da metodologia | Pedro Henrique Nogueira, Iago Cabral e Matheus Perillo | Matheus Soares |
-|  1.4  | 02/08/2022 | Adição dos SIG| Pedro Henrique Nogueira, Iago Cabral e Matheus Perillo | Matheus Soares |
+|  1.3  | 02/08/2022 | Adição da legenda do NFR | Pedro Henrique Nogueira, Iago Cabral e Matheus Perillo | Matheus Soares |
+|  1.4  | 02/08/2022 | Adição dos RNFs| Pedro Henrique Nogueira, Iago Cabral e Matheus Perillo | Matheus Soares |
+|  1.5  | 02/08/2022 | Adição dos NFRs| Pedro Henrique Nogueira, Iago Cabral e Matheus Perillo | Matheus Soares |
 
 
 ## 1. Introdução
@@ -73,7 +74,7 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 <center>
 
-
+![nfr_uso](https://cdn.discordapp.com/attachments/744698026462937211/1004545354299088957/unknown.png)
 </center>
 
 
@@ -91,8 +92,7 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 <center>
 
-![nfr](../assets/nfr/nfr_usability_prop.png)
-<figcaption></figcaption>
+![nfr_Dev](https://cdn.discordapp.com/attachments/744698026462937211/1004541497678516337/unknown.png)
 
 </center>
 
@@ -111,8 +111,7 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 <center>
 
-![nfr](../assets/nfr/nfr_usability_prop.png)
-<figcaption></figcaption>
+![nfr_Conf](https://cdn.discordapp.com/attachments/744698026462937211/1004546682752606258/unknown.png)
 
 </center>
 
@@ -123,7 +122,7 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 <figcaption>Imagem 9: Diagrama NFR Framework de Portabilidade</figcaption>
     <br>
     
-![nfr_uso](https://cdn.discordapp.com/attachments/744698026462937211/1004540896622153738/unknown.png)
+![nfr_Port](https://cdn.discordapp.com/attachments/744698026462937211/1004540896622153738/unknown.png)
 
 
 </center>
@@ -131,7 +130,8 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 ### 5.4.1 NFR de Portabilidade com propagação
 
 <center>
-
+  
+![nfr_Port](https://cdn.discordapp.com/attachments/744698026462937211/1004542775699705966/unknown.png)
 
 </center>
 
@@ -140,7 +140,7 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 <figcaption>Imagem 11: Diagrama NFR Framework de Segurança</figcaption>
     <br>
     
-![nfr_uso](https://cdn.discordapp.com/attachments/744698026462937211/1004538414764413140/unknown.png)
+![nfr_Seg](https://cdn.discordapp.com/attachments/744698026462937211/1004538414764413140/unknown.png)
 
 
 </center>
@@ -148,7 +148,8 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 ### 5.5.1 NFR de Segurança com propagação
 
 <center>
-
+  
+![nfr_Seg](https://cdn.discordapp.com/attachments/744698026462937211/1004544100713893888/unknown.png)
 
 </center>
 
