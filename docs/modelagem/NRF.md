@@ -11,6 +11,7 @@
 |  1.4  | 02/08/2022 | Adição dos RNFs| Pedro Henrique Nogueira, Iago Cabral e Matheus Perillo | Matheus Soares |
 |  1.5  | 02/08/2022 | Adição dos NFRs| Pedro Henrique Nogueira, Iago Cabral e Matheus Perillo | Matheus Soares |
 |  1.6  | 02/08/2022 | Adição de legendas nas figuras| Pedro Henrique Nogueira, Iago Cabral e Matheus Perillo | Matheus Soares |
+|  1.7  | 02/08/2022 | Adição dos links RES| Matheus Perillo | Matheus Soares |
 
 
 ## 1. Introdução
@@ -76,7 +77,7 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 ### 5.1 NFR de Usabilidade
 
 <center>
-<figcaption style="font-size: 15px">Imagem 3: Diagrama NFR Framework de Usabilidade</figcaption>
+<figcaption style="font-size: 15px">Imagem 3: Diagrama NFR Framework de <a href="https://requisitos-de-software.github.io/2022.1-TikTok/especificacaoSuplementar/#32-usabilidade">Usabilidade</a></figcaption>
 
 ![nfr_uso](https://cdn.discordapp.com/attachments/744698026462937211/1004557547207938058/unknown.png)
 
@@ -85,7 +86,7 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 ### 5.1.1 NFR de Usabilidade com propagação
 
 <center>
-<figcaption style="font-size: 15px">Imagem 4: Diagrama NFR Framework de Usabilidade com propagação</figcaption>
+<figcaption style="font-size: 15px">Imagem 4: Diagrama NFR Framework de <a href="https://requisitos-de-software.github.io/2022.1-TikTok/especificacaoSuplementar/#32-usabilidade">Usabilidade</a> com propagação</figcaption>
 
 ![nfr_uso](https://cdn.discordapp.com/attachments/744698026462937211/1004545354299088957/unknown.png)
 </center>
@@ -94,7 +95,7 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 ### 5.2 NFR de Desempenho
 <center>
-<figcaption style="font-size: 15px">Imagem 5: Diagrama NFR Framework de Desempenho</figcaption>
+<figcaption style="font-size: 15px">Imagem 5: Diagrama NFR Framework de <a href="https://requisitos-de-software.github.io/2022.1-TikTok/especificacaoSuplementar/#34-desempenho">Desempenho</a></figcaption>
 
     
 ![nfr_Dev](https://cdn.discordapp.com/attachments/744698026462937211/1004524863232413866/unknown.png)
@@ -106,7 +107,7 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 <center>
   
-<figcaption style="font-size: 15px">Imagem 6: Diagrama NFR Framework de Desempenho com propagação</figcaption>
+<figcaption style="font-size: 15px">Imagem 6: Diagrama NFR Framework de <a href="https://requisitos-de-software.github.io/2022.1-TikTok/especificacaoSuplementar/#34-desempenho">Desempenho</a> com propagação</figcaption>
 
 ![nfr_Dev](https://cdn.discordapp.com/attachments/744698026462937211/1004541497678516337/unknown.png)
 
@@ -116,7 +117,7 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 ### 5.3 NFR de Confiabilidade
 <center>
-<figcaption style="font-size: 15px">Imagem 7: Diagrama NFR Framework de Confiabilidade</figcaption>
+<figcaption style="font-size: 15px">Imagem 7: Diagrama NFR Framework de <a href="https://requisitos-de-software.github.io/2022.1-TikTok/especificacaoSuplementar/#33-confiabilidade">Confiabilidade</a></figcaption>
 
     
 ![nfr_Conf](https://cdn.discordapp.com/attachments/744698026462937211/1004537349365039134/unknown.png)
@@ -128,7 +129,7 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 <center>
 
-<figcaption style="font-size: 15px">Imagem 8: Diagrama NFR Framework de Confiabilidade com propagação</figcaption>
+<figcaption style="font-size: 15px">Imagem 8: Diagrama NFR Framework de <a href="https://requisitos-de-software.github.io/2022.1-TikTok/especificacaoSuplementar/#33-confiabilidade">Confiabilidade</a> com propagação</figcaption>
 
 ![nfr_Conf](https://cdn.discordapp.com/attachments/744698026462937211/1004546682752606258/unknown.png)
 
@@ -140,7 +141,7 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 <center>
     
-<figcaption style="font-size: 15px">Imagem 9: Diagrama NFR Framework de Portabilidade</figcaption>
+<figcaption style="font-size: 15px">Imagem 9: Diagrama NFR Framework de <a href="https://requisitos-de-software.github.io/2022.1-TikTok/especificacaoSuplementar/#35-suportabilidade">Portabilidade</a></figcaption>
     
     
 ![nfr_Port](https://cdn.discordapp.com/attachments/744698026462937211/1004540896622153738/unknown.png)
@@ -152,7 +153,7 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 <center>
   
-<figcaption style="font-size: 15px">Imagem 10: Diagrama NFR Framework de Portabilidade com propagação</figcaption>
+<figcaption style="font-size: 15px">Imagem 10: Diagrama NFR Framework de <a href="https://requisitos-de-software.github.io/2022.1-TikTok/especificacaoSuplementar/#35-suportabilidade">Portabilidade</a> com propagação</figcaption>
   
 ![nfr_Port](https://cdn.discordapp.com/attachments/744698026462937211/1004542775699705966/unknown.png)
 
