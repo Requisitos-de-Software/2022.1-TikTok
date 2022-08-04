@@ -10,6 +10,7 @@
 |  1.3  | 02/08/2022 | Adição da legenda do NFR | Pedro Henrique Nogueira, Iago Cabral e Matheus Perillo | Matheus Soares |
 |  1.4  | 02/08/2022 | Adição dos RNFs| Pedro Henrique Nogueira, Iago Cabral e Matheus Perillo | Matheus Soares |
 |  1.5  | 02/08/2022 | Adição dos NFRs| Pedro Henrique Nogueira, Iago Cabral e Matheus Perillo | Matheus Soares |
+|  1.6  | 02/08/2022 | Adição de legendas nas figuras| Pedro Henrique Nogueira, Iago Cabral e Matheus Perillo | Matheus Soares |
 
 
 ## 1. Introdução
@@ -24,7 +25,7 @@
 ## 3. Legenda
 <center>
 
-Imagem 1
+Imagem 1: Legenda do NRF
     
 ![NFR](https://cdn.discordapp.com/attachments/744698026462937211/1004542201604349962/unknown.png)
 
@@ -34,7 +35,7 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
     
 </center>
 <center>
-Imagem 2
+Imagem 2: Tipos de rótulos utilizados pelos Softgoals
     
 ![Rot](https://cdn.discordapp.com/attachments/744698026462937211/1004510204131553400/unknown.png)
 
@@ -73,6 +74,7 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 ### 5.1.1 NFR de Usabilidade com propagação
 
 <center>
+<figcaption>Imagem 4: Diagrama NFR Framework de Usabilidade com propagação</figcaption>
 
 ![nfr_uso](https://cdn.discordapp.com/attachments/744698026462937211/1004545354299088957/unknown.png)
 </center>
@@ -91,6 +93,8 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 ### 5.2.1 NFR de Desempenho com propagação
 
 <center>
+  
+<figcaption>Imagem 6: Diagrama NFR Framework de Desempenho com propagação</figcaption>
 
 ![nfr_Dev](https://cdn.discordapp.com/attachments/744698026462937211/1004541497678516337/unknown.png)
 
@@ -110,6 +114,8 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 ### 5.3.1 NFR de Confiabilidade com propagação
 
 <center>
+
+<figcaption>Imagem 8: Diagrama NFR Framework de Confiabilidade com propagação</figcaption>
 
 ![nfr_Conf](https://cdn.discordapp.com/attachments/744698026462937211/1004546682752606258/unknown.png)
 
@@ -131,6 +137,8 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 
 <center>
   
+<figcaption>Imagem 10: Diagrama NFR Framework de Portabilidade com propagação</figcaption>
+  
 ![nfr_Port](https://cdn.discordapp.com/attachments/744698026462937211/1004542775699705966/unknown.png)
 
 </center>
@@ -148,6 +156,8 @@ Fonte: NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcad
 ### 5.5.1 NFR de Segurança com propagação
 
 <center>
+
+<figcaption>Imagem 12: Diagrama NFR Framework de Segurança com propagação</figcaption>
   
 ![nfr_Seg](https://cdn.discordapp.com/attachments/744698026462937211/1004544100713893888/unknown.png)
 
