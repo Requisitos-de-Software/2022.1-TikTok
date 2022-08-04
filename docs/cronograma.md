@@ -139,5 +139,24 @@
 <p>Tabela 9: Atividades realizadas</p>
 </div>
 
+### Sprint 4 & 5
+
+| Início | Fim   |
+| ------ | ----- |
+| 21/07  | 04/08 |
+
+<p>Tabela 10: Cronograma da Sprint 4 </p>
+<br>
+
+| Issue | Título                                 | Responsáveis                                  | Entrega | Revisores         | Revisão |
+| ----- | -------------------------------------- | --------------------------------------------- | ------- | ----------------- | ------- |
+| #38   | Corrigir documento do Rich Picture     | Mateus Caltabiano                             | 25/07   | Matheus Soares    | 25/07   |
+| #41   | Documento do Product Backlog           | Matheus Soares e Mateus Caltabiano            | 02/08   | João Victor       | 03/08   |
+| #42   | Atualização do Cronograma - Sprint 3   | Mateus Caltabiano                             | 03/08   | Matheus Perillo   | 03/08   |
+| #43   | NFR Framework                          | Matheus Perillo, Pedro Henrique e Iago Cabral | 03/08   | Mateus Caltabiano | 03/08   |
+| #44   | Documento de User Stories              | João Victor e Matheus Soares                  | 03/08   | Pedro Henrique    | 03/08   |
+| #45   | Gravação do vídeo  para quarta entrega | Todos                                         | 03/08   | N/A               | N/A     |
+| #46      |         Atualização de cronograma - Sprint 4                               |    Mateus Caltabiano                                           |   03/08      |  Iago Cabral                 |      03/08   |
+
 ## 5. Referências
 >DE SALES, André. Plano de ensino -- Requisitos de Software -- 01/2022. Aprender3, 2022. Disponível em: < https://aprender3.unb.br/pluginfile.php/2124392/mod_resource/content/19/Plano_de_Ensino%20RE%20202201%20Turma%202.pdf > . Acesso em: 28/06/2022
