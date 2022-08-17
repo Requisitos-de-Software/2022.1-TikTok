@@ -66,3 +66,20 @@ Para detecção de defeitos elaborou-se um checklist com a própria ferramenta M
 </center>
 
 <p style="text-indent: 20px; text-align: center">Fonte: Grupo 7</p>
+
+### 4.2 Correção de defeitos
+<p style="text-indent: 20px; text-align: justify">
+O objetivo da desta fase é que o autores relacionados ao Rich Picture estejam cientes do que será corrigido, garantindo que as falhas identificadas sejam eliminadas.
+</p>
+
+### 4.4 Acompanhamento
+<p style="text-indent: 20px; text-align: justify">
+A fim de garantir que as modificações necessárias no Rich Picture foram feitas em conformidade, o autor e o inspetor são responsáveis por isso. O objetivo do processo de acompanhamento é garantir que o(s) autor(es) do Rich Picture tenha(m) retificado todos os requisitos declarados incompletos e/ou inconsistentes ou os defeitos detectados.
+
+- [ ] - Rich Picture Corrigido
+</p>
+
+##  Referências
+- Rich Picture. Disponivel em: https://requisitos-de-software.github.io/2022.1-TikTok/richPicture/
+- Rich Picture - MedSUS. Disponível em: https://requisitos-de-software.github.io/2021.2-MedSUS/verification/inspection_richpicture/. Acesso em: 17 ago. 2022.
+- Grafico feito no Canvas. Disponível  em: https://www.canva.com/design/DAFJnfaC4LM/WNdemxD21dlM-4ZM_dzOA/viewutm_content=DAFJnfaC4LM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
