@@ -85,5 +85,4 @@ A fim de garantir que as modificações necessárias na história de usuário fo
 </p>
 
 ##  Referências
-> - SILVA, Reinaldo Antônio da. NFR4ES:Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Recife, 201
-> - NFR - MedSUS. Disponível em: <https://requisitos-de-software.github.io/2021.2-MedSUS/verification/inspection_nfr/>. Acesso em: 17 ago. 2022.
+> - SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 15): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 46 slides. color. Disponível em: https://aprender3.unb.br/pluginfile.php/1668185/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em: 17 agosto de 2022.
