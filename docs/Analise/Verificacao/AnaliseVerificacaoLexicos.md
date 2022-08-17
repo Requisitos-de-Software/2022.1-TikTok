@@ -62,7 +62,7 @@ Para detecção de defeitos elaborou-se um checklist com a própria ferramenta M
 
 <center>
 
-<img src="https://cdn.discordapp.com/attachments/744698026462937211/1009587657837379694/unknown.png"> </img>
+<img src="https://cdn.discordapp.com/attachments/744698026462937211/1009588119756091433/unknown.png"> </img>
 
 </center>
 
