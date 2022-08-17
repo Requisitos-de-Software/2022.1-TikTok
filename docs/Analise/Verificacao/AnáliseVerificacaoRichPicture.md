@@ -52,7 +52,7 @@ Para detecção de defeitos elaborou-se um checklist com a própria ferramenta M
 |   5    |            Inclui todos os atores             |   1   |  1  |  0  |        0.00%        |      ---      |                       ---                       |
 |   6    |   Possui o fluxo completo para um processo    |   1   |  1  |  0  |        0.00%        |      ---      |                       ---                       |
 |   7    | Possui motivo para o autor utilizar o sistema |   1   |  1  |  0  |        0.00%        |      ---      |                       ---                       |
-|   8    | Possui descrição para os processos nas setas  |   1   |  0  |  1  |       100.00%       |  Não Possui   | Adicionar descrição para os processos nas setas |
+|   8    | Possui descrição para os processos nas setas  |   1   |  0  |  1  |       100.00%       |  Defeito de omissão   | Adicionar descrição para os processos nas setas |
 
 <p style="text-indent: 20px; text-align: center">Fonte: Grupo 7</p>
 
