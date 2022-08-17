@@ -9,6 +9,7 @@
 | Versão | Autor | Alterações | Revisor    |
 | ------ | ----- | ---------- | --- |
 | 1.0   | Iago de Paula Cabral   | Criação do Documento |  Pedro Henrique Nogueira   |
+| 1.1   | Iago de Paula Cabral   | Adição de acompanhamento e correção |  Pedro Henrique Nogueira   |
 
 <p style="text-indent: 20px; text-align: center">Fonte: Iago de Paula Cabral </p>
 
@@ -75,8 +76,20 @@ Para detecção de defeitos elaborou-se um checklist com a própria ferramenta M
 
 <p style="text-indent: 20px; text-align: center">Fonte: Grupo 7</p>
 
+### 4.2 Correção de defeitos
+<p style="text-indent: 20px; text-align: justify">
+O objetivo da desta fase é que o autores relacionados a especificação suplementar estejam cientes do que será corrigido, garantindo que as falhas identificadas sejam eliminadas.
+</p>
+
+### 4.4 Acompanhamento
+<p style="text-indent: 20px; text-align: justify">
+A fim de garantir que as modificações necessárias no especificação suplementar foram feitas em conformidade, o autor e o inspetor são responsáveis por isso. O objetivo do processo de acompanhamento é garantir que o(s) autor(es) da especificação suplementar tenha(m) retificado todos os requisitos declarados incompletos e/ou inconsistentes ou os defeitos detectados.
+
+- [ ] - Especificação suplementar Corrigido
+</p>
+
 ## Referências bibliográficas
 
 ##  Referências
 > SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 23): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 52 slides. color. Disponível em: https://aprender3.unb.br/pluginfile.php/2124537/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf. Acesso em: 17 ago. 2022.<br>
-> Especificação Suplementar - MedSUS. Disponível em: <https://requisitos-de-software.github.io/2021.2-MedSUS/verification/inspection_suplementary/>. Acesso em: 17 ago. 2022.
+> Especificação Suplementar - MedSUS. Disponível em: <https://williamelias.github.io/Req-01-2019-medium/analise/verificacao_storybord/>. Acesso em: 17 ago. 2022.

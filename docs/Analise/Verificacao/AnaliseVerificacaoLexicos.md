@@ -10,7 +10,7 @@
 | ------ | ----- | ---------- | --- |
 | 1.0   | Pedro Henrique Nogueira  | Criação do Documento |  Matheus Soares   |
 
-<p style="text-indent: 20px; text-align: center">Fonte: Pedro Henrique Nogueira</p>
+
 
 
 
