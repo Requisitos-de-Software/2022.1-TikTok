@@ -51,7 +51,7 @@ Para detecção de defeitos elaborou-se um checklist com a própria ferramenta M
 |   4    | Os símbolos estão devidamente classificados (sujeito, objeto, verbo, estado)?  |   21   |  21  |  0  |        0.00%        |      ---      |                       ---                       |
 |   5    | Os impactos descrevem o efeito, uso ou coerência do símbolo no sistema ou efeito de algo na aplicação sobre o símbolo?           |   21   |  21  |  0  |        0.00%        |      ---      |                       ---                       |
 |   6    | Os léxicos quando necessário, possuem sinônimos?    |   21   |  21  |  0  |        0.00%        |      ---      |                       ---                       |
-|   7    |  Os léxicos possuem ligações entre si (HyperLex)?   |   21   |  0  |  21  |       100.00%        |      Defeito de omição     |                Adicionar HyperLex aos Léxicos         |
+|   7    |  Os léxicos possuem ligações entre si ?   |   21   |  0  |  21  |       100.00%        |      Defeito de omição     |                Adicionar HyperLex aos Léxicos         |
 |   8    |	Os Léxicos estão descritos em linguagem natural para uma comunicação saudável entre os stakeholders?|   21   |  21  |  0  |        0.00%        |      ---      |                       ---                       |
 |   9    | 	Possui rastro?  |   21   |  0  |  21  |       100.00%        |      Defeito de omição     |                Adicionar rastros         |
 
