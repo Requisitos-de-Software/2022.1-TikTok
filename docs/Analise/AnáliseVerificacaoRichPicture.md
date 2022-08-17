@@ -37,7 +37,7 @@
 
 <p style="text-indent: 20px; text-align: center">Fonte: Grupo 7</p>
 
-## 4. Inspeção (NFR Framework)
+## 4. Inspeção (Rich Picture)
 ### 4.1 Detecção de Defeitos
 Para detecção de defeitos elaborou-se um checklist com a própria ferramenta Mkdown.
 
