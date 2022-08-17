@@ -81,5 +81,5 @@ A fim de garantir que as modificações necessárias no Rich Picture foram feita
 
 ##  Referências
 - Rich Picture. Disponivel em: https://requisitos-de-software.github.io/2022.1-TikTok/richPicture/
-- Rich Picture - MedSUS. Disponível em: https://requisitos-de-software.github.io/2021.2-MedSUS/verification/inspection_richpicture/. Acesso em: 17 ago. 2022.
+- Rich Picture - MedSUS. Disponível em: https://requisitos-de-software.github.io/2021.2-MedSUS/verification/inspection_richpicture/. Acesso em: 16 ago. 2022.
 - Grafico feito no Canvas. Disponível  em: https://www.canva.com/design/DAFJnfaC4LM/WNdemxD21dlM-4ZM_dzOA/viewutm_content=DAFJnfaC4LM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
