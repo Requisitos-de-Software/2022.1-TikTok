@@ -47,7 +47,7 @@ Para detecção de defeitos elaborou-se um checklist com a própria ferramenta M
 |:------:|:---------------------------------------------:|:-----:|:---:|:---:|:-------------------:|:-------------:|:-----------------------------------------------:|
 |   1    |     Mostra as funcionalidades principais      |   1   |  1  |  0  |        0.00%        |      ---      |                       ---                       |
 |   2    |        Possui elemento em foco central        |   1   |  1  |  0  |        0.00%        |      ---      |                       ---                       |
-|   3    |         Possui uma facil visualização         |   1   |  1  |  0  |        0.00%        |      ---      |                       ---                       |
+|   3    |         Possui uma fácil visualização         |   1   |  1  |  0  |        0.00%        |      ---      |                       ---                       |
 |   4    | Possui descrição para os símbolos utilizados  |   1   |  1  |  0  |        0.00%        |      ---      |                       ---                       |
 |   5    |            Inclui todos os atores             |   1   |  1  |  0  |        0.00%        |      ---      |                       ---                       |
 |   6    |   Possui o fluxo completo para um processo    |   1   |  1  |  0  |        0.00%        |      ---      |                       ---                       |
