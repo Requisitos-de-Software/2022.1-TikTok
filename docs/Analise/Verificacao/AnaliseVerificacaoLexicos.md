@@ -62,7 +62,7 @@ Para detecção de defeitos elaborou-se um checklist com a própria ferramenta M
 
 <center>
 
-<img src="https://cdn.discordapp.com/attachments/945361143600410665/1009584039553937550/unknown.png"> </img>
+<img src="https://cdn.discordapp.com/attachments/744698026462937211/1009586699241787422/unknown.png"> </img>
 
 </center>
 
@@ -81,6 +81,6 @@ A fim de garantir que as modificações necessárias no Léxico foram feitas em 
 </p>
 
 ##  Referências
-- Léxico. Disponivel em: https://requisitos-de-software.github.io/2022.1-TikTok/lexicos/
-- Léxico - MedSUS. Disponível em: https://requisitos-de-software.github.io/2021.2-MedSUS/verification/inspection_lexicon/ . Acesso em: 17 ago. 2022.
-- Grafico feito no Canvas. Disponível  em: https://www.canva.com/design/DAFJnRbYUp0/znifwgTNFU7acVVRVLuuxA/edit
+- Léxico. Disponivel em: https://requisitos-de-software.github.io/2022.1-TikTok/lexicos/ . Acesso em: 16 ago. 2022.
+- Léxico - MedSUS. Disponível em: https://requisitos-de-software.github.io/2021.2-MedSUS/verification/inspection_lexicon/ . Acesso em: 16 ago. 2022.
+- Grafico feito no Canvas. Disponível  em: https://www.canva.com/design/DAFJnRbYUp0/znifwgTNFU7acVVRVLuuxA/edit . Acesso em: 16 ago. 2022.
