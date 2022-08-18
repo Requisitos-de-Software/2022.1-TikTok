@@ -24,7 +24,7 @@
 
 ## 3. Metodologia
 
-<p style="text-indent: 20px; text-align: justify">O foco da inspeção é que um membro que não fez parte do desenvolvimento do artefato adote a postura de "inspetor" do mesmo, sendo assim foi escolhido o membro Pedro Henrique Nogueira para inspeção e o Matheus Soares  para Revisão.</p>
+<p style="text-indent: 20px; text-align: justify">O foco da inspeção é que um membro que não fez parte do desenvolvimento do artefato adote a postura de "inspetor" do mesmo, sendo assim foi escolhido o membro Matheus Perillo para inspeção e o Mateus Caltabiano  para Revisão.</p>
 
 ### 3.1 Corpo da tabela de inspeção
 
