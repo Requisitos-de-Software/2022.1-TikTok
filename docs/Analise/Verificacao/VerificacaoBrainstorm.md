@@ -20,7 +20,7 @@
  A inspeção de <a href="https://requisitos-de-software.github.io/2022.1-TikTok/brainstorm/">Brainstorm</a> possibilita verificar as possíveis formas de se utilizar a aplicação, com o fito de, encontrar possíveis defeitos para que eles sejam corrigidos e fiquem mais coerentes com o artefato.
  </p>
 
- ## 3. Metodologia
+## 3. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">O foco da inspeção é que um membro que não fez parte do desenvolvimento do artefato adote a postura de "inspetor" do mesmo, sendo assim foi escolhido o membro Matheus Perillo para inspeção e o Iago Cabral para Revisão.</p>
 
@@ -46,7 +46,7 @@ Para detecção de defeitos elaborou-se um checklist com a própria ferramenta M
 | Codigo |                     Item                      | Total | Sim | Não | Ocorrência de Erros | Tipos de erro |            Pontos a serem ajustados             |
 |:------:|:---------------------------------------------:|:-----:|:---:|:---:|:-------------------:|:-------------:|:-----------------------------------------------:|
 |   1    |    	 Há uma lista de todos os participantes da reunião?     |   4  |  4  |  0  |        0.00%        |      ---      |                       ---                       |
-|   2    |        	Os requisitos estão bem escritos e claros?   |   29   |  10  |  0  |        0.00%        |      ---      |                       ---                       |            ---                       |
+|   2    |        	Os requisitos estão bem escritos e claros?   |   29   |  29  |  0  |        0.00%        |      ---      |                       ---                       |            ---                       |
 |   3    |  Há a gravação da reunião?  |   0   |  ---  |  0  |        100%        |      Não está disponível      |  Disponibilizar a gravação   |
 |   4    | Há um registro de horário e dia da reunião?  |   1   |  1  |  0  |        0.00%        |      ---      |                       ---                       |
 |   5    | Há uma divisão entre os requisitos funcionais e os não-funcionais?  |   29   |  29  |  0  |        0.00%        |      ---      |                       ---                       |
