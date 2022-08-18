@@ -79,3 +79,7 @@ A fim de garantir que as modificações necessárias no Brainstorm foram feitas 
 
 - [ ] - Brainstorm corrigido
 </p>
+
+##  Referências
+
+- Brainstorm. TikTok. Disponivel em: https://requisitos-de-software.github.io/2022.1-TikTok/brainstorm/ . Acesso em: 17 ago. 2022.
