@@ -7,11 +7,12 @@
 <p style="text-indent: 20px; text-align: center">Tabela 1: Versionamento</p>
 
 | Versão | Autor | Alterações | Revisor    |
-| ------ | ----- | ---------- | --- |
+| :------: | :-----: | :----------: | :---: |
 | 1.0   | Matheus Perillo  | Abertura do documento |  Iago Cabral   |
 | 1.1   | Matheus Perillo  | Introdução ao documento |  Iago Cabral   |
 | 1.2   | Matheus Perillo  | Explicação da metodologia usada |  Iago Cabral   |
 | 1.3   | Matheus Perillo  | Adição do checklist |  Iago Cabral   |
+| 1.4   | Matheus Perillo  | Adição das referências |  Iago Cabral   |
 
 <p style="text-indent: 20px; text-align: center"></p>
 
