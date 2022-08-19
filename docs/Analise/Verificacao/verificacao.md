@@ -2,10 +2,11 @@
 
 ## 1. Versionamento
 
-| Versão | Autor             | Descrição             | Revisor           |
-| ------ | ----------------- | --------------------- | ----------------- |
-| 1.0    | Mateus Caltabiano | Abertura do documento | João Victor       |
-| 1.1    | Pedro Henrique    | Adição da tabela base | Mateus Caltabiano |
+| Versão | Autor             | Descrição                               | Revisor           |
+| ------ | ----------------- | --------------------------------------- | ----------------- |
+| 1.0    | Mateus Caltabiano | Abertura do documento                   | João Victor       |
+| 1.1    | Pedro Henrique    | Adição da tabela base                   | Mateus Caltabiano |
+| 1.2    | Mateus Caltabiano | Adição de itens base para os checklists | Iago Cabral       |
 
 ## 2. Introdução
 
@@ -118,7 +119,7 @@ Conforme reunião em sala de aula, serão elaboradas "checklists" para cada arte
     Consiste em analisar o artefato com base no checklist elaborado e preenchê-lo conforme erros ou acertos
 </p>
 
-#### 4. Tabela base
+#### 3.4.1 Tabela base
 
 <p style="text-indent: 20px; text-align: justify">
     Esta tabela será utilizada como base para todos os checklists. Utilizamos como inspiração o trabalho desenvolvido pelo grupo do MedSUS. (https://github.com/Requisitos-de-Software/2021.2-MedSUS/tree/main/docs/verification)
@@ -130,7 +131,35 @@ Conforme reunião em sala de aula, serão elaboradas "checklists" para cada arte
 
 <div style="text-align: center">
     <p>
-        Tabela 2: Checklist base
+        Tabela 2: Tabela base
+    </p>
+</div>
+
+#### 3.4.2 Itens padrão
+
+Todos os checklists devem conter os itens presentes na tabela a seguir.
+
+<div>
+    <p style="text-align: center">
+        Tabela 3: Tabela com os itens padrão
+    </p>
+</div>
+
+|       Código        | Item                                                                   |
+|:-------------------:| ---------------------------------------------------------------------- |
+|          1          | Possui versionamento com versão, descrição, autor e revisor?           |
+|          2          | Possui introdução?                                                     |
+|          3          | Possui explicação da metodologia?                                      |
+|          4          | Possui referências bibliográficas?                                     |
+|          5          | As referências estão citadas no artefato?                              |
+|          6          | Possui legenda nas tabelas e figuras?                                  |
+|          7          | Possui fonte nas tabelas e figuras?                                    |
+|          8          | Há registro do processo?                                               |
+| 9 (caso elicitação) | Possui tabela com os requisitos elicitados com ID, descrição e título? |
+
+<div>
+    <p style="text-align: center">
+        fonte: Mateus Caltabiano
     </p>
 </div>
 
