@@ -1,17 +1,47 @@
-site_name: Latam
+site_name: Tik Tok
 site_description: Repositório do Projeto de Requisitos - Latam
-repo_url: https://github.com/Requisitos-de-Software/2022.1-Grupo-07 
+repo_url: https://github.com/Requisitos-de-Software/2022.1-TikTok
 dev_addr: '127.0.0.1:8000'
 edit_uri: ""
 
 theme:
     name: material
-    logo: 
-    favicon: 
+    logo: https://t.ctcdn.com.br/LlCIGVqm3EqYg5DBnCiHeDhw9Vw=/61x33:1179x662/1118x629/smart/i370243.jpeg
+    favicon: https://t.ctcdn.com.br/LlCIGVqm3EqYg5DBnCiHeDhw9Vw=/61x33:1179x662/1118x629/smart/i370243.jpeg
     palette:
-        primary: deep purple
+        primary: indigo
     features:
         - navigation.tabs
 
 plugins:
     - search
+
+nav:
+  - Planejamento:
+    - Cronograma: cronograma.md
+    - Ferramentas: ferramentas.md
+    - Metodologia: metodologia.md 
+
+  - Pré-Rastreabilidade:
+    - Rich picture: richPicture.md
+    - Apps analisados: apps-analisado.md
+
+  - Elicitação:
+    - Entrevista: entrevista.md
+    - Personas: personas.md
+    - Storytelling: storytelling.md
+    - Introspecção: instrospeccao.md
+    - Brainstorm: brainstorm.md
+    - Priorização: priorizacao.md
+
+  - Modelagem:
+    - Especificação suplementar: especificacaoSuplementar.md
+    - Cenários: cenarios.md
+    - Casos de uso: casodeUso.md 
+    - Léxicos: lexicos.md
+    - História de usuário: userStories.md
+    - Product backlog: product-backlog.md
+    - NFR: NFR.md
+    
+
+  - Apresentações: apresentacao.md

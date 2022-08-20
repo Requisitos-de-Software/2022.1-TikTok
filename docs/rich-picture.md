@@ -3,11 +3,11 @@
 
 | Versão | Autor             | Alterações                                         | Revisor        |
 |:------:| ----------------- | -------------------------------------------------- | -------------- |
-|  1.0   | Matheus Soares    | Confecção da primeira versão do Rich Picture       |                |
-|  1.1   | Matheus Perillo   | Adição de legenda na imagem                        |                |
-|  2.0   | Matheus Soares    | Confecção da Segunda versão do Rich Picture        |                |
+|  1.0   | Matheus Soares    | Confecção da primeira versão do Rich Picture       | Iago Cabral    |
+|  1.1   | Matheus Perillo   | Adição de legenda na imagem                        | Iago Cabral    |
+|  2.0   | Matheus Soares    | Confecção da Segunda versão do Rich Picture        | Iago Cabral    |
 |  2.1   | Mateus Caltabiano | Adição da imagem da segunda versão do Rich Picture | Matheus Soares |
-
+|  2.2   | Mateus Caltabiano | Correção na imagem: Adição da fronteira do sistema | Matheus Soares |
 
 ## 2. Introdução
 
