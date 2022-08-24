@@ -42,22 +42,14 @@
 | ---- | ------------------------------------------------------------------------------------------------------------------------ |
 | RF01(BS01)  | O aplicativo deve mostrar os vídeos na timeline.
 | RF02| Eu, como usuário regular, desejo poder buscar conteúdos, para facilitar o acesso a conteúdos que eu me identifico
-| RF03| Eu, como criador de conteúdo, desejo poder postar meus vídeos para meus seguidores
-| RF04| Eu, como usuário regular, desejo ter um perfil para interagir com outros na plataforma  
+| RF03| Eu, como criador de conteúdo, desejo poder postar meus vídeos para meus seguidores 
 | RF05| Eu, como usuário regular, quero favoritar um vídeo para ter acesso rápido em outro momento
-| RF06(ST06)| Eu, como usuário regular, quero ser capaz de trocar mensagens com meus contatos para manter uma relação social
-| RF08| Eu,como usuário regular, desejo acessar os outros perfis existentes para ver o conteúdo deles
 | RF09(ST09, ENT05)| Eu, como usuário regular, quero curtir um vídeo para dar feedback ao criador de conteúdo e poder acessá-los com mais facilidade depois
-| RF13 | Eu, como usuário regular, desejo poder ter uma conta privada, para que eu possa selecionar quem tem acesso ao meu perfil
+| RF15 | Eu, como usuário regular, desejo poder filtrar conteúdos para uma experiência mais imersiva
 | RF17| Eu, como usuário regular, quero poder editar os dados do meu perfil para que fiquem o mais atualizado possível
 | RF24(ST05)| Eu, como usuário regular, quero visualizar os dados dos vídeos(curtidas, visualizações, etc) para fazer analises que achar necessário
 | RF27(ST08)| Eu, como usuário regular, desejo de passar de um vídeo para o outro com o movimento de "arrastar pra cima" para facilitar o uso da plataforma
-| RF28(ST11, ENT06)| Eu, como usuário regular, quero poder comentar em vídeos para dar minha opinião e interagir
-| RF29(ST12)|Eu,como usuário regular, quero poder ter acesso aos vídeos que eu curti dentro do meu perfil para que possa encontra-lós de forma rápida
-| RF30(ST13)| Eu, como usuário regular, quero poder curtir um vídeo clicando duas vezes para facilitar a interação com o aplicativo
-| RF31(ST14)|Eu, como usuário regular, quero poder pausar o vídeo para poder desviar minha atenção e voltar de onde estava depois
 | RF34 (ENT01) | Eu, como usuário regular, quero uma área de vídeos recomendados para que eu possa visualizar tudo aquilo que me apetece
-| RF39| Eu, como usuário regular, desejo poder escutar músicas pelo aplicativo para que eu não precise de aplicativos terceiros
 
 
 
