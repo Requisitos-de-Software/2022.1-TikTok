@@ -5,20 +5,23 @@
 </div>
 
 
-| Versão | Autor                                     | Alterações                          | Revisor     |
-|:------:| ----------------------------------------- | ----------------------------------- | ----------- |
-|  1.0   | Iago Cabral | Elaboração do documento do artefato forward from |  |
+| Versão | Autor             | Alterações                                     | Revisor           |
+|:------:| ----------------- | ---------------------------------------------- | ----------------- |
+|  1.0   | Iago Cabral       | Abertura do documento do artefato forward from | Mateus Caltabiano |
+|  1.1   | Mateus Caltabiano | Alteração da introdução e metodologia          | João Victor       |
 
 ## 2. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-Existem dois tipos de rastreabilidade Forward: Forward-to e Forward-from. Ambos são usados para verificar se o projeto avança na direção desejada e para o produto certo. Ademais, garantem que cada requisito seja aplicado ao produto e que cada requisito seja testado minuciosamente. Este documento trata da rastreabilidade Forward From, a qual rastreia relacionamentos entre requerimentos e artefatos correspondentes, incluindo casos de teste. Esse tipo de rastreamento garante que cada requerimento, além de satisfeito, foi verificado e validado.¹
+"O rastreamento de requisitos é utilizado para prover relacionamentos entre requisitos, arquitetura e implementação final do sistema e possibilita uma adequada compreensão dos relacionamentos de dependência entre requisitos e através dos artefatos de requisitos, de arquitetura e de implementação." (SAYÃO; LEITE, 2005)<br>
+    &emsp;Apresentaremos nesse documento a técnica de pós-rastreabilidade "Forward-from", que tem como objetivo "ligar requisitos a artefatos de desenho e implementação" (SAYÃO; LEITE, 2005)
 </p>
 
 ## 3. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
-A partir dos artefatos construídos até agora, foi possível elaborar uma Matriz de Rastreabilidade para conectar os Requisitos, Épicos, Features, História de Usuário e Funcionalidade.
+Faremos a rastreabilidade dos requisitos priorizados como "Must" na nossa tabela de priorização MoSCoW, fazendo uma demonstração da sua funcionalidade e elaborando uma tabela para cada requisito para explicitar seu épico, feature, por que meio foi elicitado e sua identificação<br>
+    &emsp; Para os requisitos propostos pelo grupo, tivemos a ideia de elaborar protótipos de alta fidelidade para demonstrar seu funcionamento.
 </p>
 
 ## 4. Pré-Rastreabilidade
@@ -201,7 +204,9 @@ A partir dos artefatos construídos até agora, foi possível elaborar uma Matri
 ## Referências bibliográficas
 
 > 1 - MedSUS Introdução. Disponível em: https://requisitos-de-software.github.io/2021.2-MedSUS/post_traceability/forward_from/. Acesso em: 23 de agosto de 2022.
-
+>
 > SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 26): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 44 slides. color. Disponível em: https://aprender3.unb.br/pluginfile.php/1668237/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf. Acesso em: 23 de agosto 2022.
-
+>
 > POHL, Klaus; RUPP, Chris. Requirements Engeneering Fundamentals: A Study Guide for the Certified Professional for Requirements Engineering Exam Foundation Level / IREB compliant. 1. ed. [S. l.]: O'Reilly Media, Inc., 2011. 183 p.
+>
+> SAYÃO, Miriam; LEITE, Julio Cesar Sampaio do Prado. Rastreabilidade de Requisitos. 2005. 26 f. Tese (Doutorado) - Curso de Ciência da Computação, Pontifícia Universidade Católica do Rio de Janeiro, Rio de Janeiro, 2005. Disponível em: https://aprender3.unb.br/pluginfile.php/2253364/mod_resource/content/3/05_20_sayao.pdf. Acesso em: 23 ago. 2022.
