@@ -9,6 +9,7 @@
 |:------:| ----------------- | ---------------------------------------------- | ----------------- |
 |  1.0   | Iago Cabral       | Abertura do documento do artefato forward from | Mateus Caltabiano |
 |  1.1   | Mateus Caltabiano | Alteração da introdução e metodologia          | João Victor       |
+|  1.2   | Iago Cabral       |    Alteração dos requisitos                    |  Mateus Caltabiano|
 
 ## 2. Introdução
 
@@ -49,6 +50,7 @@
 | RF17| Eu, como usuário regular, quero poder editar os dados do meu perfil para que fiquem o mais atualizado possível
 | RF24(ST05)| Eu, como usuário regular, quero visualizar os dados dos vídeos(curtidas, visualizações, etc) para fazer analises que achar necessário
 | RF27(ST08)| Eu, como usuário regular, desejo de passar de um vídeo para o outro com o movimento de "arrastar pra cima" para facilitar o uso da plataforma
+| RF28 (ST11, ENT06) | Eu, como usuário regular, quero poder comentar em vídeos para dar minha opinião e interagir
 | RF34 (ENT01) | Eu, como usuário regular, quero uma área de vídeos recomendados para que eu possa visualizar tudo aquilo que me apetece
 
 
@@ -70,18 +72,18 @@
 
 |         RF02         | Eu, como usuário regular, desejo poder buscar conteúdos, para facilitar o acesso a conteúdos que eu me identifico |
 | :-----------------: | :--------------------------------------------------------------------------------: |
+|        Épico        |  Criação |
+|       Feature       | Postar vídeos  |
+| História de Usuário | [US26](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
+|   Funcionalidade    |  ![RF02]() |
+
+**RF03**
+
+|         RF03         |Eu, como criador de conteúdo, desejo poder postar meus vídeos para meus seguidores |
+| :-----------------: | :--------------------------------------------------------------------------------: |
 |        Épico        |  filtro |
 |       Feature       |Disponibilizar busca  |
 | História de Usuário | [US21](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
-|   Funcionalidade    |  ![RF02]() |
-
-**RF04**
-
-|         RF04         | Eu, como usuário regular, desejo ter um perfil para interagir com outros na plataforma |
-| :-----------------: | :--------------------------------------------------------------------------------: |
-|        Épico        |  Visualizar |
-|       Feature       | Ver perfil  |
-| História de Usuário | [US02](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
 |   Funcionalidade    |  ![RF02]() |
 
 **RF05**
@@ -93,24 +95,6 @@
 | História de Usuário | [US07](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
 |   Funcionalidade    |  ![RF02]() |
 
-**RF06**
-
-|         RF06(ST06)       |Eu, como usuário regular, quero ser capaz de trocar mensagens com meus contatos para manter uma relação social|
-| :-----------------: | :--------------------------------------------------------------------------------: |
-|        Épico        |  Social |
-|       Feature       | Conversar por mensagem  |
-| História de Usuário | [US38](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
-|   Funcionalidade    |  ![RF02]() |
-
-**RF08**
-
-|         RF08      |Eu,como usuário regular, desejo acessar os outros perfis existentes para ver o conteúdo deles|
-| :-----------------: | :--------------------------------------------------------------------------------: |
-|        Épico        |  Visualizar |
-|       Feature       | Ver perfil  |
-| História de Usuário | [US03](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
-|   Funcionalidade    |  ![RF02]() |
-
 **RF09**
 
 |        RF09 (ST09, ENT05)      |Eu, como usuário regular, quero curtir um vídeo para dar feedback ao criador de conteúdo e poder acessá-los com mais facilidade depois|
@@ -118,6 +102,15 @@
 |        Épico        |  Interação |
 |       Feature       | Curtir vídeos  |
 | História de Usuário | [US08](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
+|   Funcionalidade    |  ![RF02]() |
+
+**RF15**
+
+|        RF15      |Eu, como usuário regular, desejo poder filtrar conteúdos para uma experiência mais imersiva|
+| :-----------------: | :--------------------------------------------------------------------------------: |
+|        Épico        |  Filtro |
+|       Feature       | Filtrar conteúdo  |
+| História de Usuário | [US22](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
 |   Funcionalidade    |  ![RF02]() |
 
 **RF17**
@@ -156,41 +149,14 @@
 | História de Usuário | [US12](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
 |   Funcionalidade    |  ![RF02]() |
 
-**RF29**
+**RF34**
 
-|       	RF29 (ST12)    |Eu,como usuário regular, quero poder ter acesso aos vídeos que eu curti dentro do meu perfil para que possa encontra-lós de forma rápida	|
+|      RF34 (ENT01)    |Eu, como usuário regular, quero uma área de vídeos recomendados para que eu possa visualizar tudo aquilo que me apetece|
 | :-----------------: | :--------------------------------------------------------------------------------: |
-|        Épico        |  Visualizar |
-|       Feature       | Visualizar vídeos curtidos no perfil |
-| História de Usuário | [US05](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
+|        Épico        |  Filtro |
+|       Feature       | Área de vídeos recomendados |
+| História de Usuário | [US23](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
 |   Funcionalidade    |  ![RF02]() |
-
-**RF30**
-
-|       	RF30 (ST13)    |Eu, como usuário regular, quero poder curtir um vídeo clicando duas vezes para facilitar a interação com o aplicativo|
-| :-----------------: | :--------------------------------------------------------------------------------: |
-|        Épico        |  Interação |
-|       Feature       | Duplo-clique para curtir vídeo |
-| História de Usuário | [US16](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
-|   Funcionalidade    |  ![RF02]() |
-
-**RF31**
-
-|       	RF31 (ST14)    |	Eu, como usuário regular, quero poder pausar o vídeo para poder desviar minha atenção e voltar de onde estava depois|
-| :-----------------: | :--------------------------------------------------------------------------------: |
-|        Épico        |  Interação |
-|       Feature       | Pausar vídeos |
-| História de Usuário | [US18](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
-|   Funcionalidade    |  ![RF02]()|
-
-**RF39**
-
-|       	RF39   |	Eu, como usuário regular, desejo poder escutar músicas pelo aplicativo para que eu não precise de aplicativos terceiros|
-| :-----------------: | :--------------------------------------------------------------------------------: |
-|        Épico        |  Interação |
-|       Feature       | Escutar música |
-| História de Usuário | [US14](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
-|   Funcionalidade    |  ![RF02]()|
 
 
 
