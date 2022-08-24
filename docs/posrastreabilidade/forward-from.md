@@ -51,7 +51,6 @@
 | RF24(ST05)| Eu, como usuário regular, quero visualizar os dados dos vídeos(curtidas, visualizações, etc) para fazer analises que achar necessário
 | RF27(ST08)| Eu, como usuário regular, desejo de passar de um vídeo para o outro com o movimento de "arrastar pra cima" para facilitar o uso da plataforma
 | RF28 (ST11, ENT06) | Eu, como usuário regular, quero poder comentar em vídeos para dar minha opinião e interagir
-| RF34 (ENT01) | Eu, como usuário regular, quero uma área de vídeos recomendados para que eu possa visualizar tudo aquilo que me apetece
 
 
 
@@ -148,18 +147,6 @@
 |       Feature       | Comentar vídeos |
 | História de Usuário | [US12](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
 |   Funcionalidade    |  ![RF02]() |
-
-**RF34**
-
-|      RF34 (ENT01)    |Eu, como usuário regular, quero uma área de vídeos recomendados para que eu possa visualizar tudo aquilo que me apetece|
-| :-----------------: | :--------------------------------------------------------------------------------: |
-|        Épico        |  Filtro |
-|       Feature       | Área de vídeos recomendados |
-| História de Usuário | [US23](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
-|   Funcionalidade    |  ![RF02]() |
-
-
-
 
 
 ## Referências bibliográficas
