@@ -12,6 +12,7 @@
 |  1.2   | Iago Cabral       |    Alteração dos requisitos                    | Mateus Caltabiano |
 |  1.3   | Pedro Henrique Nogueira       |   Adição da demonstração           | Mateus Caltabiano |
 |  1.4   | Pedro Henrique Nogueira       |   Remoção da funcionalidade        | Iago Cabral |
+|  1.5   | Mateus Caltabiano       |   Adição de requisitos não implementados        | Pedro Henrique Nogueira |
 
 ## 2. Introdução
 
@@ -149,6 +150,35 @@
 |       Feature       | Comentar vídeos |
 | História de Usuário | [US12](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
 |   Demonstração    |  [Video](https://drive.google.com/file/d/1l9LSZ2dbb4O3IVNq0LTB5W_-BaNu1usG/view?usp=sharing) |
+
+### 3.3 Requisitos não implementados
+
+**RF35**
+
+| RF35(ENT07)  | Eu, como usuário regular, desejo poder escolher que os vídeos passem automaticamente, para maior facilidade no uso|
+|:-------------------:|:-------------------------------------------------------------------------------------------:|
+|        Épico        |                                          Visualizar                                          |
+|       Feature       |                                       Passar vídeos automaticamente                                      |
+| História de Usuário |       [US06](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/)       |
+|    Demonstração     |  [Imagem](https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/img/imagem_2022-08-24_193300103.png?raw=true)|
+
+**RF20**
+
+| RF20  | Eu, como produtor de conteúdo, quero sinalizar a faixa etária do meu vídeo para facilitar o direcionamento para o público correto.|
+|:-------------------:|:-------------------------------------------------------------------------------------------:|
+|        Épico        |                                          Interação                                          |
+|       Feature       |                                       Sinalizar faixa etária                                      |
+| História de Usuário |       [US13](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/)       |
+|    Demonstração     | [Imagem](https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/img/imagem_2022-08-24_193339992.png?raw=true) |
+
+**RF37**
+
+| RF37(INT02)  | Eu, como usuário regular, quero poder silenciar o vídeo para poder assistir sem fazer barulho|
+|:-------------------:|:-------------------------------------------------------------------------------------------:|
+|        Épico        |                                          Interação                                          |
+|       Feature       |                                       Silenciar vídeo                                      |
+| História de Usuário |       [US17](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/)       |
+|    Demonstração     | [Imagem](https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/img/imagem_2022-08-24_193421753.png?raw=true) |
 
 
 ## Referências bibliográficas
