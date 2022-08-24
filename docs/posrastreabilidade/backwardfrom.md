@@ -14,8 +14,6 @@
 </div>
 
 ## Introdução
-[R01](https://requisitos-de-software.github.io/2021.2-MedSUS/elicitation/brainstorm)
-
 <p style="text-indent: 20px; text-align: justify">
 O objetivo deste documento é deixar explicíto a rastreabilidade de todos os requisitos elicitados durante o desenrolar da matéria, logo serão ligados os requisitos aos seus respectivos métodos de elicitação e modelagem tendo como amparo o método de rastreabilidade Backward From.
 </p>
