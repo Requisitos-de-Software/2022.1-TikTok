@@ -51,9 +51,12 @@
 | RF09(ST09, ENT05)| Eu, como usuário regular, quero curtir um vídeo para dar feedback ao criador de conteúdo e poder acessá-los com mais facilidade depois
 | RF15 | Eu, como usuário regular, desejo poder filtrar conteúdos para uma experiência mais imersiva
 | RF17| Eu, como usuário regular, quero poder editar os dados do meu perfil para que fiquem o mais atualizado possível
+| RF20 |  Eu, como produtor de conteúdo, quero sinalizar a faixa etária do meu vídeo para facilitar o direcionamento para o público correto
 | RF24(ST05)| Eu, como usuário regular, quero visualizar os dados dos vídeos(curtidas, visualizações, etc) para fazer analises que achar necessário
 | RF27(ST08)| Eu, como usuário regular, desejo de passar de um vídeo para o outro com o movimento de "arrastar pra cima" para facilitar o uso da plataforma
 | RF28 (ST11, ENT06) | Eu, como usuário regular, quero poder comentar em vídeos para dar minha opinião e interagir
+| F35(ENT07) | Eu, como usuário regular, desejo poder escolher que os vídeos passem automaticamente, para maior facilidade no uso
+| RF37(INT02)|  Eu, como usuário regular, quero poder silenciar o vídeo para poder assistir sem fazer barulho
 
 
 
@@ -153,15 +156,6 @@
 
 ### 3.3 Requisitos não implementados
 
-**RF35**
-
-| RF35(ENT07)  | Eu, como usuário regular, desejo poder escolher que os vídeos passem automaticamente, para maior facilidade no uso|
-|:-------------------:|:-------------------------------------------------------------------------------------------:|
-|        Épico        |                                          Visualizar                                          |
-|       Feature       |                                       Passar vídeos automaticamente                                      |
-| História de Usuário |       [US06](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/)       |
-|    Demonstração     |  [Imagem](https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/img/imagem_2022-08-24_193300103.png?raw=true)|
-
 **RF20**
 
 | RF20  | Eu, como produtor de conteúdo, quero sinalizar a faixa etária do meu vídeo para facilitar o direcionamento para o público correto.|
@@ -170,6 +164,15 @@
 |       Feature       |                                       Sinalizar faixa etária                                      |
 | História de Usuário |       [US13](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/)       |
 |    Demonstração     | [Imagem](https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/img/imagem_2022-08-24_193339992.png?raw=true) |
+
+**RF35**
+
+| RF35(ENT07)  | Eu, como usuário regular, desejo poder escolher que os vídeos passem automaticamente, para maior facilidade no uso|
+|:-------------------:|:-------------------------------------------------------------------------------------------:|
+|        Épico        |                                          Visualizar                                          |
+|       Feature       |                                       Passar vídeos automaticamente                                      |
+| História de Usuário |       [US06](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/)       |
+|    Demonstração     |  [Imagem](https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/img/imagem_2022-08-24_193300103.png?raw=true)|
 
 **RF37**
 
