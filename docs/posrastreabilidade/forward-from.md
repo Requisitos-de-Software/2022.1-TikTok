@@ -1,4 +1,4 @@
-# Backward From
+# Forward-from
 ## 1. Versionamento
 <div style="text-align: center">
 <p>Tabela 1: Versionamento</p>
@@ -13,14 +13,14 @@
 ## 2. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-"O rastreamento de requisitos é utilizado para prover relacionamentos entre requisitos, arquitetura e implementação final do sistema e possibilita uma adequada compreensão dos relacionamentos de dependência entre requisitos e através dos artefatos de requisitos, de arquitetura e de implementação." (SAYÃO; LEITE, 2005)<br>
+    &emsp;"O rastreamento de requisitos é utilizado para prover relacionamentos entre requisitos, arquitetura e implementação final do sistema e possibilita uma adequada compreensão dos relacionamentos de dependência entre requisitos e através dos artefatos de requisitos, de arquitetura e de implementação." (SAYÃO; LEITE, 2005)<br>
     &emsp;Apresentaremos nesse documento a técnica de pós-rastreabilidade "Forward-from", que tem como objetivo "ligar requisitos a artefatos de desenho e implementação" (SAYÃO; LEITE, 2005)
 </p>
 
 ## 3. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
-Faremos a rastreabilidade dos requisitos priorizados como "Must" na nossa tabela de priorização MoSCoW, fazendo uma demonstração da sua funcionalidade e elaborando uma tabela para cada requisito para explicitar seu épico, feature, por que meio foi elicitado e sua identificação<br>
+    &emsp;Faremos a rastreabilidade dos requisitos priorizados como "Must" na nossa tabela de priorização MoSCoW, fazendo uma demonstração da sua funcionalidade e elaborando uma tabela para cada requisito para explicitar seu épico, feature, por que meio foi elicitado e sua identificação<br>
     &emsp; Para os requisitos propostos pelo grupo, tivemos a ideia de elaborar protótipos de alta fidelidade para demonstrar seu funcionamento.
 </p>
 
