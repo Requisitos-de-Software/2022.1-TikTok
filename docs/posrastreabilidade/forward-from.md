@@ -8,9 +8,10 @@
 | Versão | Autor             | Alterações                                     | Revisor           |
 |:------:| ----------------- | ---------------------------------------------- | ----------------- |
 |  1.0   | Iago Cabral       | Abertura do documento do artefato forward from | Mateus Caltabiano |
-|  1.1   | Mateus Caltabiano | Alteração da introdução e metodologia          | João Victor       |
+|  1.1   | Mateus Caltabiano | Alteração da introdução e metodologia          | Pedro Henrique Nogueira   |
 |  1.2   | Iago Cabral       |    Alteração dos requisitos                    | Mateus Caltabiano |
 |  1.3   | Pedro Henrique Nogueira       |   Adição da demonstração           | Mateus Caltabiano |
+|  1.4   | Pedro Henrique Nogueira       |   Remoção da funcionalidade        | Iago Cabral |
 
 ## 2. Introdução
 
@@ -66,7 +67,6 @@
 |        Épico        |  Visualizar |
 |       Feature       | Ver vídeo  |
 | História de Usuário | [US01](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
-|   Funcionalidade    |  ![RF01]() |
 |   Demonstração    |  [Video](https://drive.google.com/file/d/1o18GREbXTj3Np_BVqqROkl6_kzt35ZCZ/view?usp=sharing) |
 
 **RF02**
@@ -76,7 +76,6 @@
 |        Épico        |  Criação |
 |       Feature       | Postar vídeos  |
 | História de Usuário | [US26](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
-|   Funcionalidade    |  ![RF02]() |
 |   Demonstração    |  [Video](https://drive.google.com/file/d/1PQe9ua50cxKrItT1UyvK_ndAVulxtJ6w/view?usp=sharing) |
 
 **RF03**
@@ -86,7 +85,6 @@
 |        Épico        |  filtro |
 |       Feature       |Disponibilizar busca  |
 | História de Usuário | [US21](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
-|   Funcionalidade    |  ![RF02]() |
 |   Demonstração    |  [Video](https://drive.google.com/file/d/12rohhH7F7ADW7sQyJv86SYhElhGVwXWI/view?usp=sharing) |
 
 **RF05**
@@ -96,7 +94,6 @@
 |        Épico        |  Interação |
 |       Feature       | Favoritar vídeos  |
 | História de Usuário | [US07](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
-|   Funcionalidade    |  ![RF02]() |
 |   Demonstração    |  [Video](https://drive.google.com/file/d/1Df0I1CyGdGHUWl4VNEBmtaX49xYJj130/view?usp=sharing) |
 
 **RF09**
@@ -105,8 +102,7 @@
 | :-----------------: | :--------------------------------------------------------------------------------: |
 |        Épico        |  Interação |
 |       Feature       | Curtir vídeos  |
-| História de Usuário | [US08](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
-|   Funcionalidade    |  ![RF02]() |
+| História de Usuário | [US08](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) | |
 |   Demonstração    |  [Video](https://drive.google.com/file/d/12mDx_NUUgyVoqNCgJJgpYSq9SWztyrUc/view?usp=sharing) |
 
 **RF15**
@@ -116,7 +112,6 @@
 |        Épico        |  Filtro |
 |       Feature       | Filtrar conteúdo  |
 | História de Usuário | [US22](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
-|   Funcionalidade    |  ![RF02]() |
 |   Demonstração    |  [Video](https://drive.google.com/file/d/12n9lQi1OXBTqSuJGRromcW3IL1epfJAe/view?usp=sharing) |
 
 **RF17**
@@ -126,7 +121,6 @@
 |        Épico        |  Interação |
 |       Feature       | Editar perfil |
 | História de Usuário | [US09](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
-|   Funcionalidade    |  ![RF02]() |
 |   Demonstração    |  [Video](https://drive.google.com/file/d/1rQ3-fqbM8el77KOIes4AXuNhE9I49WF4/view?usp=sharing) |
 
 **RF24**
@@ -136,7 +130,6 @@
 |        Épico        |  Interação |
 |       Feature       | Visualizar métricas |
 | História de Usuário | [US10](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
-|   Funcionalidade    |  ![RF02]() |
 |   Demonstração    |  Video |
 
 **RF27**
@@ -146,7 +139,6 @@
 |        Épico        |  Interação |
 |       Feature       | Arrastar para cima |
 | História de Usuário | [US11](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
-|   Funcionalidade    |  ![RF02]() |
 |   Demonstração    |  [Video](https://drive.google.com/file/d/1E16884QYtB0zMXIIzd-valyGjk3zfC5j/view?usp=sharing) |
 
 **RF28**
@@ -156,7 +148,6 @@
 |        Épico        |  Interação |
 |       Feature       | Comentar vídeos |
 | História de Usuário | [US12](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
-|   Funcionalidade    |  ![RF02]() |
 |   Demonstração    |  [Video](https://drive.google.com/file/d/1l9LSZ2dbb4O3IVNq0LTB5W_-BaNu1usG/view?usp=sharing) |
 
 
