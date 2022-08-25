@@ -13,6 +13,7 @@
 |  1.3   | Pedro Henrique Nogueira       |   Adição da demonstração           | Mateus Caltabiano |
 |  1.4   | Pedro Henrique Nogueira       |   Remoção da funcionalidade        | Iago Cabral |
 |  1.5   | Mateus Caltabiano       |   Adição de requisitos não implementados        | Pedro Henrique Nogueira |
+|  1.6   | Iago Cabral      |  Adição de Hyperlinks  | Pedro Henrique Nogueira |
 
 ## 2. Introdução
 
@@ -34,9 +35,11 @@
 
 **Legenda:**
 
-- RF: Requisito funcional
-- ST: Storytelling
-- BS: Brainstorm
+> - RF: Requisito funcional
+> - ST: Storytelling
+> - BS: Brainstorm
+> - ENT: Entrevista
+> - INT: Instrospecção
 
 <div style="text-align: center">
 <p>Tabela 2: Matriz de Requisitos</p>
@@ -44,19 +47,19 @@
 
 | ID   | Requisito |
 | ---- | ------------------------------------------------------------------------------------------------------------------------ |
-| RF01(BS01)  | O aplicativo deve mostrar os vídeos na timeline.
-| RF02| Eu, como usuário regular, desejo poder buscar conteúdos, para facilitar o acesso a conteúdos que eu me identifico
-| RF03| Eu, como criador de conteúdo, desejo poder postar meus vídeos para meus seguidores 
-| RF05| Eu, como usuário regular, quero favoritar um vídeo para ter acesso rápido em outro momento
-| RF09(ST09, ENT05)| Eu, como usuário regular, quero curtir um vídeo para dar feedback ao criador de conteúdo e poder acessá-los com mais facilidade depois
-| RF15 | Eu, como usuário regular, desejo poder filtrar conteúdos para uma experiência mais imersiva
-| RF17| Eu, como usuário regular, quero poder editar os dados do meu perfil para que fiquem o mais atualizado possível
-| RF20 |  Eu, como produtor de conteúdo, quero sinalizar a faixa etária do meu vídeo para facilitar o direcionamento para o público correto
-| RF24(ST05)| Eu, como usuário regular, quero visualizar os dados dos vídeos(curtidas, visualizações, etc) para fazer analises que achar necessário
-| RF27(ST08)| Eu, como usuário regular, desejo de passar de um vídeo para o outro com o movimento de "arrastar pra cima" para facilitar o uso da plataforma
-| RF28 (ST11, ENT06) | Eu, como usuário regular, quero poder comentar em vídeos para dar minha opinião e interagir
-| F35(ENT07) | Eu, como usuário regular, desejo poder escolher que os vídeos passem automaticamente, para maior facilidade no uso
-| RF37(INT02)|  Eu, como usuário regular, quero poder silenciar o vídeo para poder assistir sem fazer barulho
+|<a href="#RF01">RF01(BS01)</a> | O aplicativo deve mostrar os vídeos na timeline.
+| <a href="#RF02">RF02</a>| Eu, como usuário regular, desejo poder buscar conteúdos, para facilitar o acesso a conteúdos que eu me identifico
+| <a href="#RF03">RF03</a>| Eu, como criador de conteúdo, desejo poder postar meus vídeos para meus seguidores 
+| <a href="#RF05">RF05</a>| Eu, como usuário regular, quero favoritar um vídeo para ter acesso rápido em outro momento
+| <a href="#RF09">RF09(ST09, ENT05)</a>| Eu, como usuário regular, quero curtir um vídeo para dar feedback ao criador de conteúdo e poder acessá-los com mais facilidade depois
+| <a href="#RF15">RF15</a> | Eu, como usuário regular, desejo poder filtrar conteúdos para uma experiência mais imersiva
+| <a href="#RF17">RF17</a>| Eu, como usuário regular, quero poder editar os dados do meu perfil para que fiquem o mais atualizado possível
+| <a href="#RF20">RF20</a> |  Eu, como produtor de conteúdo, quero sinalizar a faixa etária do meu vídeo para facilitar o direcionamento para o público correto
+| <a href="#RF24">RF24(ST05)</a>| Eu, como usuário regular, quero visualizar os dados dos vídeos(curtidas, visualizações, etc) para fazer analises que achar necessário
+| <a href="#RF27">RF27(ST08)</a>| Eu, como usuário regular, desejo de passar de um vídeo para o outro com o movimento de "arrastar pra cima" para facilitar o uso da plataforma
+| <a href="#RF28">RF28 (ST11, ENT06)</a> | Eu, como usuário regular, quero poder comentar em vídeos para dar minha opinião e interagir
+| <a href="#RF35">RF35(ENT07)</a> | Eu, como usuário regular, desejo poder escolher que os vídeos passem automaticamente, para maior facilidade no uso
+| <a href="#RF37">RF37(INT02)</a>|  Eu, como usuário regular, quero poder silenciar o vídeo para poder assistir sem fazer barulho
 
 
 
@@ -64,7 +67,8 @@
 
 
 ### 3.2. Especificações
-**RF01**
+
+<a id="RF01">**RF01**</a>
 
 |         RF01(BS01)         | O aplicativo deve mostrar os vídeos na timeline. |
 | :-----------------: | :--------------------------------------------------------------------------------: |
@@ -73,7 +77,7 @@
 | História de Usuário | [US01](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
 |   Demonstração    |  [Video](https://drive.google.com/file/d/1o18GREbXTj3Np_BVqqROkl6_kzt35ZCZ/view?usp=sharing) |
 
-**RF02**
+<a id="RF02">**RF02**</a>
 
 |         RF02         | Eu, como usuário regular, desejo poder buscar conteúdos, para facilitar o acesso a conteúdos que eu me identifico |
 | :-----------------: | :--------------------------------------------------------------------------------: |
@@ -82,7 +86,7 @@
 | História de Usuário | [US26](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
 |   Demonstração    |  [Video](https://drive.google.com/file/d/1PQe9ua50cxKrItT1UyvK_ndAVulxtJ6w/view?usp=sharing) |
 
-**RF03**
+<a id="RF03">**RF03**</a>
 
 |         RF03         |Eu, como criador de conteúdo, desejo poder postar meus vídeos para meus seguidores |
 | :-----------------: | :--------------------------------------------------------------------------------: |
@@ -91,7 +95,7 @@
 | História de Usuário | [US21](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
 |   Demonstração    |  [Video](https://drive.google.com/file/d/12rohhH7F7ADW7sQyJv86SYhElhGVwXWI/view?usp=sharing) |
 
-**RF05**
+<a id="RF05">**RF05**</a>
 
 |         RF05         | Eu, como usuário regular, quero favoritar um vídeo para ter acesso rápido em outro momento |
 | :-----------------: | :--------------------------------------------------------------------------------: |
@@ -100,7 +104,7 @@
 | História de Usuário | [US07](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
 |   Demonstração    |  [Video](https://drive.google.com/file/d/1Df0I1CyGdGHUWl4VNEBmtaX49xYJj130/view?usp=sharing) |
 
-**RF09**
+<a id="RF09">**RF09**</a>
 
 |        RF09 (ST09, ENT05)      |Eu, como usuário regular, quero curtir um vídeo para dar feedback ao criador de conteúdo e poder acessá-los com mais facilidade depois|
 | :-----------------: | :--------------------------------------------------------------------------------: |
@@ -109,7 +113,7 @@
 | História de Usuário | [US08](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) | |
 |   Demonstração    |  [Video](https://drive.google.com/file/d/12mDx_NUUgyVoqNCgJJgpYSq9SWztyrUc/view?usp=sharing) |
 
-**RF15**
+<a id="RF15">**RF15**</a>
 
 |        RF15      |Eu, como usuário regular, desejo poder filtrar conteúdos para uma experiência mais imersiva|
 | :-----------------: | :--------------------------------------------------------------------------------: |
@@ -118,7 +122,7 @@
 | História de Usuário | [US22](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
 |   Demonstração    |  [Video](https://drive.google.com/file/d/12n9lQi1OXBTqSuJGRromcW3IL1epfJAe/view?usp=sharing) |
 
-**RF17**
+<a id="RF17">**RF17**</a>
 
 |        RF17      |Eu, como usuário regular, quero curtir um vídeo para dar feedback ao criador de conteúdo e poder acessá-los com mais facilidade depois|
 | :-----------------: | :--------------------------------------------------------------------------------: |
@@ -127,7 +131,7 @@
 | História de Usuário | [US09](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
 |   Demonstração    |  [Video](https://drive.google.com/file/d/1rQ3-fqbM8el77KOIes4AXuNhE9I49WF4/view?usp=sharing) |
 
-**RF24**
+<a id="RF24">**RF24**</a>
 
 |        RF24(ST05)     |Eu, como usuário regular, quero visualizar os dados dos vídeos(curtidas, visualizações, etc) para fazer analises que achar necessário|
 | :-----------------: | :--------------------------------------------------------------------------------: |
@@ -136,7 +140,7 @@
 | História de Usuário | [US10](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
 |   Demonstração    |  Video |
 
-**RF27**
+<a id="RF27">**RF27**</a>
 
 |        RF27(ST08)     |	Eu, como usuário regular, desejo de passar de um vídeo para o outro com o movimento de "arrastar pra cima" para facilitar o uso da plataforma|
 | :-----------------: | :--------------------------------------------------------------------------------: |
@@ -145,7 +149,7 @@
 | História de Usuário | [US11](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
 |   Demonstração    |  [Video](https://drive.google.com/file/d/1E16884QYtB0zMXIIzd-valyGjk3zfC5j/view?usp=sharing) |
 
-**RF28**
+<a id="RF28">**RF28**</a>
 
 |       	RF28 (ST11, ENT06)    |Eu, como usuário regular, quero poder comentar em vídeos para dar minha opinião e interagir	|
 | :-----------------: | :--------------------------------------------------------------------------------: |
@@ -156,7 +160,7 @@
 
 ### 3.3 Requisitos não implementados
 
-**RF20**
+<a id="RF20">**RF20**</a>
 
 | RF20  | Eu, como produtor de conteúdo, quero sinalizar a faixa etária do meu vídeo para facilitar o direcionamento para o público correto.|
 |:-------------------:|:-------------------------------------------------------------------------------------------:|
@@ -165,7 +169,7 @@
 | História de Usuário |       [US13](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/)       |
 |    Demonstração     | [Imagem](https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/img/imagem_2022-08-24_193339992.png?raw=true) |
 
-**RF35**
+<a id="RF35">**RF35**</a>
 
 | RF35(ENT07)  | Eu, como usuário regular, desejo poder escolher que os vídeos passem automaticamente, para maior facilidade no uso|
 |:-------------------:|:-------------------------------------------------------------------------------------------:|
@@ -174,7 +178,7 @@
 | História de Usuário |       [US06](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/)       |
 |    Demonstração     |  [Imagem](https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/img/imagem_2022-08-24_193300103.png?raw=true)|
 
-**RF37**
+<a id="RF37">**RF37**</a>
 
 | RF37(INT02)  | Eu, como usuário regular, quero poder silenciar o vídeo para poder assistir sem fazer barulho|
 |:-------------------:|:-------------------------------------------------------------------------------------------:|
