@@ -9,6 +9,7 @@
 |  1.2  | 13/07/2022 | Adição vídeo de apresentação 2 | João Victor Correia |
 |  1.3  | 15/07/2022 | Adição de índices nos vídeos | Matheus Perillo |
 |  1.4  | 17/08/2022 | Adição das apresentações 4 e 5 | Matheus Perillo |
+|  1.5  | 25/08/2022 | Adição da apresentação 6 | Matheus Perillo |
 
 ## 2. Vídeos
 
@@ -73,4 +74,16 @@ Vídeo 4: Quarta apresentação do projeto
 
 <div style="text-align: center">
 Vídeo 5: Quinta apresentação do projeto
+</div>
+
+### 2.6 Apresentação 6
+
+<center>
+
+<iframe width="711" height="400" src="https://www.youtube.com/embed/ZlBfDTViIc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+<div style="text-align: center">
+Vídeo 6: Sexta apresentação do projeto
 </div>
