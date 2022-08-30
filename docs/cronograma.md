@@ -12,7 +12,7 @@
 |  1.3   | Mateus Caltabiano | Adição do detalhamento da Sprint 2  |
 |  1.4   | Mateus Caltabiano | Adição do detalhamento da Sprint 3  |
 |  1.5   | Mateus Caltabiano | Adição do detalhamento da Sprint 4  |
-
+|  1.6   | Mateus Caltabiano | Adição do detalhamento da Sprint 6  |
 
 ## 2. Introdução
 
