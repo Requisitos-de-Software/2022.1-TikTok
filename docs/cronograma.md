@@ -147,7 +147,7 @@
 | ------ | ----- |
 | 21/07  | 04/08 |
 
-<p>Tabela 10: Cronograma da Sprint 4 </p>
+<p>Tabela 10: Cronograma da Sprint 4 & 5 </p>
 <br>
 
 | Issue | Título                                 | Responsáveis                                  | Entrega | Revisores         | Revisão |
@@ -159,6 +159,29 @@
 | #44   | Documento de User Stories              | João Victor e Matheus Soares                  | 03/08   | Pedro Henrique    | 03/08   |
 | #45   | Gravação do vídeo  para quarta entrega | Todos                                         | 03/08   | N/A               | N/A     |
 | #46      |         Atualização de cronograma - Sprint 4                               |    Mateus Caltabiano                                           |   03/08      |  Iago Cabral                 |      03/08   |
+
+### Sprint 6
+
+| Início | Fim   |
+| ------ | ----- |
+| 11/08  | 18/08 |
+
+<p>Tabela 11: Cronograma da Sprint 6 </p>
+<br>
+
+| Issue | Título                                                        | Responsáveis      | Entrega | Revisores               | Revisão |
+| ----- | ------------------------------------------------------------- | ----------------- | ------- | ----------------------- | ------- |
+| #48   | Abertura do documento de priorização                          | Mateus Caltabiano | 17/08   | Matheus Soares          | 18/08   |
+| #49   | Criação do documento de verificacao do Rich Picture           | Pedro Henrique    | 17/08   | Iago Cabral             | 18/08   |
+| #50   | Verificação do NFR framework                                  | Matheus Soares    | 17/08   | Mateus Caltabiano       | 18/08   |
+| #51   | Validação dos novos requisitos                                | João Victor       | 16/08   | Matheus Perillo         | 17/08   |
+| #52   | Criação do documento de verificação sobre os léxicos          | Pedro Henrique    | 17/08   | Matheus Soares          | 18/08   |
+| #53   | Criação do documento de verificação especificação suplementar | Iago Cabral       | 17/08   | Pedro Henrique          | 18/08   |
+| #54   | Verificação das histórias de usuário                          | Matheus Soares    | 17/08   | Iago Cabral             | 18/08   |
+| #55   | Verificação do artefato Cenários                              | Matheus Perillo   | 17/08   | Mateus Caltabiano       | 18/08   |
+| #57   | Verificação do artefato de brainstorm                         | Matheus Perillo   | 17/08   | Iago Cabral             | 18/08   |
+| #58   | Verificação do artefato storytelling                          | Iago Cabral       | 17/08   | Pedro Henrique Nogueira | 18/08   |
+| #59   | Verificação de artefato de Casos de uso                       | Mateus Caltabiano | 17/08   | Matheus Perillo         | 18/08   |
 
 ## 5. Referências
 >DE SALES, André. Plano de ensino -- Requisitos de Software -- 01/2022. Aprender3, 2022. Disponível em: < https://aprender3.unb.br/pluginfile.php/2124392/mod_resource/content/19/Plano_de_Ensino%20RE%20202201%20Turma%202.pdf > . Acesso em: 28/06/2022
