@@ -13,6 +13,7 @@
 |  1.4   | Mateus Caltabiano | Adição do detalhamento da Sprint 3  |
 |  1.5   | Mateus Caltabiano | Adição do detalhamento da Sprint 4  |
 |  1.6   | Mateus Caltabiano | Adição do detalhamento da Sprint 6  |
+|  1.7   | Mateus Caltabiano | Adição do detalhamento da Sprint 7  |
 
 ## 2. Introdução
 
@@ -182,6 +183,24 @@
 | #57   | Verificação do artefato de brainstorm                         | Matheus Perillo   | 17/08   | Iago Cabral             | 18/08   |
 | #58   | Verificação do artefato storytelling                          | Iago Cabral       | 17/08   | Pedro Henrique Nogueira | 18/08   |
 | #59   | Verificação de artefato de Casos de uso                       | Mateus Caltabiano | 17/08   | Matheus Perillo         | 18/08   |
+
+### Sprint 7
+
+| Início | Fim   |
+| ------ | ----- |
+| 18/08  | 25/08 |
+
+<p>Tabela 12: Cronograma da Sprint 7 </p>
+<br>
+
+| Issue | Título                                            | Responsáveis                                   | Entrega | Revisores         | Revisão |
+| ----- | ------------------------------------------------- | ---------------------------------------------- | ------- | ----------------- | ------- |
+| #60   | Verificação do artefato de introspecção           | Mateus Caltabiano                              | 20/08   | Matheus Perillo   | 21/08   |
+| #61   | Elaboração de itens base para todos os checklists | Mateus Caltabiano                              | 21/08   | Iago Cabral       | 22/08   |
+| #62   | Elaboração do Artefato Backward From              | João Victor, Matheus Perillo, Matheus Soares   | 23/08   | Mateus Caltabiano | 24/08   |
+| #63   | Elaboração do artefato forward from               | Iago Cabral, Mateus Caltabiano, Pedro Henrique | 23/08   | João Victor       | 24/08   |
+| #64   | Gravação de tela                                  | Mateus Caltabiano                              | 24/08   | Pedro Henrique    | 24/08   |
+| #65   | Adicionar vídeos no artefato                      | Mateus Caltabiano, Pedro Henrique              | 24/08   | Matheus Soares    | 24/08   |
 
 ## 5. Referências
 >DE SALES, André. Plano de ensino -- Requisitos de Software -- 01/2022. Aprender3, 2022. Disponível em: < https://aprender3.unb.br/pluginfile.php/2124392/mod_resource/content/19/Plano_de_Ensino%20RE%20202201%20Turma%202.pdf > . Acesso em: 28/06/2022
