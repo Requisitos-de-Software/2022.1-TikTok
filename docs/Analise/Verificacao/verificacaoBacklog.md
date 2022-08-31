@@ -11,6 +11,8 @@
 | 1.0   | Pedro Henrique Nogueira  | Criação do Documento |  Iago Cabral  |
 | 1.1   | Pedro Henrique Nogueira  | Adição da fonte nas tabelas|  Iago Cabral  |
 
+<p style="text-indent: 20px; text-align: center">Fonte: Grupo 7</p>
+
 
 
 
