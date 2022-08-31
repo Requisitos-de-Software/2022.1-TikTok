@@ -1,13 +1,19 @@
 # Persona
 
 ## Versionamento
+
+<div style="text-align: center">
+<p>Tabela 1: Versionamento</p>
+</div>
+
 | Versão | Data | Modificação | Autor | Revisor |
 |-|-|:-:|:-:|:-:|
 | 1.0 | 13/07/2022 | Adição das personas do projeto | Iago de Paula Cabral | Mateus Caltabiano |
 | 1.1 | 13/07/2022 | Adição de mais personas ao projeto | Pedro Henrique Nogueira| Mateus Caltabiano |
-
+| 1.2 | 31/08/2022 | Atualização da metodologia | Pedro Henrique Nogueira | Mateus Caltabiano | 
+| 1.3 | 31/08/2022 | Adição das fontes nas tabelas | Pedro Henrique Noguiera | Iago Cabral |
 <div style="text-align: center">
-<p>Tabela 1: Versionamento</p>
+<p>Fonte: Grupo 7</p>
 </div>
 
 # Personas
@@ -16,11 +22,15 @@
   Este é um método de elicitação muito utilizado, inclusive existem metodologias de projeto guiadas por personas. São pessoas fictícias criadas pelos desenvolvedores e projetistas de sistemas, para representar os usuários importantes para guiar a elicitação de requisitos e funcionalidades. São de muita valia, pois criam uma percepção tangível dos usuários para os envolvidos no desenvolvimento do software. Os usuários se tornam menos abstratos e genéricos. É também uma importante ferramenta de síntese de ideias, de forma que o nome de uma persona já evoca, na mente dos desenvolvedores, todas as necessidades e objetivos ligados àquela persona. Determinamos de inicio, as persona primárias e a anti-persona.
 
 ## 2. Metodologia
-A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, conseguimos levantar alguns requisitos básico. A partir desses requisitos, buscamos as personas básicas que mais utilizariam esses requisitos. As personas foram detalhadas, com suas histórias, necessidades e objetivos. Pode parecer algo inútil em um primeiro momento, mas é muito importante para criar uma imagem vívida da persona para os designers e estabelcer requistos de forma precisa.
+Os responsaveis por esse artefato, Pedro Henrique Nogueira e Iago Cabral, ficaram responsaveis por criar personas que retratariam os usuarios mais comuns do TikTok. A partir desses requisitos, buscamos as personas básicas que mais utilizariam esses requisitos. As personas foram detalhadas, com suas histórias, necessidades e objetivos. Pode parecer algo inútil em um primeiro momento, mas é muito importante para criar uma imagem vívida da persona para os designers e estabelcer requistos de forma precisa. Todas as imagens utilizadas nesse artefato foram retiradas do site This Person Doest Not Exist, um site que utiliza de inteligencia atificial para criar imagens sem copyright.
 
 ## 3. Personas
 
 ### 3.1 Didi Santo Souza
+<div style="text-align: center">
+<p>Tabela 2: Persona 1</p>
+</div>
+
 |     |                                                                                   |               
 |:--- | --------------------------------------------------------------------------------- |
 |**Nome**| Didi Santo Souza |
@@ -35,10 +45,16 @@ A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, 
 |**Expectivativas**| Didi espera enteder todos os funcionamentos do Tik Tok e ser um usuario pleno até o final do ano.|
 
 <div style="text-align: center">
-<p>Tabela 2: Persona 1</p>
+<p>Fonte: Iago Cabral</p>
 </div>
 
 ### 3.2 Karen Patricia
+
+
+<div style="text-align: center">
+<p>Tabela 3: Anti-persona</p>
+</div>
+
 |     |                                                                                   |               
 |:--- | --------------------------------------------------------------------------------- |
 |**Nome**| Karen Patricia|
@@ -53,12 +69,14 @@ A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, 
 |**Expectivativas**| Karen Patricia tem como expectitativa atua como atriz principal em uma peça da BroadWay e conseguir tocar 10 instrumentos musicais.|
 
 <div style="text-align: center">
-<p>Tabela 3: Anti-persona</p>
+<p>Fonte: Iago Cabral</p>
 </div>
 
 ### 3.3 Lucas Bertti
 
-
+<div style="text-align: center">
+<p>Tabela 4: Persona 2</p>
+</div>
 
 |     |                                                                                   |               
 |:--- | --------------------------------------------------------------------------------- |
@@ -74,11 +92,14 @@ A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, 
   |**Expectivativas**|Lucas Berti tem a expectativa de se tornar um dos maiores criadores de conteudo da plataforma.|
 
 <div style="text-align: center">
-<p>Tabela 4: Persona 2</p>
+<p>Fonte: Pedro Henrique Nogueira</p>
 </div>
 
 ### 3.4 Jade Picon
 
+<div style="text-align: center">
+<p>Tabela 5: Persona 3</p>
+</div>
 
 
 |     |                                                                                   |               
@@ -94,8 +115,10 @@ A partir do Brainstorm realizado em uma reunião com todos os membros do grupo, 
 |**Requisitos**| Com a pandemia e com o adiantamente do semestre 2020/1, Jade ficou com muito tempo livre, então decidiu começar a usar o  TikTok como uma forma de distração, desde então, Jade usar o aplicativo diariamente. Para Jade é necessário assistir seus vídeos, curtir, seguir os influenciadores que ela mais gosta, salvar os vídeos e compartilhar com seus amigos.   |
 |**Expectivativas**|Jade tem a expectativa de se formar e se especializar em pediatria e abrir sua própria clinica. |
 
+
+
 <div style="text-align: center">
-<p>Tabela 5: Persona 3</p>
+<p>Fonte: Pedro Henrique Nogueira</p>
 </div>
 
 ## 4. Referências
