@@ -3,17 +3,17 @@
 
 ## 1. Versionamento
 
-| Versão | Autor             | Alterações                          |
-|:------:| ----------------- | ----------------------------------- |
-|  1.0   | Mateus Caltabiano | Abertura do documento de cronograma |
-|  1.1   | Mateus Caltabiano | Adição do detalhamento da Sprint 0  |
-|  1.2   | Mateus Caltabiano | Adição do detalhamento da Sprint 1  |
-| 1.2.1  | Matheus Perillo   | Adição de legendas nas tabelas      |
-|  1.3   | Mateus Caltabiano | Adição do detalhamento da Sprint 2  |
-|  1.4   | Mateus Caltabiano | Adição do detalhamento da Sprint 3  |
-|  1.5   | Mateus Caltabiano | Adição do detalhamento da Sprint 4  |
-|  1.6   | Mateus Caltabiano | Adição do detalhamento da Sprint 6  |
-|  1.7   | Mateus Caltabiano | Adição do detalhamento da Sprint 7  |
+| Versão | Data    | Autor             | Alterações                          | Revisor |
+|:------:| --- | ----------------- | ----------------------------------- | ------- |
+|  1.0   | 29/06/2022    | Mateus Caltabiano | Abertura do documento de cronograma |  João Victor       |
+|  1.1   | 05/07/2022    | Mateus Caltabiano | Adição do detalhamento da Sprint 0  |  João Victor       |
+|  1.2   | 05/07/2022    | Mateus Caltabiano | Adição do detalhamento da Sprint 1  | João Victor        |
+| 1.2.1  | 07/07/2022    | Matheus Perillo   | Adição de legendas nas tabelas      |  Pedro Henrique       |
+|  1.3   | 18/07/2022    | Mateus Caltabiano | Adição do detalhamento da Sprint 2  |  João Victor       |
+|  1.4   | 04/08/2022    | Mateus Caltabiano | Adição do detalhamento da Sprint 3  |  Matheus Perillo       |
+|  1.5   | 04/08/2022    | Mateus Caltabiano | Adição do detalhamento da Sprint 4  |  Iago Cabral       |
+|  1.6   | 30/08/2022    | Mateus Caltabiano | Adição do detalhamento da Sprint 6  |  Matheus Perillo       |
+|  1.7   | 30/08/2022    | Mateus Caltabiano | Adição do detalhamento da Sprint 7  |  Matheus Perillo       |
 
 ## 2. Introdução
 
