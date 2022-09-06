@@ -1,9 +1,9 @@
 # Metodologia
 
 ## Versionamento
-| Data |Versão|Descrição| Autor             |
-| ------ | --- | --- | ----------------- |
-| 28/06/2022  |1.0|Abertura do documento| [@CorreiaJV](https://github.com/CorreiaJV) |
+| Versão | Data       | Descrição             | Autor       | Revisor           |
+| ------ | ---------- | --------------------- | ----------- | ----------------- |
+| 1.0    | 28/06/2022 | Abertura do documento | João Victor | Mateus Caltabiano |
 
 ## Introdução
 
