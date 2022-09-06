@@ -27,11 +27,14 @@
 
 >RichPicture (imagem 1) do primeiro tema: Latam Airlines. Construido com LucidChart.
 
+<div style="text-align: center">
+Imagem 1: Rich Picture Latam
+</div>
 
 <img class="card-img img-fluid rounded" width="800" height="400" src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-TikTok/main/docs/img/RichPictureLatam.png">
 
 <div style="text-align: center">
-Imagem 1: Rich Picture Latam
+Fonte: Matheus Soares
 </div>
 
 
@@ -48,10 +51,14 @@ Imagem 1: Rich Picture Latam
 
 >RichPicture (imagem 2) do tema atual: TikTok. Construido com LucidChart.
 
+<div style="text-align: center">
+Imagem 2: Rich Picture TikTok
+</div>
+
 <img class="card-img img-fluid rounded" width="800" height="400" src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-TikTok/main/docs/img/RichPictureTikTok.png">
 
 <div style="text-align: center">
-Imagem 2: Rich Picture TikTok
+Fonte: Matheus Soares
 </div>
 
 ## 5. Referências
