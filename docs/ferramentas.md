@@ -8,9 +8,13 @@
 | 1.2    | 06/09/2022 | Adição de novas ferramentas |  Mateus Caltabiano  | Matheus Perillo    |
 
 ## 2. Introdução
-<p> As ferramentas serão softwares utilizados pelo time do projeto para facilitar o gerenciamento, comunicação e desenvolvimento da documentação necessária para o tema utilizado na disciplina. Projeto esse que o foco será a análise de requisitos do aplicativo da Tik Tok </p>
+<p> As ferramentas serão softwares utilizados pelo time do projeto para facilitar o gerenciamento, comunicação e desenvolvimento da documentação necessária para o tema utilizado na disciplina. Projeto esse que o foco será a análise de requisitos do aplicativo TikTok. </p>
 
 ## 3. Ferramentas utilizadas
+
+<div style="text-align: center">
+<p>Tabela 1: Ferramentas utilizadas no projeto</p>
+</div>
 
 |                                                                                         Logo                                                                                         | Ferramenta  | Finalidade                                                                                                                                                                                      |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------:| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -26,7 +30,7 @@
 |     <img class="card-img img-fluid rounded" width="200" height="128" src="https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/img/telegramLogo.png?raw=true">     |  Telegram   | Utilizado para comunicação do grupo com o monitor                                                                                                                                               |
 
 <div style="text-align: center">
-<p>Tabela 6: Ferramentas utilizadas no projeto</p>
+<p>Fonte: Grupo 7</p>
 </div>
 
 ## 4. Referências
