@@ -2,10 +2,10 @@
 
 ## 1. Versionamento
 
-| Versão | Autor             | Alterações                          |
-|:------:| ----------------- | ----------------------------------- |
-|  1.0   | Mateus Caltabiano | Abertura do documento de aplicativos analisados |
-|  1.1   | João Victor Correia | Adição do TikTok|
+| Versão | Data    | Autor               | Descrição                                      | Revisor    |
+|:------:| --- | ------------------- | ----------------------------------------------- | --- |
+|  1.0   | 29/06/2022    | Mateus Caltabiano   | Abertura do documento de aplicativos analisados | João Victor    |
+|  1.1   | -/-/-    | João Victor Correia | Adição do TikTok                                | Mateus Caltabiano    |
 
 ## 2. Aplicativos
 
@@ -26,13 +26,13 @@
 
 &emsp; &emsp; Aplicativo da companhia aérea LATAM para facilitar compras de passagens, visualização de cartão de embarque, informações de voos, entre outros. O problema nele e é que praticamente toda requisição que você faz no aplicativo leva para uma página na Web, então ele apresenta poucas funcionalidades no próprio app e algumas necessitam de uma passagem para ser acessado, o que dificulta a análise do grupo.
 
-### 4. TikTok
+### 5. TikTok
 
 &emsp; &emsp; O TikTok é um dos aplicativos mais famosos recentemente, ganhou muitos usuários no período de pandemia de 2020 até 2022. Com origem chinesa, o aplicativo revolucinou trazendo vídeos curtos de até 30 segundos com algum conteúdo específico. Por ser um aplicativo muito usado atualmente e ser um divisor de opiniões se é bom ou não, o grupo decidiu seguir o projeto com ele para fazer as análises técnicas de requisitos e poder propor uma conclusão. 
 
 ## 3. Referências
 
-Google Play Store - iFood: Pedir Comida e Mercado. Disponível em < https://play.google.com/store/apps/details?id=br.com.brainweb.ifood >. Acesso em: 29/06/2022<br>
-Google Play Store - Cartola Oficial. Disponível em < https://play.google.com/store/apps/details?id=br.com.mobits.cartolafc >. Acesso em: 29/06/2022<br>
-Google Play Store - Smart Fit. Disponível em < https://play.google.com/store/search?q=smart%20fit&c=apps >. Acesso em: 29/06/2022<br>
-Google Play Store - LATAM Airlines.Disponível em < https://play.google.com/store/search?q=latam&c=apps >. Acesso em: 29/06/2022<br>
+>Google Play Store - iFood: Pedir Comida e Mercado. Disponível em < https://play.google.com/store/apps/details?id=br.com.brainweb.ifood >. Acesso em: 29/06/2022<br>
+>Google Play Store - Cartola Oficial. Disponível em < https://play.google.com/store/apps/details?id=br.com.mobits.cartolafc >. Acesso em: 29/06/2022<br>
+>Google Play Store - Smart Fit. Disponível em < https://play.google.com/store/search?q=smart%20fit&c=apps >. Acesso em: 29/06/2022<br>
+>Google Play Store - LATAM Airlines.Disponível em < https://play.google.com/store/search?q=latam&c=apps >. Acesso em: 29/06/2022<br>
