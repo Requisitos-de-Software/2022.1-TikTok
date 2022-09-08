@@ -1,11 +1,9 @@
 # Brainstorm
 ## 1. Versionamento
-| Versão | Autor             | Alterações                         | Revisor|
-|:------:| ----------------- | ---------------------------------- | ------- |
-|  1.0   | Matheus Soares  & Iago Cabral| Reunião de Brainstorm | Joao Victor Correia de Oliveira |
-<div style="text-align: center">
-<p>Tabela 1: Versionamento</p>
-</div>
+| Versão | Data       | Autor                         | Descrição                    | Revisor        |
+|:------:| ---------- | ----------------------------- | ---------------------------- | -------------- |
+|  1.0   | 13/07/2022 | Matheus Soares  & Iago Cabral | Reunião de Brainstorm        | João Victor    |
+| 1.0.1  | 08/09/2022 | Mateus Caltabiano             | Adição de fontes nas tabelas | Matheus Soares |
 
 ## 2. Introdução
 <p style="text-indent: 20px; text-align: justify">
@@ -29,6 +27,11 @@ Reunião: 10/07/2022 - 21:00hrs
 ## 5. Brainstorm
 
 ### 5.1 Requisitos Funcionais
+
+<div style="text-align: center">
+<p>Tabela 1: Requisitos Funcionais</p>
+</div>
+
 | ID    | Requisito | 
 | :-:   | :--------: |
 |     BS01(RF01)      | O aplicativo deve mostrar os vídeos na timeline.                                                                       |
@@ -53,10 +56,15 @@ Reunião: 10/07/2022 - 21:00hrs
 | BS20(RF20) | O usuário deve ser capaz de saber quem visualizou seu perfil.|
 | BS21(RF21) | O usuário deve ser capaz de escutar música.|
 <div style="text-align: center">
-<p>Tabela 2: Requisitos Funcionais</p>
+<p>Fonte: Grupo 7</p>
 </div>
 
 ### 5.2 Requisitos Não-Funcionais
+
+<div style="text-align: center">
+<p>Tabela 2: Requisitos Não Funcionais</p>
+</div>
+
 | ID     | Requisito | 
 | :-:    | :--------: |
 |     BS22(RNF01)      | O aplicativo deve operar em sistemas mobile mais tradicionais(Android/IOS).                                               |
@@ -68,7 +76,7 @@ Reunião: 10/07/2022 - 21:00hrs
 |     BS28(RNF07)     | O app deve ter um design bonito e familiar |
 |BS29(RNF08)| O aplicativo deve suportar multiplataformas.|
 <div style="text-align: center">
-<p>Tabela 3: Requisitos Não Funcionais</p>
+<p>Fonte: Grupo 7</p>
 </div>
 
 ## 6. Referências
