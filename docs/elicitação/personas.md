@@ -25,7 +25,7 @@ Os responsaveis por esse artefato, Pedro Henrique Nogueira e Iago Cabral, ficara
 |     |                                                                                   |               
 |:--- | --------------------------------------------------------------------------------- |
 |**Nome**| Didi Santo Souza |
-|  **Foto**   | <img width="200px" src="https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/img/persona_didi.png?raw=true"><p>Imagem 1 Didi Persona</p> 
+|  **Foto**   | <img width="200px" src="https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/img/persona_didi.png?raw=true"><p>Figura 1 Didi Persona</p> 
 |**Descrição** | Didi Souza, idade de 46 anos, morador de Brasilia.<br> Professor aposentado pela secretaria de educação, especializado em geografia.<br>Homem. <br>Casado e possui um casal de filhos, Sophia e Lucas. <br>Mora na Asa Norte, Brasilia.|
 |**Status** | Persona primária.|
 |**Objetivos**|Didi nunca se deu muito bem com as novas tecnologias, como computador e smartphones, mas durante a pandemia ele se desafiou e começou a aprender como utiliza-los, pois queria interagir mais com seus filhos, que passam muito tempo nos celulares, em especial no Tik Tok. Sendo assim, Didi instalou o tik tok para aprender a usa-lo. Além disso, está a procura de algo que se relaciona com seus gostos na plataforma e videos que ele julga interessantes.|
