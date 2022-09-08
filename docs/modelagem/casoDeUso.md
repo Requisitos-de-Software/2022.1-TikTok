@@ -5,12 +5,12 @@
 <p>Tabela 1: Versionamento</p>
 </div>
 
-| Versão | Autor                                     | Alterações                          | Revisor     |
-|:------:| ----------------------------------------- | ----------------------------------- | ----------- |
-|  1.0   | Matheus Soares  & Pedro Henrique Nogueira | Reunião de formação de caso de uso  | Iago Cabral |
-|  1.1   | Matheus Soares                            | Documentação dos casos de uso e UML | Iago Cabral |
-|  1.2   | Matheus Soares                            | Adição dos UC01 | Iago Cabral |
-| 1.3       |      Pedro Henrique Nogueira                                     |          Adição dos UC02, UC03, UC04 e UC05                            |     Iago Cabral        |
+| Versão | Data       | Autor                                     | Alterações                          | Revisor     |
+|:------:| ---------- | ----------------------------------------- | ----------------------------------- | ----------- |
+|  1.0   | 19/07/2022 | Matheus Soares  & Pedro Henrique Nogueira | Reunião de formação de caso de uso  | Iago Cabral |
+|  1.1   | 19/07/2022 | Matheus Soares                            | Documentação dos casos de uso e UML | Iago Cabral |
+|  1.2   | 19/07/2022 | Matheus Soares                            | Adição dos UC01                     | Iago Cabral |
+|  1.3   | 19/07/2022 | Pedro Henrique Nogueira                   | Adição dos UC02, UC03, UC04 e UC05  | Iago Cabral |
 
 <div style="text-align: center">
 <p>Fonte: Grupo 7</p>
@@ -38,7 +38,7 @@ Por meio do estudo do que foi levantado no processo de elicitação os membros s
 <center>
 
 <div style="text-align: center">
-<p>Imagem 1: Ator</p>
+<p>FIgura 1: Ator</p>
 </div>
 
 <img width="95px" src="https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/img/Actor.png?raw=true">
@@ -55,7 +55,7 @@ Formato oval na horizontal e que representam os diferentes usos que um usuário 
 </p>
 
 <div style="text-align: center">
-<p>Imagem 2: Caso de Uso</p>
+<p>Figura 2: Caso de Uso</p>
 </div>
 
 <center>
@@ -71,7 +71,7 @@ Caixa que define um escopo do sistema para os casos de uso. Todos os casos de us
 </p>
 
 <div style="text-align: center">
-<p>Imagem 3: Caixa de limite do sistema</p>
+<p>Figura 3: Caixa de limite do sistema</p>
 </div>
 
 <center>
@@ -90,7 +90,7 @@ Quando o caso de uso A “inclui” o caso de uso B, significa que sempre que o 
 </p>
 
 <div style="text-align: center">
-<p>Imagem 4: Inclusão</p>
+<p>Figura 4: Inclusão</p>
 </div>
 
 <center>
@@ -109,7 +109,7 @@ Quando o caso de uso B estende o caso de uso A, significa que quando o caso de u
 </p>
 
 <div style="text-align: center">
-<p>Imagem 5: Extensão</p>
+<p>Figura 5: Extensão</p>
 </div>
 
 <center>
@@ -124,7 +124,7 @@ Quando o caso de uso B estende o caso de uso A, significa que quando o caso de u
 ## 4.2. Diagrama UML
 
 <div style="text-align: center">
-<p>Imagem 6: Diagrama UML</p>
+<p>Figura 6: Diagrama UML</p>
 </div>
 
 <center>
@@ -180,7 +180,7 @@ Quando o caso de uso B estende o caso de uso A, significa que quando o caso de u
 
 
 <center>
-    <p>Imagem 7: Icone de enviar vídeo</p>
+    <p>Figura 7: Icone de enviar vídeo</p>
     <img height="350px" width="200" src="https://media.discordapp.net/attachments/744698026462937211/999424128174010398/unknown.png?width=265&height=473">
 
 
@@ -214,7 +214,7 @@ Quando o caso de uso B estende o caso de uso A, significa que quando o caso de u
 
 <center>
 
-<p>Imagem 8: Icone de perfil</p>
+<p>Figura 8: Icone de perfil</p>
 
 <img height="350px" width="200" src="https://media.discordapp.net/attachments/827361619611877407/999434496862597170/unknown.png?width=267&height=473">
 
@@ -236,7 +236,7 @@ Quando o caso de uso B estende o caso de uso A, significa que quando o caso de u
 |     Descrição     | O usuário deve ser capaz  de se comunicar com outros usuarios .                                                                                  |
 |       Ator        | Usuário |
 |   Pré-condições   | Aplicativo instalado, conexão com a internet e estar conectado na sua conta.                                                |
-|  Fluxo Principal  | O usuário após abrir o aplicativo, deverá fazer login e clicar no ícone de caixa de entrada(Imagem 9) e selecionar a conversa que deseja respondem.                                                                            |
+|  Fluxo Principal  | O usuário após abrir o aplicativo, deverá fazer login e clicar no ícone de caixa de entrada (Figura 9) e selecionar a conversa que deseja respondem.                                                                            |
 | Fluxo Alternativo |O usuário pode acessar um perfil da comunidade e enviar uma mensagem direta ou pode enviar mensagens ou vídeos para usuários na sua lista de amigos. |
 |   Pós-condições   | O usuário poderá ver as mensagens que foram enviadas ou recebidas. Caso não tenha conexão com a internet o aplicativo vai se encontrar em idle.|
 |  Rastreabilidade  | RF06 RF12 RF18
@@ -248,7 +248,7 @@ Quando o caso de uso B estende o caso de uso A, significa que quando o caso de u
 </div>
 
 <center>
-   <p>Imagem 9: Icone da caixa de entrada</p>
+   <p>Figura 9: Icone da caixa de entrada</p>
     <img height="350px" width="200" src="https://cdn.discordapp.com/attachments/827361619611877407/999443277176655872/unknown.png">
 
 
@@ -282,6 +282,6 @@ Quando o caso de uso B estende o caso de uso A, significa que quando o caso de u
 
 <hr>
 
-##  Referências
+##  5. Referências
 > - Milene Serrano, Requisitos - Aula 13. Acesso em: 19 de jul. de 2022. Disponível em: Aprender3.
 > -  LUCIDCHART. Diagrama de caso de uso UML: O que é, como fazer e exemplos: por que usar um diagrama uml?. Por que usar um diagrama UML?. 2019. Lucidchart. Disponível em: https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml. Acesso em: 19 jul. 2022.
