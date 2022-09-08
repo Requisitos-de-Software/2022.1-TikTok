@@ -1,10 +1,6 @@
 # Persona
 
-## Versionamento
-
-<div style="text-align: center">
-<p>Tabela 1: Versionamento</p>
-</div>
+## 1. Versionamento
 
 | Versão | Data | Modificação | Autor | Revisor |
 |-|-|:-:|:-:|:-:|
@@ -12,29 +8,24 @@
 | 1.1 | 13/07/2022 | Adição de mais personas ao projeto | Pedro Henrique Nogueira| Mateus Caltabiano |
 | 1.2 | 31/08/2022 | Atualização da metodologia | Pedro Henrique Nogueira | Mateus Caltabiano | 
 | 1.3 | 31/08/2022 | Adição das fontes nas tabelas | Pedro Henrique Noguiera | Iago Cabral |
-<div style="text-align: center">
-<p>Fonte: Grupo 7</p>
-</div>
 
-# Personas
-
-## 1. Introdução
+## 2. Introdução
   Este é um método de elicitação muito utilizado, inclusive existem metodologias de projeto guiadas por personas. São pessoas fictícias criadas pelos desenvolvedores e projetistas de sistemas, para representar os usuários importantes para guiar a elicitação de requisitos e funcionalidades. São de muita valia, pois criam uma percepção tangível dos usuários para os envolvidos no desenvolvimento do software. Os usuários se tornam menos abstratos e genéricos. É também uma importante ferramenta de síntese de ideias, de forma que o nome de uma persona já evoca, na mente dos desenvolvedores, todas as necessidades e objetivos ligados àquela persona. Determinamos de inicio, as persona primárias e a anti-persona.
 
-## 2. Metodologia
+## 3. Metodologia
 Os responsaveis por esse artefato, Pedro Henrique Nogueira e Iago Cabral, ficaram responsaveis por criar personas que retratariam os usuarios mais comuns do TikTok. A partir desses requisitos, buscamos as personas básicas que mais utilizariam esses requisitos. As personas foram detalhadas, com suas histórias, necessidades e objetivos. Pode parecer algo inútil em um primeiro momento, mas é muito importante para criar uma imagem vívida da persona para os designers e estabelcer requistos de forma precisa. Todas as imagens utilizadas nesse artefato foram retiradas do site This Person Doest Not Exist, um site que utiliza de inteligencia atificial para criar imagens sem copyright.
 
-## 3. Personas
+## 4. Personas
 
-### 3.1 Didi Santo Souza
+### 4.1 Didi Santo Souza
 <div style="text-align: center">
-<p>Tabela 2: Persona 1</p>
+<p>Tabela 1: Persona 1</p>
 </div>
 
 |     |                                                                                   |               
 |:--- | --------------------------------------------------------------------------------- |
 |**Nome**| Didi Santo Souza |
-|  **Foto**   | <img width="200px" src="https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/img/persona_didi.png?raw=true"><p>Figura 1 Didi Persona</p> 
+|  **Foto**   | <img width="200px" src="https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/img/persona_didi.png?raw=true"><p>Imagem 1 Didi Persona</p> 
 |**Descrição** | Didi Souza, idade de 46 anos, morador de Brasilia.<br> Professor aposentado pela secretaria de educação, especializado em geografia.<br>Homem. <br>Casado e possui um casal de filhos, Sophia e Lucas. <br>Mora na Asa Norte, Brasilia.|
 |**Status** | Persona primária.|
 |**Objetivos**|Didi nunca se deu muito bem com as novas tecnologias, como computador e smartphones, mas durante a pandemia ele se desafiou e começou a aprender como utiliza-los, pois queria interagir mais com seus filhos, que passam muito tempo nos celulares, em especial no Tik Tok. Sendo assim, Didi instalou o tik tok para aprender a usa-lo. Além disso, está a procura de algo que se relaciona com seus gostos na plataforma e videos que ele julga interessantes.|
@@ -48,11 +39,11 @@ Os responsaveis por esse artefato, Pedro Henrique Nogueira e Iago Cabral, ficara
 <p>Fonte: Iago Cabral</p>
 </div>
 
-### 3.2 Karen Patricia
+### 4.2 Karen Patricia
 
 
 <div style="text-align: center">
-<p>Tabela 3: Anti-persona</p>
+<p>Tabela 2: Anti-persona</p>
 </div>
 
 |     |                                                                                   |               
@@ -72,10 +63,10 @@ Os responsaveis por esse artefato, Pedro Henrique Nogueira e Iago Cabral, ficara
 <p>Fonte: Iago Cabral</p>
 </div>
 
-### 3.3 Lucas Bertti
+### 4.3 Lucas Bertti
 
 <div style="text-align: center">
-<p>Tabela 4: Persona 2</p>
+<p>Tabela 3: Persona 2</p>
 </div>
 
 |     |                                                                                   |               
@@ -95,10 +86,10 @@ Os responsaveis por esse artefato, Pedro Henrique Nogueira e Iago Cabral, ficara
 <p>Fonte: Pedro Henrique Nogueira</p>
 </div>
 
-### 3.4 Jade Picon
+### 4.4 Jade Picon
 
 <div style="text-align: center">
-<p>Tabela 5: Persona 3</p>
+<p>Tabela 4: Persona 3</p>
 </div>
 
 
@@ -121,9 +112,10 @@ Os responsaveis por esse artefato, Pedro Henrique Nogueira e Iago Cabral, ficara
 <p>Fonte: Pedro Henrique Nogueira</p>
 </div>
 
-## 4. Referências
+## 5. Referências
 
 > This Person Doest Not Exist. Acesso em: 10 de jul. de 2022. . Disponível em: https://thispersondoesnotexist.com <br>
+>
 > TikTok.  Acesso em: 04 de jul. de 2022. Disponível em: https://www.tiktok.com<br>
 
 
