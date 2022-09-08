@@ -1,9 +1,9 @@
 # First Things First
 ## 1. Versionamento
 
-| Versão | Autor                                     | Alterações                          | Revisor     |
-|:------:| ----------------------------------------- | ----------------------------------- | ----------- |
-|  1.0  | Matheus Soares | Elaboração do documento de priorização First Things First | Mateus Caltabiano |
+| Versão | Data    | Autor          | Alterações                                                | Revisor           |
+|:------:| --- | -------------- | --------------------------------------------------------- | ----------------- |
+|  1.0   | 31/08/2022    | Matheus Soares | Elaboração do documento de priorização First Things First | Mateus Caltabiano |
 
 ## 2. Introdução
 <p style="text-indent: 20px; text-align: justify">
