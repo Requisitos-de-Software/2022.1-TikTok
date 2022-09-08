@@ -4,20 +4,20 @@
 
 
 
-| Versão | Autor             | Alterações                         | Revisor         |
-| ------ | ----------------- | ---------------------------------- | --------------- |
-| 1.0    | Mateus Caltabiano | Abertura do documento de cenários  | Matheus Perillo |
-| 1.1    | Mateus Caltabiano | Adição do cenário 01               | Matheus Perillo |
-| 1.2    | Mateus Caltabiano | Adição do cenário 02               | Matheus Perillo |
-| 1.3    | Mateus Caltabiano | Adição do cenário 03               | Matheus Perillo |
-| 1.4    | Mateus Caltabiano | Adição do cenário 04               | Matheus Perillo |
-| 1.4.1  | Mateus Caltabiano | Adição de revisor no versionamento | Matheus Perillo |
-| 1.5    | Mateus Caltabiano | Adição do cenário 05               | Matheus Perillo |
-| 1.6    | Mateus Caltabiano | Adição do cenário 06               | Matheus Perillo |
-| 1.7    | Mateus Caltabiano | Adição do cenário 07               | Matheus Perillo |   
-| 1.8    | Mateus Caltabiano | Adição do cenário 08               | Matheus Perillo |
-| 1.9    | Mateus Caltabiano | Adição do cenário 09               | Matheus Perillo |
-| 1.10    | Mateus Caltabiano | Adição do cenário 10               | Matheus Perillo |
+| Versão | Data       | Autor             | Alterações                         | Revisor         |
+| ------ | ---------- | ----------------- | ---------------------------------- | --------------- |
+| 1.0    | 19/07/2022 | Mateus Caltabiano | Abertura do documento de cenários  | Matheus Perillo |
+| 1.1    | 19/07/2022 | Mateus Caltabiano | Adição do cenário 01               | Matheus Perillo |
+| 1.2    | 19/07/2022 | Mateus Caltabiano | Adição do cenário 02               | Matheus Perillo |
+| 1.3    | 19/07/2022 | Mateus Caltabiano | Adição do cenário 03               | Matheus Perillo |
+| 1.4    | 19/07/2022 | Mateus Caltabiano | Adição do cenário 04               | Matheus Perillo |
+| 1.4.1  | 19/07/2022 | Mateus Caltabiano | Adição de revisor no versionamento | Matheus Perillo |
+| 1.5    | 19/07/2022 | Mateus Caltabiano | Adição do cenário 05               | Matheus Perillo |
+| 1.6    | 19/07/2022 | Mateus Caltabiano | Adição do cenário 06               | Matheus Perillo |
+| 1.7    | 19/07/2022 | Mateus Caltabiano | Adição do cenário 07               | Matheus Perillo |
+| 1.8    | 19/07/2022 | Mateus Caltabiano | Adição do cenário 08               | Matheus Perillo |
+| 1.9    | 19/07/2022 | Mateus Caltabiano | Adição do cenário 09               | Matheus Perillo |
+| 1.10   | 19/07/2022 | Mateus Caltabiano | Adição do cenário 10               | Matheus Perillo |
 
 ## 2. Introdução
 
@@ -28,6 +28,10 @@
 &emsp;&emsp;Foi definido um template para ser utilizado na definição de cada cenário com o intuito de deixar o documento padronizado. Apresentaremos os cenários de alguns dos requisitos funcionais definidos como "Must" em nossa priorização.
 
 ## 4. Template
+
+<div style="text-align: center">
+<p>Tabela 1: Template para os cenários</p>
+</div>
 
 ### Cenário XX
 
@@ -42,11 +46,15 @@
 | Restrição | Descrição das restrições |
 | Exceção   | Descrição das exceções   |
 
-<p style="margin-top: -25px; font-size: 15px; margin-left: 160px">
-    Tabela 1: Template para os cenários
-</p>
+<div style="text-align: center">
+<p>Fonte: Mateus Caltabiano</p>
+</div>
 
 ## 5. Cenários
+
+<div style="text-align: center">
+<p>Tabela 2: Cenário 01</p>
+</div>
 
 ### Cenário 01
 
@@ -61,11 +69,15 @@
 | Restrição | Celular estar com bateria<br>Usuário quer assistir TikTok<br>Celular estar funcionando |
 | Exceção   | Celular sem bateria<br>Celular cai no chão<br>Celular sem conexão com a internet       |
 
-<p style="margin-top: -25px; font-size: 15px; margin-left: 160px">
-    Tabela 2: Cenário 01
-</p>
+<div style="text-align: center">
+<p>Fonte: Mateus Caltabiano</p>
+</div>
 
 ### Cenário 02
+
+<div style="text-align: center">
+<p>Tabela 3: Cenário 02</p>
+</div>
 
 | Abstração | Descrição                                                                                                                                   |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -78,11 +90,15 @@
 | Restrição | Usuário saber o que pesquisar<br>Algoritmo de busca encontrar vídeos relacionados<br>Celular estar com bateria<br>Celular estar funcionando |
 | Exceção   | Celular sem conexão com a internet                                                                                                          |
 
-<p style="margin-top: -25px; font-size: 15px; margin-left: 160px">
-    Tabela 3: Cenário 02
-</p>
+<div style="text-align: center">
+<p>Fonte: Mateus Caltabiano</p>
+</div>
 
 ### Cenário 03
+
+<div style="text-align: center">
+<p>Tabela 4: Cenário 03</p>
+</div>
 
 | Abstração | Descrição                                                                                                                                     |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -95,11 +111,15 @@
 | Restrição | Criador de conteúdo gostar do vídeo<br>Celular estar com bateria<br>Celular estar funcionando                                                 |
 | Exceção   | TikTok bloquear o vídeo<br>Vídeo ser mais longo do que o suportado<br>Celular sem conexão com a internet                                      |
 
-<p style="margin-top: -25px; font-size: 15px; margin-left: 160px">
-    Tabela 4: Cenário 03
-</p>
+<div style="text-align: center">
+<p>Fonte: Mateus Caltabiano</p>
+</div>
 
 ### Cenário 04
+
+<div style="text-align: center">
+<p>Tabela 5: Cenário 04</p>
+</div>
 
 | Abstração | Descrição                                                                                                |
 | --------- | -------------------------------------------------------------------------------------------------------- |
@@ -112,11 +132,15 @@
 | Restrição | Vídeo ser interessante<br>Celular estar com bateria<br>Celular estar funcionando                         |
 | Exceção   | Celular quebrar<br>Usuário mudar de opinião sobre o vídeo<br>Celular sem conexão com a internet          |
 
-<p style="margin-top: -25px; font-size: 15px; margin-left: 160px">
-    Tabela 5: Cenário 04
-</p>
+<div style="text-align: center">
+<p>Fonte: Mateus Caltabiano</p>
+</div>
 
 ### Cenário 05
+
+<div style="text-align: center">
+<p>Tabela 6: Cenário 05</p>
+</div>
 
 | Abstração | Descrição                                                                                       |
 | --------- | ----------------------------------------------------------------------------------------------- |
@@ -129,11 +153,15 @@
 | Restrição | Celular estar com bateria<br>Celular estar funcionando                                          |
 | Exceção   | Usuário mudar de ideia sobre o vídeo<br>Vídeo ser apagado<br>Celular sem conexão com a internet |
 
-<p style="margin-top: -25px; font-size: 15px; margin-left: 160px">
-    Tabela 6: Cenário 05
-</p>
+<div style="text-align: center">
+<p>Fonte: Mateus Caltabiano</p>
+</div>
 
 ### Cenário 06
+
+<div style="text-align: center">
+<p>Tabela 7: Cenário 06</p>
+</div>
 
 | Abstração | Descrição                |
 | --------- | ------------------------ |
@@ -146,11 +174,15 @@
 | Restrição | Celular estar com bateria<br>Celular estar funcionando<br>Usuário não gostar do conteúdo |
 | Exceção   | Celular quebrar<br>Usuário não se importar em ver o conteúdo de novo<br>Usuário gostar do conteúdo   |
 
-<p style="margin-top: -25px; font-size: 15px; margin-left: 160px">
-    Tabela 7: Cenário 06
-</p>
+<div style="text-align: center">
+<p>Fonte: Mateus Caltabiano</p>
+</div>
 
 ### Cenário 07
+
+<div style="text-align: center">
+<p>Tabela 8: Cenário 07</p>
+</div>
 
 | Abstração | Descrição                                                                                                                                                                                     |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -163,11 +195,15 @@
 | Restrição | Celular estar funcionando<br>Celular estar com bateria<br>Caso usuário: Possuir um perfil                                                                                                     |
 | Exceção   | Preguiça de alterar a informação errada<br>Ocorrer um erro em algum campo de alteração do perfil<br>TikTok não permitir a edição por alguma parte do perfil violar as políticas do aplicativo |
 
-<p style="margin-top: -25px; font-size: 15px; margin-left: 160px">
-    Tabela 8: Cenário 07
-</p>
+<div style="text-align: center">
+<p>Fonte: Mateus Caltabiano</p>
+</div>
 
 ### Cenário 08
+
+<div style="text-align: center">
+<p>Tabela 9: Cenário 08</p>
+</div>
 
 | Abstração | Descrição                                                                                                                                                                 |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -180,11 +216,15 @@
 | Restrição | Celular estar funcionando<br>Celular estar com bateria<br>Criador de conteúdo ter ao menos um vídeo postado no perfil<br>Vídeos do perfil terem ao menos uma visualização |
 | Exceção   | Vídeos listados como privados<br>TikTok excluir o vídeo por ferir a política do aplicativo                                                                                |
 
-<p style="margin-top: -25px; font-size: 15px; margin-left: 160px">
-    Tabela 9: Cenário 08
-</p>
+<div style="text-align: center">
+<p>Fonte: Mateus Caltabiano</p>
+</div>
 
 ### Cenário 09
+
+<div style="text-align: center">
+<p>Tabela 10: Cenário 09</p>
+</div>
 
 | Abstração | Descrição                                                                                  |
 | --------- | ------------------------------------------------------------------------------------------ |
@@ -197,11 +237,15 @@
 | Restrição | Usuário querer passar o vídeo<br>Usuário continuar utilizando o aplicativo                 |
 | Exceção   | Internet cair<br>Usuário fechar o aplicativo<br>Celular travar                             |
 
-<p style="margin-top: -25px; font-size: 15px; margin-left: 160px">
-    Tabela 10: Cenário 09
-</p>
+<div style="text-align: center">
+<p>Fonte: Mateus Caltabiano</p>
+</div>
 
 ### Cenário 10
+
+<div style="text-align: center">
+<p>Tabela 11: Cenário 10</p>
+</div>
 
 | Abstração | Descrição                |
 | --------- | ------------------------ |
@@ -214,9 +258,9 @@
 | Restrição | Celular estar funcionando<br>Celular estar com bateria<br>Criador de conteúdo ter postado um vídeo |
 | Exceção   | Usuário ter vergonha de comentar<br>Criador de conteúdo apagar o comentário do usuário   |
 
-<p style="margin-top: -25px; font-size: 15px; margin-left: 160px">
-    Tabela 11: Cenário 10
-</p>
+<div style="text-align: center">
+<p>Fonte: Mateus Caltabiano</p>
+</div>
 
 ## 6. Referências
 
