@@ -1,6 +1,6 @@
 # Especificação suplementar
 
-##  Versionamento
+##  1. Versionamento
 
 | Versão |    Data    |       Modificação        |        Autor         | Revisor |
 | :----: | :--------: | :----------------------: | :------------------: | :--------: |
@@ -9,13 +9,13 @@
 |  1.2  | 19/07/2022 | Explicação da metodologia | Matheus Perillo | Matheus Soares |
 |  1.3  | 20/07/2022 | Adição da especificação suplementar| Matheus Perillo | Matheus Soares |
 
-## 1. Introdução
+## 2. Introdução
 
 <p style=" text-align: justify">
 &emsp; O objetivo deste documento é explicitar os requisitos não funcionais do aplicativo TikTok, pegando todos aqueles requisitos que não foram facilmente capturados pelo Caso de uso. Dessa forma, em conjunto com a modelagem de Casos de uso definir todos os requisitos da aplicação.
 </p>
 
-## 2. Metodologia
+## 3. Metodologia
 
 <p style=" text-align: justify">
 &emsp; Este documento utilizou o sistema FURPS+ para definir os requisitos. Esse sistema tem como objetivo classificar os requisitos de acordo com os atributos de qualidade de software. O acrônimo representa as possíveis categorias para os requisitos, são elas:
@@ -64,9 +64,9 @@
 </ul>
 </div>
 
-## 3. Especificação suplementar
+## 4. Especificação suplementar
 
-### 3.1 Funcionalidades
+### 4.1 Funcionalidades
 
 <div style="text-align: justify">
 
@@ -74,7 +74,11 @@
 
 </div>
 
-### 3.2 Usabilidade
+<div style="text-align: center">
+<p>Tabela 1: Requisitos de usabilidade</p>
+</div>
+
+### 4.2 Usabilidade
 
 | Identificador | Descrição   |
 | :----: | :--------: |
@@ -87,13 +91,15 @@
 |  `ES07`  | O usuário deve ser capaz de comentar nos vídeos |
 |  `ES08`  | O usuário deve ser capaz de compartilhar vídeos. |
 
+<div style="text-align: center">
+<p>Fonte: Matheus Perillo</p>
+</div>
 
+### 4.3 Confiabilidade
 
-<p>
-    Tabela 1: Requisitos de Usabilidade.
-</p>
-
-### 3.3 Confiabilidade
+<div style="text-align: center">
+<p>Tabela 2: Requisitos de confiabilidade</p>
+</div>
 
 | Identificador | Descrição   |
 | :----: | :--------: |
@@ -104,11 +110,15 @@
 |  `ES13`  | O usuário deve ser capaz de sinalizar o faixa etária de seu conteúdo. |
 |  `ES14`  | O usuário deve ser capaz de sacar o dinheiro das visualizações. |
 
-<p>
-    Tabela 2: Requisitos de Confiabilidade.
-</p>
+<div style="text-align: center">
+<p>Fonte: Matheus Perillo</p>
+</div>
 
-### 3.4 Desempenho
+### 4.4 Desempenho
+
+<div style="text-align: center">
+<p>Tabela 3: Requisitos de desempenho</p>
+</div>
 
 | Identificador | Descrição   |
 | :----: | :--------: |
@@ -117,11 +127,15 @@
 |  `ES17`  | O aplicativo deve ter boa performace nos aparelhos com SO (ANDROID/IOS). |
 |  `ES18`  | O app deve ser otimizado para a experiência mobile. |
 
-<p>
-    Tabela 3: Requisitos de Desempenho.
-</p>
+<div style="text-align: center">
+<p>Fonte: Matheus Perillo</p>
+</div>
 
-### 3.5 Suportabilidade
+### 4.5 Suportabilidade
+
+<div style="text-align: center">
+<p>Tabela 4: Requisitos de suportabilidade</p>
+</div>
 
 | Identificador | Descrição   |
 | :----: | :--------: |
@@ -129,11 +143,15 @@
 |  `ES20`  | O aplicativo deve operar em sistemas mobile mais tradicionais(Android/IOS). |
 |  `ES21`  | O aplicativo deve suportar mais 1 bilhão de usuários simultâneos.
 
-<p>
-    Tabela 4: Requisitos de Suportabilidade.
-</p>
+<div style="text-align: center">
+<p>Fonte: Mateus Perillo</p>
+</div>
 
-### 3.6 Design
+### 4.6 Design
+
+<div style="text-align: center">
+<p>Tabela 5: Requisitos de design</p>
+</div>
 
 | Identificador | Descrição   |
 | :----: | :--------: |
@@ -142,32 +160,44 @@
 |  `ES24`  | O app deve ter um design bonito e familiar |
 |  `ES25`  | Os vídeos devem possuir boa qualidade. |
 
-<p>
-    Tabela 5: Requisitos de Design.
-</p>
+<div style="text-align: center">
+<p>Fonte: Matheus Perillo</p>
+</div>
 
-### 3.7 Implementação
+### 4.7 Implementação
+
+<div style="text-align: center">
+<p>Tabela 6: Requisitos de impementação</p>
+</div>
 
 | Identificador | Descrição   |
 | :----: | :--------: |
 |  `ES26`  | O aplicativo deve ser compatível com os sistemas Android e IOS |
 |  `ES27`  | Deve ser possível limpar o cache do aplicativo |
 
-<p>
-    Tabela 6: Requisitos de Implementação.
-</p>
+<div style="text-align: center">
+<p>Fonte: Matheus Perillo</p>
+</div>
 
-### 3.8 Interface
+### 4.8 Interface
+
+<div style="text-align: center">
+<p>Tabela 7: Requisitos de interface</p>
+</div>
 
 | Identificador | Descrição   |
 | :----: | :--------: |
 |  `ES28`  | A interface dos diferentes componentes devem seguir o mesmo padrão para não confundir o usuário |
 
-<p>
-    Tabela 7: Requisitos de Interface.
-</p>
+<div style="text-align: center">
+<p>Fonte: Matheus Perillo</p>
+</div>
 
-### 3.9 Físico
+### 4.9 Físico
+
+<div style="text-align: center">
+<p>Tabela 1: Requisitos de físico</p>
+</div>
 
 | Identificador | Descrição   |
 | :----: | :--------: |
@@ -175,12 +205,12 @@
 |  `ES30`  | O dispositivo IOS deve estar em uma versão 10.0 ou posterior |
 |  `ES31`  | O dispositivo computador deve ser Windows 10 em uma versão 19041.0 ou posterior |
 
-<p>
-    Tabela 8: Requisitos de Físico.
-</p>
+<div style="text-align: center">
+<p>Fonte: Matheus Perillo</p>
+</div>
 
-## Referências bibliográficas
+## 5. Referências
 
 > GAMBLE, S. Example: Supplementary Specification. [S. l.]: Pace University, 21 dez. 1998. Disponível em: <https://csis.pace.edu/~marchese/SE616_New/Samples/Example%20%20Supplementary%20Specification.htm>. Acesso em: 19 jul. 2022.'
-
+>
 > Samily Rocha Gois: Especificação Suplementar, 27 out. 2012. Disponível em: <https://aprender3.unb.br/pluginfile.php/2124482/mod_resource/content/1/Especificacao_Suplementar_Exemplo.pdf>. Acesso em: 19 jul. 2022.'
