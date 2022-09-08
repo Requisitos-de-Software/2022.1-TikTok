@@ -2,12 +2,10 @@
 
 ## 1. Versionamento
 
-| Versão | Autor             | Alterações                          | Revisor |
-| ------ | ----------------- | ----------------------------------- | ------- |
-| 1.0    | Mateus Caltabiano | Abertura do documento de entrevista | Matheus Soares |
-<div style="text-align: center">
-<p>Tabela 1: Versionamento</p>
-</div>
+| Versão | Data       | Autor             | Alterações                                          | Revisor        |
+| ------ | ---------- | ----------------- | --------------------------------------------------- | -------------- |
+| 1.0    | 12/07/2022 | Mateus Caltabiano | Abertura do documento de entrevista                 | Matheus Soares |
+| 1.1    | 08/09/2022 | Mateus Caltabiano | Adição de dados da entrevistada e fonte nas tabelas | Matheus Soares |
 
 ## 2. Introdução
 
@@ -25,15 +23,32 @@
 
 &emsp; &emsp; Entrevistamos uma usuária que tem completo domínio do aplicativo e o utiliza diariamente para entretenimento. A princípio, o script abaixo foi feito para uma entrevista fechada, mas ao longo do tempo pensei em maneiras de explorar melhor as perguntas e busquei respostas mais detalhadas da usuária.
 
+<div style="text-align: center">
+<p>Tabela 1: Dados da entrevista</p>
+</div>
 
 | Entrevistador     | Entrevistado    | Duração | Data       |
 | ----------------- | --------------- | ------- | ---------- |
 | Mateus Caltabiano | Mariana Alencar |   3 minutos      | 12/07/2022 |
 <div style="text-align: center">
-<p>Tabela 2: Dados da entrevista</p>
+<p>Fonte: Grupo 7</p>
 </div>
 
-### Perguntas
+### 3.1 Dados da entrevistada
+
+<div style="text-align: center">
+<p>Tabela 2: Dados da entrevistada</p>
+</div>
+
+| Nome            | Idade   | Gênero   | Ocupação  | Cidade/Estado |
+| --------------- | ------- | -------- | --------- | ------------- |
+| Mariana Alencar | 18 anos | Feminino | Estudante | Brasília/DF   |
+
+<div style="text-align: center">
+<p>Fonte: Grupo 7</p>
+</div>
+
+### 3.2 Perguntas
 
 1.  Por qual motivo você utiliza o TikTok?
 2.  Quanto tempo você costuma passar diariamente no aplicativo?
@@ -46,70 +61,70 @@
 9.  Você encontra alguma dificuldade ao utilizar o aplicativo?
 10.  Consegue pensar em alguma coisa que possa ser melhorada no aplicativo?
 
-### Respostas
+### 3.3 Respostas
 
-1. Por qual motivo você utiliza o TikTok?
+1. Por qual motivo você utiliza o TikTok?<br></br>
     
-    "Eu uso para entretenimento"
+    "Eu uso para entretenimento"<br></br>
 
-2. Quanto tempo você costuma passar diariamente no aplicativo?
+2. Quanto tempo você costuma passar diariamente no aplicativo?<br></br>
     
-    "Diariamente? Uma hora, uma hora e meia"
-3. Como o aplicativo te traz entretenimento?
+    "Diariamente? Uma hora, uma hora e meia"<br></br>
+3. Como o aplicativo te traz entretenimento?<br></br>
     
-    "Ah, quando estou entediada ele me diverte". 
+    "Ah, quando estou entediada ele me diverte". <br></br>
 
-    Logo após pergunto: "No seu dia a dia, quais as horas que você mais costuma abrir o TikTok? Por exemplo se está fazendo alguma coisa você usa de plano de fundo ou usa apenas para assistir TikTok?" 
+    Logo após, pergunto: "No seu dia a dia, quais as horas que você mais costuma abrir o TikTok? Por exemplo se está fazendo alguma coisa você usa de plano de fundo ou usa apenas para assistir TikTok?"<br></br> 
 
-    Resposta: "Quando estou fazendo outra coisa também".
+    Resposta: "Quando estou fazendo outra coisa também".<br></br>
 
-    Pergunto: "Então os dois?" 
+    Pergunto: "Então os dois?" <br></br>
 
-    Resposta: "Os dois."
-4. Que funcionalidade do aplicativo você utiliza mais?
+    Resposta: "Os dois."<br></br>
+4. Que funcionalidade do aplicativo você utiliza mais?<br></br>
 
-    "A página principal, vídeos recomendados"
-5. Que funcionalidade do aplicativo você utiliza menos?
+    "A página principal, vídeos recomendados"<br></br>
+5. Que funcionalidade do aplicativo você utiliza menos?<br></br>
 
-    "A parte de amigos, que colocaram na última atualização"
-6. Você cria vídeos na plataforma?
+    "A parte de amigos, que colocaram na última atualização"<br></br>
+6. Você cria vídeos na plataforma?<br></br>
 
-    "Crio, mas não posto"
+    "Crio, mas não posto"<br></br>
 
-    Pergunto: "Então você grava os vídeos, usando efeitos, mas nunca posta no seu perfil"
+    Pergunto: "Então você grava os vídeos, usando efeitos, mas nunca posta no seu perfil"<br></br>
 
-    Resposta: "É, exatamente"
-7. Como você utiliza o chat do TikTok?
+    Resposta: "É, exatamente"<br></br>
+7. Como você utiliza o chat do TikTok?<br></br>
 
-    "Eu uso para enviar os vídeos que eu gosto para as pessoas"
+    "Eu uso para enviar os vídeos que eu gosto para as pessoas"<br></br>
 
-    Pergunto: "Você costuma utilizar como um chat mesmo para conversar?"
+    Pergunto: "Você costuma utilizar como um chat mesmo para conversar?"<br></br>
     
-    Resposta: "Não, só para enviar vídeos"
-8. Com que frequência você costuma curtir e/ou comentar vídeos?
+    Resposta: "Não, só para enviar vídeos"<br></br>
+8. Com que frequência você costuma curtir e/ou comentar vídeos?<br></br>
 
-    "Sempre"
+    "Sempre"<br></br>
 
-    Pergunto: "Até os que você não gosta?"
+    Pergunto: "Até os que você não gosta?"<br></br>
     
-    Resposta: "Não, só os que eu gosto"
+    Resposta: "Não, só os que eu gosto"<br></br>
     
-    Pergunto: "E comentar? É na mesma frequência?"
+    Pergunto: "E comentar? É na mesma frequência?"<br></br>
     
-    Resposta: "Bem menos"
+    Resposta: "Bem menos"<br></br>
     
-    Pergunto: "Por que você comenta nos vídeos?"
+    Pergunto: "Por que você comenta nos vídeos?"<br></br>
     
-    Resposta: "Porque eu gosto dos vídeos"
-9. Você encontra alguma dificuldade ao utilizar o aplicativo?
+    Resposta: "Porque eu gosto dos vídeos"<br></br>
+9. Você encontra alguma dificuldade ao utilizar o aplicativo?<br></br>
 
-    "Não"
+    "Não"<br></br>
 
-    Pergunto: "Tem alguma coisa que te incomoda no aplicativo? Alguma coisa que poderia ser retirada?"
+    Pergunto: "Tem alguma coisa que te incomoda no aplicativo? Alguma coisa que poderia ser retirada?"<br></br>
 
-    Resposta: "Poderia ser retirada a parte de amigos (Feed onde só aparecem vídeos de amigos), que falei"
+    Resposta: "Poderia ser retirada a parte de amigos (Feed onde só aparecem vídeos de amigos), que falei"<br></br>
 
-10. Consegue pensar em alguma coisa que possa ser melhorada no aplicativo?
+10. Consegue pensar em alguma coisa que possa ser melhorada no aplicativo?<br></br>
 
     "Acho que poderia ter uma opção de reproduzir os vídeos automaticamente, sem precisar passar manualmente, porque as vezes, igual falei, fico vendo enquanto faço outra coisa e tenho que parar de fazer essa outra coisa para passar o vídeo, então poderia ter a opção de passar sozinho"
 
@@ -119,6 +134,10 @@
 
 * ENT: Entrevista
 * RF: Requisito Funcional
+
+<div style="text-align: center">
+<p>Tabela 3: Tabela de requisitos elicitados</p>
+</div>
 
 | ID    | Descrição                                                     | Tipo  |
 | ----- | ------------------------------------------------------------- | ----- |
@@ -131,7 +150,7 @@
 | ENT07 | Deve ser possível passar vídeos automaticamente               | RF07  |
 | ENT08 | O aplicativo deve impedir que a tela bloqueie automaticamente | RNF01 |
 <div style="text-align: center">
-<p>Tabela 3: Tabela de requisitos elicitados</p>
+<p>Fonte: Grupo 7</p>
 </div>
 
 ## 5. Referências
