@@ -1,8 +1,10 @@
 # 
 
-  <center>
-  <img width="700" src="https://t.ctcdn.com.br/LlCIGVqm3EqYg5DBnCiHeDhw9Vw=/61x33:1179x662/1118x629/smart/i370243.jpeg" align="center">
+ <center>
+  <img width="475" src="https://t.ctcdn.com.br/LlCIGVqm3EqYg5DBnCiHeDhw9Vw=/61x33:1179x662/1118x629/smart/i370243.jpeg" align-self="center">
   </center>
+ 
+ <br>
  
 ## Sobre o Projeto.
 
