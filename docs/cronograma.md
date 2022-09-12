@@ -14,6 +14,7 @@
 |  1.5   | 04/08/2022    | Mateus Caltabiano | Adição do detalhamento da Sprint 4  |  Iago Cabral       |
 |  1.6   | 30/08/2022    | Mateus Caltabiano | Adição do detalhamento da Sprint 6  |  Matheus Perillo       |
 |  1.7   | 30/08/2022    | Mateus Caltabiano | Adição do detalhamento da Sprint 7  |  Matheus Perillo       |
+|  1.8   | 12/09/2022    | Mateus Caltabiano | Adição do detalhamento da Sprint 8  |  João Victor      |
 
 ## 2. Introdução
 
@@ -201,6 +202,59 @@
 | #63   | Elaboração do artefato forward from               | Iago Cabral, Mateus Caltabiano, Pedro Henrique | 23/08   | João Victor       | 24/08   |
 | #64   | Gravação de tela                                  | Mateus Caltabiano                              | 24/08   | Pedro Henrique    | 24/08   |
 | #65   | Adicionar vídeos no artefato                      | Mateus Caltabiano, Pedro Henrique              | 24/08   | Matheus Soares    | 24/08   |
+
+### Sprint 8
+
+| Início | Fim   |
+| ------ | ----- |
+| 25/08  | 12/09 |
+
+<p>Tabela 13: Cronograma da Sprint 8 </p>
+<br>
+
+| Issue | Título                                                                            | Responsáveis      | Entrega | Revisores         | Revisão |
+| ----- | --------------------------------------------------------------------------------- | ----------------- | ------- | ----------------- | ------- |
+| #67   | Atualização de cronograma - sprint 6                                              | Mateus Caltabiano | 30/08   | Matheus Perillo   | 31/08   |
+| #68   | Atualização de cronograma - sprint 7                                              | Mateus Caltabiano | 30/08   | Matheus Perillo   | 31/08   |
+| #69   | Verificação do documento de personas                                              | Mateus Caltabiano | 30/08   | João Victor       | 31/08   |
+| #70   | Criação do Documento de Verificação do Product Backlog                            | Pedro Henrique    | 31/08   | Iago Cabral       | 01/09   |
+| #71   | Correção do artefato de personas                                                  | Pedro Henrique    | 31/08   | Iago Cabral       | 01/09   |
+| #72   | Criação de outro documento de priorização (First Things First)                    | Matheus Soares    | 31/08   | Mateus Caltabiano | 01/09   |
+| #73   | Adição de novas ferramentas no documento de ferramentas                           | Mateus Caltabiano | 06/09   | Matheus Perillo   | 07/09   |
+| #74   | Correção do artefato de Caso de Uso                                               | Pedro Henrique    | 06/09   | Matheus Soares    | 07/09   |
+| #75   | Atualizar versionamento do cronograma                                             | Mateus Caltabiano | 06/09   | Matheus Perillo   | 07/09   |
+| #76   | Atualizar versionamento do documento de metodologia                               | Mateus Caltabiano | 06/07   | João Victor       | 07/09   |
+| #77   | Atualizar versionamento no documento de rich picture                              | Mateus Caltabiano | 06/07   | Matheus Soares    | 07/09   |
+| #78   | Padronizar documento de aplicativos analisados                                    | Mateus Caltabiano | 06/09   | João Victor       | 07/09   |
+| #79   | Padronizar documento de brainstorm                                                | Mateus Caltabiano | 08/09   | Matheus Soares    | 09/09   |
+| #80   | Padronizar documento de entrevista                                                | Mateus Caltabiano | 08/09   | Matheus Soares    | 09/09   |
+| #81   | Padronização do documento de priorização FTF                                      | Mateus Caltabiano | 08/09   | Matheus Soares    | 09/09   |
+| #82   | Padronização do documento de personas                                             | Mateus Caltabiano | 08/09   | Pedro Henrique    | 09/09   |
+| #83   | Padronizar documento de priorização                                               | Mateus Caltabiano | 08/09   | Iago Cabral       | 09/09   |
+| #84   | Padronizar documento de storytelling                                              | Mateus Caltabiano | 08/09   | João Victor       | 09/09   |
+| #85   | Padronização do artefato de casos de uso                                          | Mateus Caltabiano | 08/09   | Pedro Henrique    | 09/09   |
+| #86   | Padronização do documento de cenários                                             | Mateus Caltabiano | 08/09   | Matheus Perillo   | 09/09   |
+| #87   | Padronização do documento de especificação suplementar                            | Mateus Caltabiano | 08/09   | Matheus Perillo   | 09/09   |
+| #88   | Abertura do documento de priorização In or Out                                    | Mateus Caltabiano | 10/09   | João Victor       | 11/09   |
+| #89   | Adicionar vídeo no artefato de priorização in or out                              | Mateus Caltabiano | 12/09   | João Victor       | 12/09   |
+| #90   | Abertura do documento de priorização three-level scale                            | Mateus Caltabiano | 12/09   | Matheus Soares    | 12/09   |
+| #91   | Criar tabela com as ferramentas                                                   | Matheus Perillo   | 12/09   | João Victor       | 12/09   |
+| #92   | Documento de Apresentação Final - Etapas do Projeto                               | João Victor       | 12/09   | Matheus Soares    | 12/09   |
+| #93   | Explicação do Aplicativo Escolhido                                                | Pedro Henrique    | 12/09   | Iago Cabral       | 12/09   |
+| #94   | Gravação Apresentação final                                                       | Todos             | 12/09   | N/A               | N/A     |
+| #95   | Resultados Encontrados com o Projeto                                              | Pedro Henrique    | 12/09   | Iago Cabral       | 12/09   |
+| #96   | Adicionar demonstração da RF-24                                                   | Pedro Henrique    | 12/09   | João Victor       | 12/09   |
+| #97   | Criação da tabela de artefatos com seus respectivos autores, técnicas e revisores | Matheus Soares    | 12/09   | Iago Cabral       | 12/09   |
+| #98   | Atualização do documento de verificação léxicos                                   | Pedro Henrique    | 12/09   | João Victor       | 12/09   |
+| #99   | Atualização do documento de verificação do RichPicture                            | Pedro Henrique    | 12/09   | Iago Cabral       | 12/09   |
+| #100  | Conclusão final do projeto                                                        | Iago Cabral       | 12/09   | Pedro Henrique    | 12/09   |
+| #101     |    Adição do detalhamento da sprint final                                                                               |   Mateus Caltabiano                |    12/09     |      João Victor             |  12/09       |
+
+<p>Fonte: Mateus Caltabiano </p>
+<br>
+
+<p>Fonte: Mateus Caltabiano </p>
+<br>
 
 ## 5. Referências
 >DE SALES, André. Plano de ensino -- Requisitos de Software -- 01/2022. Aprender3, 2022. Disponível em: < https://aprender3.unb.br/pluginfile.php/2124392/mod_resource/content/19/Plano_de_Ensino%20RE%20202201%20Turma%202.pdf > . Acesso em: 28/06/2022
