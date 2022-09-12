@@ -9,7 +9,7 @@
 | Versão | Autor | Alterações | Revisor    |
 | ------ | ----- | ---------- | --- |
 | 1.0   | Pedro Henrique Nogueira  | Criação do Documento |  Matheus Soares   |
-
+| 1.1   | Pedro Henrique Nogueira  | Atualização  |  Matheus Soares   |
 
 
 
@@ -63,6 +63,44 @@ Para detecção de defeitos elaborou-se um checklist com a própria ferramenta M
 <center>
 
 <img src="https://cdn.discordapp.com/attachments/744698026462937211/1009588119756091433/unknown.png"> </img>
+
+</center>
+
+<p style="text-indent: 20px; text-align: center">Fonte: Grupo 7</p>
+
+### 4.1.2 Detecção de Defeitos
+
+Para detecção de defeitos elaborou-se um checklist com a própria ferramenta Mkdown.
+
+<p style="text-indent: 20px; text-align: center">Tabela 4: Lista de Checagem 2</p>
+
+| Codigo |                     Item                      | Total | Sim | Não | Ocorrência de Erros | Tipos de erro |            Pontos a serem ajustados             |
+|:------:|:---------------------------------------------:|:-----:|:---:|:---:|:-------------------:|:-------------:|:-----------------------------------------------:|
+|          1          | Possui versionamento com versão, descrição, autor e revisor?           | 1| 1| 0| 0%| | |
+|          2          | Possui introdução?                                                     | 1| 1| 0| 0%| | |
+|          3          | Possui explicação da metodologia?                                      | 1| 1| 0| 0%| | |
+|          4          | Possui referências bibliográficas?                                     | 1| 1| 0| 0%| | |
+|          5          | As referências estão citadas no artefato?                              | 1| 0| 1| 100%| Omissão | Citar referências no artefato |
+|          6          | Possui legenda nas tabelas e figuras?                                  | 23| 0| 23| 100%| Omissão | Adicionar legenda as tabelas |
+|          7          | Possui fonte nas tabelas e figuras?                                    | 23| 0| 23| 100%| Omissão | Adicionar fonte as tabelas|
+|          8          | Há registro do processo?                                               | 1| 1| 0| 0%| | |
+|   9    |    	Os léxicos possuem nome, noção, classificação, impactos e sinônimos?      |   21   |  21  |  0  |        0.00%        |      ---      |                       ---                       |
+|   10    |        	Os léxicos possuem nome e noção coerentes entre si?   |   21   |  21  |  0  |        0.00%        |      ---      |                       ---                       |            ---                       |
+|   11   |        	A noção de cada léxico está clara e define o que é o simbolo(denotação)?       |   21   |  21  |  0  |        0.00%        |      ---      |                       ---                       |
+|   12   | Os símbolos estão devidamente classificados (sujeito, objeto, verbo, estado)?  |   21   |  21  |  0  |        0.00%        |      ---      |                       ---                       |
+|   13   | Os impactos descrevem o efeito, uso ou coerência do símbolo no sistema ou efeito de algo na aplicação sobre o símbolo?           |   21   |  21  |  0  |        0.00%        |      ---      |                       ---                       |
+|   14   | Os léxicos quando necessário, possuem sinônimos?    |   21   |  21  |  0  |        0.00%        |      ---      |                       ---                       |
+|   15   |  Os léxicos possuem ligações entre si ?   |   21   |  0  |  21  |       100.00%        |      Defeito de omição     |                Adicionar HyperLex aos Léxicos         |
+|   16   |	Os Léxicos estão descritos em linguagem natural para uma comunicação saudável entre os stakeholders?|   21   |  21  |  0  |        0.00%        |      ---      |                       ---                       |
+|   17   | 	Possui rastro?  |   21   |  0  |  21  |       100.00%        |      Defeito de omição     |                Adicionar rastros         |
+
+<p style="text-indent: 20px; text-align: center">Fonte: Grupo 7</p>
+
+<p style="text-indent: 20px; text-align: center">Gráfico 2: Ocorrência de Erros </p>
+
+<center>
+
+<img src="https://cdn.discordapp.com/attachments/744698026462937211/1019018284735139941/unknown.png"> </img>
 
 </center>
 
