@@ -9,7 +9,7 @@
 | Versão | Autor | Alterações | Revisor    |
 | ------ | ----- | ---------- | --- |
 | 1.0   | Pedro Henrique Nogueira  | Criação do Documento |  Iago de Paula   |
-
+| 1.1   | Pedro Henrique Nogueira  | Nova tabela e grafico|  Iago de Paula   |
 
 
 
