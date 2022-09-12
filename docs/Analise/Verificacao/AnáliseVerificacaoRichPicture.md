@@ -9,7 +9,7 @@
 | Versão | Autor | Alterações | Revisor    |
 | ------ | ----- | ---------- | --- |
 | 1.0   | Pedro Henrique Nogueira  | Criação do Documento |  Iago de Paula   |
-
+| 1.1   | Pedro Henrique Nogueira  | Nova tabela e grafico|  Iago de Paula   |
 
 
 
@@ -66,6 +66,50 @@ Para detecção de defeitos elaborou-se um checklist com a própria ferramenta M
 </center>
 
 <p style="text-indent: 20px; text-align: center">Fonte: Grupo 7</p>
+
+
+### 4.1.2
+
+
+Para detecção de defeitos elaborou-se um checklist com a própria ferramenta Mkdown.
+
+<p style="text-indent: 20px; text-align: center">Tabela 3: Lista de Checagem</p>
+
+
+| Codigo |                     Item                      | Total | Sim | Não | Ocorrência de Erros | Tipos de erro |            Pontos a serem ajustados             |
+|:------:|:---------------------------------------------:|:-----:|:---:|:---:|:-------------------:|:-------------:|:-----------------------------------------------:|
+|          1          | Possui versionamento com versão, descrição, autor e revisor?           | 1| 1| 0| 0%| | |
+|          2          | Possui introdução?                                                     | 1| 1| 0| 0%| | |
+|          3          | Possui explicação da metodologia?                                      | 1| 1| 0| 0%| | |
+|          4          | Possui referências bibliográficas?                                     | 1| 1| 0| 0%| | |
+|          5          | As referências estão citadas no artefato?                              | 1| 0| 1| 100%| Omissão | Citar referências no artefato |
+|          6          | Possui legenda nas tabelas e figuras?                                  | 1| 1|0| 0%|  |  |
+|          7          | Possui fonte nas tabelas e figuras?                                    | 1| 1| 0| 0%|  | |
+|          8          | Há registro do processo?                                               | 1| 1| 0| 0%| | |
+|   9    |     Mostra as funcionalidades principais      |   1   |  1  |  0  |        0.00%        |      ---      |                       ---                       |
+|   10    |        Possui elemento em foco central        |   1   |  1  |  0  |        0.00%        |      ---      |                       ---                       |
+|   11   |         Possui uma fácil visualização         |   1   |  1  |  0  |        0.00%        |      ---      |                       ---                       |
+|   12   | Possui descrição para os símbolos utilizados  |   1   |  1  |  0  |        0.00%        |      ---      |                       ---                       |
+|   13   |            Inclui todos os atores             |   1   |  1  |  0  |        0.00%        |      ---      |                       ---                       |
+|   14   |   Possui o fluxo completo para um processo    |   1   |  1  |  0  |        0.00%        |      ---      |                       ---                       |
+|   15   | Possui motivo para o autor utilizar o sistema |   1   |  1  |  0  |        0.00%        |      ---      |                       ---                       |
+|   16   | Possui descrição para os processos nas setas  |   1   |  0  |  1  |       100.00%       |  Defeito de omissão   | Adicionar descrição para os processos nas setas |
+
+<p style="text-indent: 20px; text-align: center">Fonte: Grupo 7</p>
+
+
+<p style="text-indent: 20px; text-align: center">Gráfico 1: Ocorrência de Erros </p>
+
+<center>
+
+<img src="https://cdn.discordapp.com/attachments/744698026462937211/1019023714777563136/unknown.png"> </img>
+
+</center>
+
+<p style="text-indent: 20px; text-align: center">Fonte: Grupo 7</p>
+
+
+
 
 ### 4.2 Correção de defeitos
 <p style="text-indent: 20px; text-align: justify">
