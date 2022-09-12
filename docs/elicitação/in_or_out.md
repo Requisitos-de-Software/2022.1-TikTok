@@ -5,6 +5,7 @@
 | Versão | Data       | Autor             | Descrição             | Revisor     |
 | ------ | ---------- | ----------------- | --------------------- | ----------- |
 | 1.0    | 10/09/2022 | Mateus Caltabiano | Abertura do documento | João Victor |
+| 1.1   | 12/09/2022 | Mateus Caltabiano | Adição do vídeo da priorização | João Victor |
 
 ## 2. Introdução
 
@@ -83,6 +84,20 @@
 </div>
 
 ## 5. Vídeo
+
+<div style="text-align: center">
+Vídeo 1: Entrevista de priorização
+</div>
+
+<center>
+
+<iframe width="711" height="400" src="https://youtu.be/RDg1HCKJbVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+
+<div style="text-align: center">
+Fonte: Grupo 7
+</div>
 
 ## 6. Referências
 
