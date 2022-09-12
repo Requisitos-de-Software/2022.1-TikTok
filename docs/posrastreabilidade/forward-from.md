@@ -138,7 +138,7 @@
 |        Épico        |  Interação |
 |       Feature       | Visualizar métricas |
 | História de Usuário | [US10](https://requisitos-de-software.github.io/2022.1-TikTok/product-backlog/) |
-|   Demonstração    |  Video |
+|   Demonstração    |  [Imagem](https://discord.com/channels/744698025867214950/744698026462937211/1019010713416634468) e [Imagem2](https://media.discordapp.net/attachments/744698026462937211/1019010732043550770/unknown.png?width=380&height=676) |
 
 <a id="RF27">**RF27**</a>
 
