@@ -73,7 +73,7 @@ Para detecção de defeitos elaborou-se um checklist com a própria ferramenta M
 
 Para detecção de defeitos elaborou-se um checklist com a própria ferramenta Mkdown.
 
-<p style="text-indent: 20px; text-align: center">Tabela 3: Lista de Checagem</p>
+<p style="text-indent: 20px; text-align: center">Tabela 4: Lista de Checagem 2</p>
 
 
 | Codigo |                     Item                      | Total | Sim | Não | Ocorrência de Erros | Tipos de erro |            Pontos a serem ajustados             |
@@ -98,7 +98,7 @@ Para detecção de defeitos elaborou-se um checklist com a própria ferramenta M
 <p style="text-indent: 20px; text-align: center">Fonte: Grupo 7</p>
 
 
-<p style="text-indent: 20px; text-align: center">Gráfico 1: Ocorrência de Erros </p>
+<p style="text-indent: 20px; text-align: center">Gráfico 2: Ocorrência de Erros </p>
 
 <center>
 
