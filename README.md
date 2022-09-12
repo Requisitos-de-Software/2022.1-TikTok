@@ -1,6 +1,8 @@
-#  
+# 
+
+  <center>
   <img width="700" src="https://t.ctcdn.com.br/LlCIGVqm3EqYg5DBnCiHeDhw9Vw=/61x33:1179x662/1118x629/smart/i370243.jpeg" align="center">
-</p>
+  </center>
  
 ## Sobre o Projeto.
 
