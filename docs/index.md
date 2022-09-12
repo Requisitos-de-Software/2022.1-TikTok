@@ -1,15 +1,16 @@
 #  
-<center> ![Latam logo](https://github.com/Requisitos-de-Software/2022.1-LATAM-Airlines/blob/main/docs/img/latam_site_logo.png?raw=true)</center>
+  <img width="400" src="https://t.ctcdn.com.br/LlCIGVqm3EqYg5DBnCiHeDhw9Vw=/61x33:1179x662/1118x629/smart/i370243.jpeg" align="center">
+</p>
  
-## <span style=>Sobre o Projeto</span>.
+## Sobre o Projeto.
 
- Repositório destinado ao desenvolvimento do trabalho da disciplina Requisitos de Software na Universidade de Brasília - Faculdade do Gama (UnB - FGA). Nele estará mantido todo o processo de desenvolvimento da disciplina, como gerência(pré-rastreabilidade, pós-rastreabilidade), elicitação, modelagem e análise. O aplicativo escolhido foi o LATAM Airliness, o qual será estudado e analisado conforme as métricas indicadas pela matéria.
+ Repositório destinado ao desenvolvimento do trabalho da disciplina Requisitos de Software na Universidade de Brasília - Faculdade do Gama (UnB - FGA). Nele estará mantido todo o processo de desenvolvimento da disciplina, como gerência(pré-rastreabilidade, pós-rastreabilidade), elicitação, modelagem e análise. O aplicativo escolhido foi o TikTok, o qual será estudado e analisado conforme as métricas indicadas pela matéria.
   
-## <span style=>O que é a Latam.</span>  
+## O que é TikTok.
  
- LATAM Airlines Brasil, anteriormente TAM Linhas Aéreas, é uma companhia aérea sediada em São Paulo, atualmente considerada a maior empresa do segmento do Brasil. Faz parte da LATAM Airlines Group, uma holding chileno-brasileira com atuação também na Argentina, Colômbia, Equador, Paraguai e Peru. Desde o dia 5 de maio de 2016 a companhia adotou a marca LATAM Airlines como última fase da fusão da TAM com a chilena LAN.
+ TikTok, antigamente conhecido como musica.ly,  é um aplicativo de mídia para criar e compartilhar vídeos curtos . De propriedade da companhia de tecnologia chinesa ByteDance, o aplicativo de mídia foi lançado como Douyin na China em setembro de 2016, e introduzido no mercado internacional como musical.ly um ano depois, porém em novembro de 2017 o TikTok comprou o Musical.ly. O aplicativo ganhou popularidade global no final de 2018 e começo de 2019.
 
-## <span style=>Desenvolvedores.🤝</span>
+## Desenvolvedores.🤝
 
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
     <tbody><tr>
@@ -20,14 +21,6 @@
         <td align="center"><a href="https://github.com/iagocabral"><img onmouseover="opaqImg(this)" onmouseout="normalImg(this)" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/iagocabral" alt="" width="250px;"><br><sub><b>Iago de Paula Cabral</b></sub></a><br><a href="https://github.com/iagocabral"></a></td>
         <td align="center"><a href="https://github.com/MatheusPerillo"><img onmouseover="opaqImg(this)" onmouseout="normalImg(this)" style="border-radius: 50%; opacity: 1;" src="https://avatars.githubusercontent.com/MatheusPerillo" alt="" width="200px;"><br><sub><b>Matheus Moreira Lopes Perillo</b></sub></a><br><a href="https://github.com/MatheusPerillo"></a></td>      
     </tr> 
-    <script>
-    function opaqImg(x) {
-        x.style.opacity = "50%";
-    }
-    function normalImg(x) {
-        x.style.opacity = "100%";
-    }
-    </script>
 </tbody></table></div></div>
  
       
